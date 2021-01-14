@@ -1,6 +1,4 @@
 DefaultContentLanguage = "en"
-contentDir = "content"
-dataDir = "data"
 baseURL = "https://www.centcolschallenge.com/"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 enableRobotsTXT = true
@@ -23,6 +21,14 @@ quality = 90
   [[module.mounts]]
     source = "assets"
     target = "assets"
+    
+  [[module.mounts]]
+  source = "content"
+  target = "content"
+
+[[module.mounts]]
+source = "data"
+target = "data"
 
   [[module.mounts]]
     source = "node_modules/macy/dist/macy.js"
