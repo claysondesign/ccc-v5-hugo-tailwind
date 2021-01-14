@@ -25,4 +25,4 @@ quality = 90
 
   [[module.mounts]]
     source = "node_modules/macy/dist/macy.js"
-    target = "assets/js/dist/macy.js"
+    target = "assets/node_modules/macy.js"
