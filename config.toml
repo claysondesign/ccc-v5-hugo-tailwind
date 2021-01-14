@@ -16,6 +16,9 @@ quality = 90
 # https://discourse.gohugo.io/t/importing-js-from-node-packages/23545/3
 [module]
 
+[[module.mounts]]
+  source = "static"
+  target = "static"
 
   [[module.mounts]]
     source = "assets"
@@ -23,4 +26,4 @@ quality = 90
 
   [[module.mounts]]
     source = "node_modules/macy/dist/macy.js"
-    target = "./assets/js/macy.js"
+    target = "assets/js/macy.js"
