@@ -20,7 +20,6 @@
   {{ block "footerextra" . }}
   {{ end }}
 
-
 {{ $menuconfig := resources.Get "js/menu.js" }}
 {{ $concatjs := slice $menuconfig | resources.Concat "js/bundle.js" | resources.Minify }}
 {{ $secureJS := $concatjs | resources.Fingerprint "sha512" }}
