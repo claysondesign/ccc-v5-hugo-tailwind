@@ -1,0 +1,45 @@
+---
+label: Postcard
+hide_body: false
+fields:
+- type: text
+  name: Title
+  label: Postcard Title
+  description: Main title for the page
+- type: textarea
+  name: description
+  label: Description
+  config:
+    wysiwyg: false
+    schema:
+      format: markdown
+- type: textarea
+  name: postcard_summary
+  label: Postcard summary
+  description: This is the text that appears on the homepage
+  hidden: false
+- type: tag_list
+  name: tags
+  label: Tags
+- type: file
+  name: postcard_image
+  label: Postcard Image
+  hidden: false
+- type: datetime
+  name: date
+  label: Date
+  config:
+    date_format: DD/MM/YYYY
+  hidden: false
+- type: text
+  name: postcard_image_alt
+  label: Postcard image alt
+  description: Description for the image
+- type: text
+  name: subhead
+  label: Subhead
+pages:
+- content/postcards/65RIDE post.md
+- content/postcards/January Light through the trees.md
+- content/postcards/Missing the CCC riders.....md
+- content/postcards/Riders Rewards.md

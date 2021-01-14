@@ -1,0 +1,88 @@
+---
+enable: false
+stages:
+- Stage: Stage One
+  Locations: Grenoble to Belley
+  Stats: 176 KM / 5200 M
+  Mainclimbs: Porte, Granier, Epine, Mont du Chat
+  Description: The Chartreuse stage, with special views over the Lac du Bourget. Big
+    climbing from km 2, this stage sets the flavour for the whole event. After the
+    Classic Climb up to the Granier the stage explores lesser known roads, culminating
+    with the formidable Mont du Chat (reputedly one of the hardest treasures in the
+    Alpine cupboard).
+- Stage: Stage Two
+  Locations: Belley to Annecy
+  Stats: 194 KM / 5100 M
+  Mainclimbs: Richemond, La Biche, Grand Colombier, Semnoz
+  Description: A transition stage from the demanding climbs of the Ain region, including
+    the Grand Colombier which many have called the toughest of the whole event in
+    the past, to the gateway of the High Alps. The Semnoz climb provides the final
+    to this tough stage but the first view of Mont Blanc from it’s summit sweep away
+    the pain effectively!
+- Stage: Stage Three
+  Locations: Annecy to Albertville
+  Stats: 179 KM / 5050 M
+  Mainclimbs: Plan Bois, Croix Fry, Saisies, Arpettaz
+  Description: From the shores of Lake Annecy we climb to the Forclaz summit to savour
+    one of the most reputed Alpine views. Severe climbs follow in rapid succession,
+    the Plan Bois being amost Pyrenean in character as we wind our way to Albertville.
+    The Arpettaz climb repeatedly ‘steals’ this stage. You wil see why….
+- Stage: Stage Four
+  Locations: Albertville to Bourg St Maurice
+  Stats: 140 KM / 4350 M
+  Mainclimbs: Pré, Cormet de Roseland, La Rosiere, Petit St Bernard
+  Description: The shortest stage but packed with quality. From the unkown Col de
+    Cyclotouristes, to the beauty of the Cormet de Roseland and on to the Petit St
+    Bernard, via La Rosiere ( both featured in the Tour 2018) , this stage is again
+    full of Alpine Best !
+- Stage: Stage Five
+  Locations: Bourg St Maurice to Cesana Torinese
+  Stats: 182 KM / 5510 M
+  Mainclimbs: Iseran, Mont Cenis, Finestre, Sestriere
+  Description: Perhaps the Queen Stage of the event, with the mighty Iseran opening
+    the way to Italy via Mont Cenis, before our gravel treat of the event - the formidable
+    Colle di Finestre. The descent to the foot of the final Setriere climb affords
+    some more spectacular scenery to ensure one of the most memorable Alpine stages
+    possible!
+- Stage: REST DAY
+  Locations: Cesana Torinese
+  Description: REAL Italian pizza and gelato here we come !
+- Stage: Stage Six
+  Locations: Cesana Torinese - Gap
+  Stats: 190 KM / 4,500 M
+  Mainclimbs: Col d'Izoard, Sainte-Apollinaire, Mont Colombis
+  Description: Another Italian-Franco stage, and one which promises a mix of the classics
+    and unknown gems. The Izoard is always a special treat, but the latter part of
+    the route with the views over the Lac de Serre-Poncon, and then the Mont Colombis
+    will leave an impression equally as lasting.
+- Stage: Stage Seven
+  Locations: Gap - Alpe d'Huez
+  Stats: 202 KM / 5,800 M
+  Mainclimbs: Col du Noyer, Moissiere, Parquetout, Ornon, Solude, Alpe d’Huez
+  Description: After an early loop around the hills north of Gap, we head up onto
+    the Devoluy Plateau via the Col du Noyer. The rolling roads that follow eventually
+    bring us to the Col d'Ornon, from where we end the stage with a dramatic duo of
+    the little-known Solude climb and the old favourite that is the Alpe d'Huez.
+- Stage: Stage Eight
+  Locations: Alpe d'Huez Loop
+  Stats: 207 KM / 6,100 M
+  Mainclimbs: Col de Glandon, Croix de Fer, Galibier, Sarenne
+  Description: The CCC version of the Marmotte Cyclo-sportive route, with more kilometres
+    & more climbs, including a lesser-ridden loop behind St Michel de Maurienne, as
+    well as the Col de Sarenne.
+- Stage: Stage Nine
+  Locations: Alpe - Vassieux-en-Vercors
+  Stats: 194 KM / 3,700 M
+  Mainclimbs: Col de la Morte, Menée, Rousset
+  Description: The Col de Morte opens the penultimate day’s climbing before we head
+    into the Drome and then the Vercors for some more fun. Steady rather than steep
+    climbs mark this stage, typified by the final long but gentle climb up to the
+    Col de Rousset.
+- Stage: Stage Ten
+  Locations: Vassieux - Grenoble
+  Stats: 172 KM / 3,500 M
+  Mainclimbs: Col de Chalimont, Machine, Pra l’Etang
+  Description: The drama of the Vercors roads provide a fitting way to end this event.
+    The Combe Laval / Col de la Machine section is often quoted as one of the most
+    impressive roads in France and, followed by the Pra l’Etang, you’ll never forget
+    this Northern Alps grand finale.

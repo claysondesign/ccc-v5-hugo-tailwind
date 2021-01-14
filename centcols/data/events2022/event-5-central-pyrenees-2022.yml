@@ -1,0 +1,130 @@
+---
+event_title: 'EVENT 5: Pyrenees & Basque Country'
+event_date: ''
+enable: true
+stages:
+- Stage: Stage 41
+  Locations: Tarbes &ndash; A-Gazost
+  Stats: 190kms / 4600m
+  Mainclimbs: Croix Blanche, Spandelles, Hautacam ( Tramassel)
+  Description: 'A gentle-ish intro via the foothills around Lourdes leads us back
+    into the heart of the Pyrenees, the stage ending with the superb duet of Spandelles
+    and Hautacam. These two very contrasting climbs enclose the charming town of Argeles-Gazost,
+    our destination for the night. Many ''new'' CCC roads here since we have time
+    to explore the lesser ridden part of this area. '
+  stage_image: "/images/img_8011-1.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Red
+  background_image: ''
+- Stage: Stage 42
+  Locations: A Gazost &ndash; Oloron
+  Stats: 206kms / 6030m
+  Mainclimbs: Courade, Tourmalet, Luz-Ardiden, Aubisque, Marie Blanque
+  Description: 'Part One of the "Triple Crown" of the Pyrenees. Three very tough stages
+    to take in the Very Best of this wonderful range of mountains. The "Old Daddy"
+    of them all had to appear : perhaps THE Tour de France climb.'
+  stage_image: "/images/img_3861.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Red
+  background_image: ''
+- Stage: Stage 43
+  Locations: Oloron &ndash; Esterencuby
+  Stats: 188kms / 5600m
+  Mainclimbs: Pierre St Martin, Port Larrau, Bagargui, Arnosteguy
+  Description: 'Now we enter the Basque Country, with a short section in Spain. Rolling
+    skylines hide some of the toughest and steepest road climbs of the Pyrenees. This
+    is Wild. Beautiful. Peaceful. Timeless. '
+  stage_image: "/images/img_3655-copie.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Transparent
+  background_image: ''
+- Stage: Stage 44
+  Locations: Esterencuby &ndash; Esterencuby
+  Stats: 125kms / 5300m
+  Mainclimbs: Too many unpronounceable Basque names !
+  Description: Perhaps a shorter stage than usual, , but this stage could prove to
+    be the hardest of all 65 stages. Every climb is an exercise in 'HC Basque Steepness'.
+    One comfort will be that this loop stage allows us a second night at a quite unique
+    family hotel in the Middle of Nowhere!
+  stage_image: "/images/thumb_dsc05362_1024.jpg"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Transparent
+  background_image: ''
+- Stage: Stage 45
+  Locations: Esterencuby &ndash; San Sebastian
+  Stats: 215kms / 4560m
+  Mainclimbs: Legarre, Ibardin, Lizarrieta, Erretxeko Lepoa
+  Description: 'A welcome rolling stage with less ultra-steep. An exploration of the
+    Basque hills around St Jean Pied de Port before we head into the Spanish part
+    of this wonderful Basque area. '
+  stage_image: "/images/thumb_dsc05004_1024.jpg"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Transparent
+  background_image: ''
+- Stage: Stage 46
+  Locations: San Sebastian &ndash; San Sebastian
+  Stats: 187kms / 4000m
+  Mainclimbs: Ezkurra, Arritxulegi, Elurretxeko
+  Description: 'A new version of this Loop stage from the CCC W Pyrenees : many new
+    climbs but the song remains the same. Steep, narrow, quiet, rural, dramatic, intimate,
+    intense. The next four stages will complete our Basque Bashing. '
+  stage_image: "/images/img_3615-copie.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
+- Stage: Stage 47
+  Locations: St Lary &ndash; A Gazost
+  Stats: ''
+  Mainclimbs: ''
+  Description: ''
+  stage_image: ''
+  stage_map: ''
+  make_public: false
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
+- Stage: Stage 48
+  Locations: A Gazost &ndash; Oloron
+  Stats: ''
+  Mainclimbs: ''
+  Description: ''
+  stage_image: ''
+  stage_map: ''
+  make_public: false
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
+- Stage: Stage 49
+  Locations: Oloron &ndash; Esterencuby
+  Stats: ''
+  Mainclimbs: ''
+  Description: ''
+  stage_image: ''
+  stage_map: ''
+  make_public: false
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
+- Stage: Stage 50
+  Locations: Esterencuby &ndash; Pamplona
+  Stats: ''
+  Mainclimbs: ''
+  Description: ''
+  stage_image: ''
+  stage_map: ''
+  make_public: false
+  stage_image_alt: ''
+  theme: White
+  background_image: ''

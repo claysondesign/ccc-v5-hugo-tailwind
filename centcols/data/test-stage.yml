@@ -1,0 +1,13 @@
+---
+enable: false
+stages:
+- Stage: Test Stage 1
+  Locations: Loc
+  Stats: "1123"
+  Mainclimbs: Long Compton
+  stage_image: "/images/IMG_20200106_114604529.jpg"
+  stage_map: '<iframe src="https://ridewithgps.com/embeds?type=route&id=31523637&metricUnits=true"
+    style="width: 1px; min-width: 100%; height: 550px; border: none;" scrolling="no"></iframe>'
+  Description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Quisque dignissim.
+    Nam scelerisque massa in justo. Maecenas fermentum, nulla vitae consequat gravida,
+    tortor mauris venenatis sem, sed tincidunt purus diam ac libero.

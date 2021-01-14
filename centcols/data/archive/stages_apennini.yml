@@ -1,0 +1,86 @@
+---
+enable: false
+stages:
+- Stage: Stage One
+  Locations: Lucca - Castiglione dei Pepoli
+  Stats: 207 KM / 5300 M
+  Mainclimbs: Passo Lucese, Monte Baldorie, Passo San Pellegrino, Passo Zanchetto
+  Description: Opening the parcours on the forgotten roads north of Lucca, today takes
+    in the northernmost part of Tuscany. The infamous Passo San Pellegrino — with
+    several 18% ramps — is the days hardest challenge, and brings us in to Emilia-Romagna
+    for the latter part of the ride.
+- Stage: Stage Two
+  Locations: Castiglione - Pieve Santa Stefano
+  Stats: 207 KM / 4460 M
+  Mainclimbs: Passo Tavianella, Passo Tre Faggi, Passo Fangacci, Monte Calla, Passo
+    Pratelle
+  Description: After a relatively gentle start, with a rare 25km flat section, we
+    climb into the glorious, remote Casentinesi Forest National Park. A combination
+    of ancient forests and gravel climbs characterise this untouched part of central
+    Italy.
+- Stage: Stage Three
+  Locations: Pieve Santa Stefano – Cagli
+  Stats: 175 KM / 4500 M
+  Mainclimbs: Passo Braccina, Passo Viamaggio, Monte Carpegna, Monte Nerone, Monte
+    Petrano
+  Description: Arriving in the Marche region, we start with the charismatic Monte
+    Carpegna,where ‘Il Pirata’, loved to train. Monte Nerone leads to a beautiful
+    plateau populated by wild horses, before scaling the gravel of Monte Petrano earns
+    us a perfectly tarmaced final descent.
+- Stage: Stage Four
+  Locations: Cagli - Sarnano
+  Stats: 187 KM / 4300 M
+  Mainclimbs: Monte Catria, Passo Croce, Passo Fiastra, Passo Maria Maddalena
+  Description: Another wild stage in the Marche region, with a mix of densely wooded
+    valleys, rocky gorges, and rolling roads with only occasional signs of human activity.
+    After a day characterised by shorter climbs, the stage ends with an epic 16km
+    climb over the Passo Maria Maddalena.
+- Stage: Stage Five
+  Locations: Sarnano - Popoli
+  Stats: 236 KM / 4600 M
+  Mainclimbs: Passo San Marco, Vado di Sole
+  Description: The longest stage of the challenge, we enter Abbruzo, a region still
+    scarred by recent earthquakes. The 28km climb up to the beauty and grandeur of
+    Gran Sasso National Park, which includes the highest mountain in the Apennines,
+    is the longest of the trip.
+- Stage: REST DAY
+  Locations: Popoli
+  Description: 10 minute walk into the historic town of Popoli
+- Stage: Stage Six
+  Locations: Popoli - Villetta Barrea
+  Stats: 202 KM / 4900 M
+  Mainclimbs: Blockhaus, Colle Macine, Passo del Forchetta, Colle Pescocostanzo
+  Description: The mighty Blockhaus climb dominates this stage. Tackled by its toughest
+    side, it also affords the best views of the Abbruzzu hills to one side and the
+    Adriatic Sea on the other. Our stage ends on the shore of the largest lake of
+    the Abruzzo region, Lago Barrea, after a final climb, naturally!
+- Stage: Stage Seven
+  Locations: Villetta Barrea - L'Aquila
+  Stats: 181 KM / 3400 M
+  Mainclimbs: Colle Godi, Cocullo, Frascara, Passo Barisciano, Monte Cristo
+  Description: Having touched the southernmost point of our route, we ride north through
+    gorges, around lakes and passing through small towns. Today’s route ends by climbing
+    back in to the Gran Sasso National Park, heading over the barren plateau of the
+    Monte Cristo.
+- Stage: Stage Eight
+  Locations: Aquila - Todi
+  Stats: 195 KM / 3700 M
+  Mainclimbs: Monte Terminillo, Passo Polino, Passo Macerino, Cittadella Todi
+  Description: Leaving the rugged terrain of Ambruzzi behind, today’s route winds
+    through Lazio and Umbria. Quiet roads, woodlands and smooth tarmac characterise
+    the riding. The latter part of the day takes in a 4km section of the renown Strade
+    Bianchi before ending in the medieval hilltop town of Todi.
+- Stage: Stage Nine
+  Locations: Todi - Siena
+  Stats: 226 KM / 4300 M
+  Mainclimbs: Passo Monaldesca, Passo Radicofani, Monte Amiata, Passo Lume Spento
+  Description: This long stage brings us to the cypress-lined gravel roads of Tuscany.
+    Whilst the surface may be uneven, the climbs are long, shaded and steady.
+- Stage: Stage Ten
+  Locations: Siena - Lucca
+  Stats: 193 KM / 3300 M
+  Mainclimbs: Monteluco, Petroso, Montaione, Prato Cerogiola, Colle di Calci
+  Description: The formidable Monteluco climb is too good to miss, even though it
+    adds distance to our final stage. A couple of gravel sections are mixed in with
+    rolling valley roads before we end with a 12km climb to an incredible view over
+    Tuscany, a fitting finish for our journey through this unforgettable part of Italy.

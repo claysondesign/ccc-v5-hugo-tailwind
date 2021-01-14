@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{{ partial "head.html" . }}
+
+<body class="karla cccblack">
+
+  {{ partial "header.html" . }}
+
+  {{ block "here" . }}
+  {{ end }}
+
+  <main role="main">
+    {{ block "main" . }}
+    {{ end }}
+  </main>
+
+  {{ partial "footer.html" . }}
+
+  {{ block "footerextra" . }}
+  {{ end }}
+
+  {{ $swiperconfigjs := resources.Get "node_modules/swiper.config.js" }}
+{{ $macyjs := resources.Get "node_modules/macy.js" }}
+{{ $macyjsconfig := resources.Get "js/macy.config.js" }}
+{{ $menuconfig := resources.Get "js/menu.js" }}
+{{ $accordianconfig := resources.Get "js/accordian.js" }}
+{{ $concatalljs := slice $macyjs $macyjsconfig $menuconfig | resources.Concat "js/bundle-all.js" | resources.Minify }}
+{{ $concatjs := slice $menuconfig | resources.Concat "js/bundle.js" | resources.Minify }}
+{{ $secureJS := $concatjs | resources.Fingerprint "sha512" }}
+{{ $secureallJS := $concatalljs | resources.Fingerprint "sha512" }}
+
+{{ if eq .RelPermalink "/the-65-ride-2022/" }}
+<script src="{{ $secureallJS.Permalink }}" integrity="{{ $secureallJS.Data.Integrity }}"></script>
+{{ else }}
+<script src="{{ $secureJS.Permalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
+{{ end }}
+
+
+</body>
+</html>

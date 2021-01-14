@@ -1,0 +1,16 @@
+{
+  "prettier.default-config.arrowParens" : "Global Default",
+  "prettier.default-config.insertPragma" : "Global Default",
+  "prettier.default-config.jsxBracketSameLine" : "Global Default",
+  "prettier.default-config.jsxSingleQuote" : "Global Default",
+  "prettier.default-config.proseWrap" : "never",
+  "prettier.default-config.requirePragma" : "Global Default",
+  "prettier.default-config.semi" : "Global Default",
+  "prettier.default-config.singleQuote" : "Global Default",
+  "prettier.default-config.trailingComma" : "none",
+  "prettier.default-config.useTabs" : "Global Default",
+  "prettier.default-config.vueIndentScriptAndStyle" : "Global Default",
+  "prettier.format-on-save" : "Disable",
+  "workspace.art_style" : 1,
+  "workspace.color" : 8
+}

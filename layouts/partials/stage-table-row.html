@@ -1,0 +1,26 @@
+{{/* <td class="">{{ with . }}{{ . }} {{ end }}</td> */}}
+{{/* <h2>{{ .event_title }}</h2> */}}
+{{ range .Site.Data.events2022 }}
+
+{{ $eventtitle := .event_title }}
+
+<td class="text-xl pt-4">{{ $eventtitle }}</td>
+
+{{ range .stages }}
+<tr class="border-b text-xs bg-white lg:hover:bg-gray-100 flex lg:table-row flex-row lg:flex-row flex-wrap lg:flex-no-wrap mb-10 lg:mb-0">
+  {{/* <td class="">ET</td> */}}
+  <td class="text-ccccyan">{{ $eventtitle }}&mdash;{{ with .Stage }}{{ . }} {{ end }}</td>
+  <td class="">{{ with .Locations | safeHTML }}{{ . }}{{ end }}</td>
+  <td class="">{{ with .Stats }}{{ . }}{{ end }}</td>
+  <td class="">{{ with .Mainclimbs }}{{ . }}{{ end }}</td>
+  <td class="">{{ with .Description }}{{ . }} {{ end }}</td>
+  <td class="">{{ with .stage_image }}{{ . }} {{ end }}</td>
+  <td class="">{{ with .stage_image_alt }}{{ . }} {{ end }}</td>
+  <td class="">{{ with .stage_map }}{{ . }} {{ end }}</td>
+  <td class="">{{ with .theme }}{{ . }} {{ end }}</td>
+  <td class="">{{ with .make_public }}{{ . }}{{ end }}</td>
+
+</tr>
+{{ end }}
+
+{{ end }}

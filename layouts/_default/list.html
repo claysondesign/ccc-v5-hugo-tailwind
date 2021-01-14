@@ -1,0 +1,41 @@
+{{ define "main" }}
+<div class="homepage-content">
+
+  <div class="bg-cccblack">
+    <div class="mx-auto max-w-3xl px-6 py-4 md:py-12">
+
+      <div class="copy text-white">
+        <h1 class="text-ccccyan">{{.Title}}</h1>
+        {{.Content}}
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div class="bg-cccgreylight">
+  <div class="mx-auto max-w-3xl px-6 py-4 md:py-12">
+    {{ if isset .Site.Params "paginate" }}
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "postcards") }}
+    {{ range $paginator.Pages.ByDate.Reverse }}
+    {{ .Render "summary" }}
+    {{ end }}
+  </div>
+
+  <div class="pagination_area">
+    {{ partial "pagination.html" . }}
+  </div>
+
+  <div class="measure">
+    {{ else }}
+    {{ range first 50 .Data.Pages.ByDate.Reverse }}
+    {{ if eq .Type "postcards" }}
+    {{ .Render "summary"}}
+    {{ end }}
+    {{ end }}
+    {{ end }}
+  </div>
+
+</div>
+
+{{ end }}

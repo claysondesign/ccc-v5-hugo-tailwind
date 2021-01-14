@@ -1,0 +1,8 @@
+enable: false
+
+stages:
+  - Stage: Stage One
+    Locations: San Sebastian Loop
+    Stats: 207 KM / 5300 M
+    Mainclimbs: Passo Lucese, Monte Baldorie, Passo San Pellegrino, Passo Zanchetto
+    Description: Opening the parcours on the forgotten roads north of Lucca, today takes in the northernmost part of Tuscany. The infamous Passo San Pellegrino — with several 18% ramps — is the days hardest challenge, and brings us in to Emilia-Romagna for the latter part of the ride.

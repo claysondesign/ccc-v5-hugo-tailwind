@@ -1,0 +1,167 @@
+---
+enable: true
+stages:
+- Stage: Stage One
+  Locations: Bastia to Corte
+  Stats: '220 KM / 4200 M '
+  Mainclimbs: Cols de Terghine, San Stefano, Bigorno, San Gavino, Casardo, San Cervone
+  Description: Following a grand view of the western coast from the Col de Terghine,
+    the route takes us due south across wooded hills, remote villages and over eight
+    main climbs. We almost come back down to sea-level after a 26km downhill section
+    , near San Guiliano, before an even longer climb due west up to the Col de Casardo.
+    From here it is a bumpy ride further inland to the busy town of Corte.
+  stage_image: '/images/IMG_5296.JPG'
+  stage_image_alt: ''
+  stage_map: ''
+  theme: 'White'
+  make_public: true
+- Stage: Stage Two
+  Locations: Corte to Corte
+  Stats: 190KM / 4380M
+  Mainclimbs: Cols de Vergio, Sevi, Vizzavona, Serra, Bellagranajo
+  Description: 'A stage of contrasts : the opening climb, the Col de Vergio, climbs
+    for almost 50kms and is rightly considered the most beautiful and challenging
+    on the island. Narrow roads with jaw-dropping views keep the mind busy. An equally
+    entrancing road awaits on the downward side towards Porto. Then another of Corsica’s
+    wildly remote roads tackles rocky hillsides taking us south-east.  It is then
+    a long slog to the top of the Vizzavona, but at least the ''old road'' is still
+    there for us to battle the climb away from traffic. One final smaller climb interrupts
+    an otherwise perfect descent section to the stage''s end.'
+  stage_image: '/images/IMG_4998.JPG'
+  stage_image_alt: ''
+  stage_map: ''
+  theme: 'White'
+  make_public: true
+- Stage: Stage Three
+  Locations: Corte to Propriano
+  Stats: 195KM / 4,250M
+  Mainclimbs: Cols de San Quilico, Erbajo, Morello, Sorba, Verde, Vaccia, Ste Eustache
+  Description: 'After the exceptionally beautiful climb to the Col de Sorba, the greater
+    part of this stage follows the green spine of Corsica : a fabulous mixed forest
+    through which the D69 struggles to find its way. Most of the tarmac on this stage
+    is almost brand new; some isn’t…. The Col de Verde tops the stage, leaving three
+    climbs and some fabulous descents before we end by the sea!'
+  stage_image: '/images/IMG_5327.JPG'
+  stage_image_alt: ''
+  stage_map: ''
+  theme: 'White'
+  make_public: true
+- Stage: Stage Four
+  Locations: Propriano to Propriano
+  Stats: 197KM / 3,900M
+  Mainclimbs: Cols de Bilia, Bacinu, Bocca d'Illarata, Siu.
+  Description: This stage takes us from the west across to the eastern coast, via
+    the impressive Col de Bacinu. Evergreen oak forests on the way over; a brief bit
+    of flat road before arriving in Porto Vecchio, then the famous Ospedale (Illarata)  climb
+    back up, through pine forest and boulders. True unique Corsica landscape as we
+    head back to the western shore.
+  stage_image: '/images/IMG_5012.JPG'
+  stage_image_alt: ''
+  stage_map: ''
+  theme: 'White'
+  make_public: true
+- Stage: Stage Five
+  Locations: Propriano to Porticcio
+  Stats: 165KM /  3,500M
+  Mainclimbs: Cols de Bavella, Vaccia,Granaccia, Bellevalle
+  Description: From one port to another, our route goes inland first, heading towards
+    the curious rock formation of the “Aiguilles de Bavella”. Back down through the
+    charming village of Zonza, we then head north-east along more twisting roads,
+    taking on the Col de Vaccia from its southern side this time, before rolling along
+    a bumpy section that includes several Cols, but never any major climbs. A very
+    pleasant 28km of “overall downhill” takes us to our beach hotel where we stay
+    for three nights. (Including our mid-event REST DAY)
+  stage_image: '/images/IMG_5250.JPG'
+  stage_image_alt: ''
+  stage_map: ''
+  theme: 'White'
+  make_public: true
+- Stage: Rest day
+  Locations: Porticcio
+  Stats: ''
+  Mainclimbs: ''
+  Description: ''
+  stage_image: ''
+  stage_image_alt: ''
+  stage_map: ''
+  theme: 'White'
+  make_public: true
+- Stage: Stage Six
+  Locations: Porticcio to Porticcio
+  Stats: " 195KM /  3,900M "
+  Mainclimbs: Cols de Cortone, Chenova, Crichetto, Val d'Eze, Scalella
+  Description: A southern swoop along the coast opens the stage before some sharp
+    climbing inland towards the Col de Cortone which dominates the forest of Chiavari.The
+    mid-stage climb to Val d'Eze is the highest road point of the island. More narrow
+    roads (few back lanes are left unexplored by the end of our trip) eventually take
+    us to the 20 km section to the top of the beautiful Scalella. Another long descent
+    down to sea level closes the stage perfectly.
+  stage_image: '/images/IMG_5370.JPG'
+  stage_image_alt: ''
+  stage_map: ''
+  theme: 'White'
+  make_public: true
+- Stage: Stage Seven
+  Locations: Porticcio to Porto
+  Stats: 188KM / 4,000M
+  Mainclimbs: Cols de San Bastiano, Bocca di Sarcoggio, Ambiegna, Sevi
+  Description: " This stage takes us first of all along the west coast along a gently
+    undulating road before veering off again onto the ‘lost’ roads of the island.
+    Harsher climbs are to be found along the way but the stage really comes alive
+    in the last 60kms. This contains a section of truly spectacularly wild and apparently
+    forgotten tarmac , followed by the severe climb up to the Col de Sevi –with its’
+    12% final two kms. The 22km descent down into Porto is one of the best pieces
+    of road you could ever wish to cycle on…"
+  stage_image: '/images/IMG_5459.JPG'
+  stage_image_alt: ''
+  stage_map: ''
+  theme: 'White'
+  make_public: true
+- Stage: Stage Eight
+  Locations: Porto to Porto
+  Stats: 170KM /  3,500M
+  Mainclimbs: Cols de Vergio, Sevi, St Antoine, San Martino, Osini
+  Description: 'A second shorter stage, but this one starts with the longest climb
+    of the event: from sea-level to 1400m in 36kms. Descents-galore follow before
+    a beautiful ridge section with distant sea views. Finally we plunge down to sea
+    level for a roller-coaster ride taking us to the Grand Finale of this stage :
+    part1 is the road to the beach via Col d''Osini; part 2 is the descent through
+    the famous red-rock Calanches of Porto. Quite exceptional.'
+  stage_image: ''
+  stage_image_alt: ''
+  stage_map: ''
+  theme: 'White'
+  make_public: true
+- Stage: Stage Nine
+  Locations: Porto to Ile Rousse
+  Stats: 209KM /  3,300M
+  Mainclimbs: Cols de la Croix, Salvi, Bocca di a Battaglia, San Colombano
+  Description: The first part of the two-stage tour of the north of the island. An
+    80km coastal stretch is a real treat to open the stage, taking us to Calvi. From
+    here we turn inland for some higher view points of the azur blue Meditteranean.
+    This stage includes the toughest climb of the Challenge, with a few quite steep
+    bits! After this battle the rest of the stage seems gentle but always 'entertaining'
+    !
+  stage_image: ''
+  stage_image_alt: ''
+  stage_map: ''
+  theme: 'White'
+  make_public: true
+- Stage: Stage Ten
+  Locations: Ile Rousse to Bastia
+  Stats: '162KM /  3,100M '
+  Mainclimbs: Bocca di Vezzu, Ste Lucie, Serra, San Martino di Lota
+  Description: 'Across the ''Desert des Agriates'' to begin the Tour of Capi Corsu
+    from St Florent up along the rocky coast on perfect roads to Abro, from where
+    we take the High Road to Pino : a very dramatic piece of tarmac! Cutting east
+    here across the Cap via the impressive Bocca di Ste Lucia we then descend to the
+    much tamer east coast to enjoy a fast 20kms on a sweeping smooth road. But then
+    we head up to San Martino for some more infinity views of the azur blue sea. This
+    stage is less predictable then might be expected and makes a perfect curtain call
+    to this very special series of rides.'
+  stage_image: ''
+  stage_image_alt: ''
+  stage_map: ''
+  theme: 'White'
+  make_public: true
+event_title: Corsica

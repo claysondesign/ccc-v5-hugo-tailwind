@@ -1,0 +1,73 @@
+---
+label: homepage-template
+hide_body: false
+fields:
+- name: Title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: Subhead
+  label: Subhead
+  type: text
+  hidden: false
+  default: ''
+- name: intro_text
+  label: Intro text
+  type: textarea
+  hidden: false
+  default: ''
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- name: Description
+  label: Description
+  type: textarea
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: featured_image
+  label: Featured image
+  type: file
+  hidden: false
+  default: ''
+- name: featured_image_alt
+  label: Featured image alt
+  type: text
+  hidden: false
+  default: ''
+- name: featured_image_credit
+  label: Featured image credit
+  type: text
+  hidden: false
+  default: ''
+- name: key_testimonial
+  label: Key testimonial
+  type: textarea
+  hidden: false
+  default: ''
+- name: key_cite
+  label: Key cite
+  type: text
+  hidden: false
+  default: ''
+- name: show_homepage_flash
+  type: boolean
+  label: Show Homepage Flash
+- name: homepage_flash_line_1
+  type: text
+  config:
+    required: false
+  label: Homepage Flash Line 1
+- name: homepage_flash_line_2
+  type: text
+  config:
+    required: false
+  label: Homepage Flash Line 2
+pages:
+- content/postcards/2021 events?.md

@@ -1,0 +1,29 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+<div
+  class="mx-auto max-w-4xl px-6 w-full center bg-ccccyan text-white px-8 pt-8 my-8 md:my-16"
+>
+  <div class="contact-cta copy">
+    {{.Inner}}
+
+    <div class="pt0 pb4">
+      Please
+      <a class="" href="mailto:info@centcolschallenge.com">email us</a> for any
+      questions. You can find us on
+      <a class="white dim" href="https://www.facebook.com/philip.deeker"
+        >Facebook</a
+      >
+      and
+      <a class="white dim" href="https://www.instagram.com/centcolschallenge/"
+        >Instagram</a
+      >
+      plus for all the latest news, subscribe to
+      <a class="white dim" href="/index.xml/">RSS</a> or please join the
+      <a class="white dim" href="/contact">mailing list</a>.
+    </div>
+  </div>
+  <ul
+    class="flex flex-wrap items-center text-center text-white py-4 md:py-8 text-white list-none"
+  >
+    {{ partial "social_media.html" . }}
+  </ul>
+</div>

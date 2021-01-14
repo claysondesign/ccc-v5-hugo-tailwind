@@ -1,0 +1,155 @@
+---
+enable: false
+stages:
+- Stage: Stage One
+  Locations: San Sebastian Loop
+  Stats: 214 KM / 4,500 M
+  Mainclimbs: Alto de Ezkurra, Collado de Arritxulegi
+  Description: A vicious start to the journey with almost every climb hitting double-digit
+    gradient regularly. Wooded lanes lead up to sea-view ridges.
+  stage_image: ''
+  stage_image_alt: ''
+  stage_map: ''
+  theme: 'White'
+  make_public: false
+- Stage: Stage Two
+  Locations: Sebastian - Esterencuby
+  Stats: 179 KM / 4,200 M
+  Mainclimbs: Col des Abeilles, Col d'Ispeguy, Arnosteguy
+  Description: More steep, narrow backroads lead us into France where the landscape
+    opens up as we climb into the rugged, impressive hills of the Iraty region of
+    the Pays Basque. Single track roads take us above the tree line and along open
+    ridges with 360 degree views. Climbs are steep, descents technical. Our hotel
+    is equally as unique, tucked away in a remote Iraty valley.
+  stage_image: ''
+  stage_image_alt: ''
+  stage_map: ''
+  theme: 'White'
+  make_public: false
+- Stage: Stage Three
+  Locations: Esterencuby - Oloron
+  Stats: 190 KM / 5,200 M
+  Mainclimbs: Col d'Inharpu, Col d’Asqueta, Bagargui, Port Larrau, Pierre St Martin,
+    Soudet.
+  Description: Another ultra-steep Basque climb opens the stage, bringing us back
+    onto the Iraty plateau for more exceptional views. Once over the ‘back-side’ of
+    the Bagargui, we head up towards the monumental Port Larrau across some of the
+    wildest scenery of the Pyrenees. A short Spanish valley section before climbing
+    back into France via the Col de Pierre St Martin and then we can enjoy a long
+    descent into the ‘foothills’, across which we weave our way to Oloron.
+  stage_image: ''
+  stage_image_alt: ''
+  stage_map: ''
+  theme: 'White'
+  make_public: false
+- Stage: Stage Four
+  Locations: Oloron - Argeles Gazost
+  Stats: 175 KM / 4,800 M
+  Mainclimbs: Col de Soudet, Marie Blanque, Aubisque, Col de Spandelles
+  Description: Four classic climbs make this stage more ‘iconic’ - our second visist
+    to the Pierre St Martin mountain opens, followed quickly by the tough but short
+    Marie Blanque. The Aubisque, via its tougher western side is next, with the glorious,
+    lesser known Col de Spandelles closing the stage that brings us for three nights
+    to Argeles-Gazost in the heart of the High Pyrenees.
+  stage_image: ''
+  stage_image_alt: ''
+  stage_map: ''
+  theme: 'White'
+  make_public: false
+- Stage: Stage Five
+  Locations: Argeles Loop
+  Stats: 207 KM / 5,700 M
+  Mainclimbs: Col de Croix Blanche, Courade, Col du Tourmalet, Col des Tentes, Hautacam.
+  Description: This loop stage begins with some ‘foothills’ climbs that are an anything-but-gentle
+    prelude to our first ascent of the mighty Tourmalet, from the La Mongie side.
+    The up-and-back climb to the Col des Tentes is rarely ridden but so worth the
+    effort for it’s exceptional views towards the top. But perhaps the best is kept
+    to last for this stage as the day draws to a close with the classic ascent of
+    the Hautacam. Rest Day will be welcome!
+  stage_image: ''
+  stage_image_alt: ''
+  stage_map: ''
+  theme: 'White'
+  make_public: false
+- Stage: REST DAY
+  Locations: Argeles - Gazost
+  Stats: ''
+  Mainclimbs: ''
+  Description: ''
+  stage_image: ''
+  stage_image_alt: ''
+  stage_map: ''
+  theme: 'White'
+  make_public: false
+- Stage: Stage Six
+  Locations: Argeles - St Lary Soulan
+  Stats: 188 KM / 6,300 M
+  Mainclimbs: Col de Luz Ardiden, Tourmalet, Beyrede, Col d'Aspin, Hourquette d'Ancizan,
+    Portet
+  Description: No less than six of the seven climbs on this stage feature regularly
+    on the Tour. Possibly the Queen stage of our journey, this could be called the
+    CCC version of the infamous 'Circle of Death'. The Col de Beyrede may not a Tour
+    name, but it still places the steepest gradients of the whole stage! The Col du
+    Portet provided the final mountain-top finish of the Tour in 2018 and is a more
+    than worthy stage-closer here.
+  stage_image: ''
+  stage_image_alt: ''
+  stage_map: ''
+  theme: 'White'
+  make_public: false
+- Stage: Stage Seven
+  Locations: St Lary - Portalet
+  Stats: 2OO KM / 5,650 M
+  Mainclimbs: Azet-Louron, Hourquette d’Ancizan, Lancon, Soulor, Puerto o Paso del
+    Portalet
+  Description: After another Tour classic climb (Azet-Louron), we tackle the Hourquette
+    climb on it’s tougher side, to pass by the Plateau de Payolle once more before
+    heading across the ‘foothills’ to the Soulor, again via it’s harder side. Once
+    the Aubisque crested, the 25km climb to the Col de Portalet awaits to lead us
+    to our surreal mountain-top hotel.
+  stage_image: ''
+  stage_image_alt: ''
+  stage_map: ''
+  theme: 'White'
+  make_public: false
+- Stage: Stage Eight
+  Locations: Portalet - Jaca
+  Stats: 205 KM / 3,400 M
+  Mainclimbs: Puerto de Cotefablo, Mont Oroel
+  Description: A fully Spanish stage with some of the wildest sections of the whole
+    event. Stunning roads and mountain vistas complement less harsh gradients to make
+    this a remarkable contrast to the other stages. A nice wooded ‘broken road’ climb
+    chips in to close the stage before a fast descent into Jaca.
+  stage_image: ''
+  stage_image_alt: ''
+  stage_map: ''
+  theme: 'White'
+  make_public: false
+- Stage: Stage Nine
+  Locations: Jaca - Borguete
+  Stats: 195 KM / 5,350 M
+  Mainclimbs: Paso de Somport, Soudet, Bagargui, Ibenata.
+  Description: Via the Col de Somport, this stage takes us back into France to tackle
+    the third, and perhaps hardest side of the Soudet. The Col de Bagargui hits us
+    even harder, with its 'average %' signs of 11,12, 13 and 13.5 - one of the hardest
+    in the Pyrenees, for sure. After a final treat of beauty on the plateaux of Iraty,
+    we finally head back into Spain via a steady, gentler climb to the Puerto de Ibenata.
+  stage_image: ''
+  stage_image_alt: ''
+  stage_map: ''
+  theme: 'White'
+  make_public: false
+- Stage: Stage Ten
+  Locations: Borguete - San Sebastian
+  Stats: 208 KM / 3,700 M
+  Mainclimbs: Santuario de Aralar
+  Description: To close this tough route across the Pyrenees, our return to the Basque
+    hills is marked first by the extraordinary climb to the Santuria de Aralar, where
+    the bravest can go right up to the weather station. Five more climbs stand between
+    us and the sea and they will not let you forget them easily!
+  stage_image: ''
+  stage_image_alt: ''
+  stage_map: ''
+  theme: 'White'
+  make_public: false
+event_title: ''

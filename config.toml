@@ -1,0 +1,28 @@
+DefaultContentLanguage = "en"
+contentDir = "centcols/content"
+dataDir = "centcols/data"
+baseURL = "https://www.centcolschallenge.com/"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+enableRobotsTXT = true
+force = true
+languageCode = "en"
+title = "Cent Cols Challenge"
+
+[imaging]
+disableDate = true
+disableLatLong = true
+quality = 90
+
+# https://discourse.gohugo.io/t/importing-js-from-node-packages/23545/3
+[module]
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+
+  [[module.mounts]]
+    source = "node_modules/macy/dist/macy.js"
+    target = "assets/node_modules/macy.js"

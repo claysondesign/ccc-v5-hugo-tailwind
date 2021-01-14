@@ -1,0 +1,135 @@
+---
+event_title: 'EVENT 1: Piemonte'
+event_date: ''
+enable: true
+stages:
+- Stage: Stage 1
+  Locations: Verona&ndash;Verona
+  Stats: 180kms / 4300m
+  Mainclimbs: Passo Fittanze
+  Description: 'The Veronese "hills" (north of Verona) in the Veneto region make a
+    perfect place to start this journey. Less well known, full of surprises and some
+    very tough climbs. The beautifully harsh Passo Fittanze, climbed from Avio, will
+    be the undisputed centrepiece of this opening stage. '
+  stage_image: "/images/DSC05953.jpg"
+  stage_map: https://ridewithgps.com/routes/31523637
+  make_public: true
+  stage_image_alt: Mountains
+  theme: White
+  background_image: ''
+- Stage: Stage 2
+  Locations: Verona&ndash;Iseo
+  Stats: 199kms / 3900m
+  Mainclimbs: Passo del Piccon, Passo di San Rocco, Passo del Termine, Passo del Santellone,
+    Passo dei Tre Termini,
+  Description: 'The journey starts it''s crossing of the region of lakes and mountains
+    so well known for defining the true beauty of Lombardy and Piemont. As well as
+    some fabulous new climbs, this stage also includes a ferry crossing on Lake Garda. '
+  stage_image: "/images/149.jpg"
+  stage_map: https://ridewithgps.com/routes/31561929
+  make_public: true
+  stage_image_alt: ''
+  theme: Red
+  background_image: ''
+- Stage: Stage 3
+  Locations: Iseo&ndash;Brogno (Bellagio)
+  Stats: 201kms / 4750m
+  Mainclimbs: San Fermo, Gallo, San Pietro, Ganda, Agueglio, Bellagio
+  Description: 'Into the heart of Lombardy via some of the real classics of this region,
+    ending the stage on the Bellagio climb after another ferry crossing (Lake Como). '
+  stage_image: "/images/DSC06027.jpg"
+  stage_map: https://ridewithgps.com/routes/31566398
+  make_public: true
+  stage_image_alt: ''
+  theme: Transparent
+  background_image: ''
+- Stage: Stage 4
+  Locations: Ghisallo - Varese
+  Stats: 204kms / 4700m
+  Mainclimbs: Muro di Sormano, Plan del Tivano, Oratorio San Antonio,Alpe dei Fiori
+  Description: The Best of the Lombardia finale (to start this one!) before heading
+    over (hills) to Lake Lugano for a couple of Swiss climbs before heading down (up)
+    to Varese. Quite a menu!
+  stage_image: "/images/DSC05958-1.jpg"
+  stage_map: https://ridewithgps.com/routes/31345246
+  make_public: true
+  stage_image_alt: ''
+  theme: Blue
+  background_image: ''
+- Stage: Stage 5
+  Locations: Varese &ndash; Biella
+  Stats: 193kms / 4060m
+  Mainclimbs: San Antonio, Cucco, Colma
+  Description: 'The double-whammy finale of Passo''s Cucco and Colma make this stage
+    truly exceptional. (This is a new version of stage 3 of CCC Piemonte.) It will
+    bring us to Biella, a beautiful town, for our first Rest Day. '
+  stage_image: "/images/DSC05986.jpg"
+  stage_map: https://ridewithgps.com/routes/31602854
+  make_public: true
+  stage_image_alt: ''
+  theme: Transparent
+  background_image: ''
+- Stage: Stage 6
+  Locations: Biella &ndash; Pinerolo
+  Stats: 204kms / 4310m
+  Mainclimbs: Croce Serra, Monte di Belmonte, Forcola, Lys, Braida
+  Description: 'The formidable Colle di Lys is the centrepiece but more ''religious
+    climbs'' such as the Monte di Belmonte maintain the intensity of the ride throughout
+    the day. '
+  stage_image: "/images/DSC06565.jpg"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Red
+  background_image: ''
+- Stage: Stage 7
+  Locations: Pinerolo &ndash; Cuneo
+  Stats: 218kms / 5850m
+  Mainclimbs: Sampeyre, Dei Morti
+  Description: 'Leaving Lombardy behind us and hitting the first climbs of the ''Italian
+    Alps'' : two real classics will prepare us for the Giants to follow next. '
+  stage_image: "/images/10626727_582967055145205_7851204308658794672_n.jpg"
+  stage_map: https://ridewithgps.com/routes/31647303
+  make_public: true
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
+- Stage: Stage 8
+  Locations: Cuneo &ndash; Valberg
+  Stats: 193KMS / 5500M
+  Mainclimbs: Lombardia, Coulliole, St Leger, Valberg
+  Description: 'Via the "best" side of the Col de Lombardia, we exit Italy and explore  some
+    of the best scenery in the High Maritime Alps : the Gorges de Dalius, for example,
+    taking us up towards our mountain-top finish in Valberg. '
+  stage_image: "/images/IMG_3268.JPG"
+  stage_map: https://ridewithgps.com/routes/31647362
+  make_public: true
+  stage_image_alt: ''
+  theme: Red
+  background_image: ''
+- Stage: Stage 9
+  Locations: Valberg &ndash; San Remo
+  Stats: 214KMS / 5300M
+  Mainclimbs: Sinna, Turini, Termini di Baiardo
+  Description: A superb descent section to open then over the Cols de Sinna and Turini
+    and into Liguria (back into Italy)  to check out some exciting new roads on our
+    way down to the wonderful town of San Remo. Pure Mediterranean magic!
+  stage_image: "/images/IMG_2500.JPG"
+  stage_map: https://ridewithgps.com/routes/31647451
+  make_public: true
+  stage_image_alt: ''
+  theme: Blue
+  background_image: ''
+- Stage: Stage 10
+  Locations: San Remo To Carros
+  Stats: 180kms / 45750m
+  Mainclimbs: 'Passo Ghimbegna, Madonna di Giorbio, Chateauneuf. '
+  Description: 'The first 100km explores the best of Liguria before we plunge down
+    to Ventimiglia. Arriving then in Monaco, of course the Madonna climb has to be
+    on our path. A real Classic Climb to end Event #1!'
+  stage_image: "/images/P1040927.JPG"
+  stage_map: https://ridewithgps.com/routes/31649261
+  make_public: true
+  stage_image_alt: ''
+  theme: Transparent
+  background_image: ''

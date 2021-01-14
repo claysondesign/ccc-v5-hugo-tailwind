@@ -1,0 +1,147 @@
+---
+enable: true
+stages:
+- Stage: Stage 1
+  Locations: San Pellegrino Terme to Pieve di Ledro
+  Stats: 197kms / 4900m
+  Mainclimbs: Zambla, Zeno, Maniva, Croce Domini
+  Description: This is the route of original opening stage of the CCC Dolomites. It
+    includes 9 kms of gravel road above 2000m up to the wonderfully wild Croce Domini.
+  stage_image: "/images/dsc_1249.JPG"
+  stage_image_alt: ''
+  stage_map: ''
+  theme: White
+  make_public: true
+  background_image: ''
+- Stage: Stage 2
+  Locations: Pieve di Ledro to Castelvecchio
+  Stats: 171kms / 5300m
+  Mainclimbs: Santa Barbara, San Valentino, Fittanze, Gioche
+  Description: After a familiar opening for CCC riders, we tackle the most feared
+    descent on CCC Dolomites, this time going UP! The Veneto feast of views and dramatic
+    climbs has started!
+  stage_image: "/images/IMG_3268.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Red
+  background_image: ''
+- Stage: Stage 3
+  Locations: Castelvecchio to Garda
+  Stats: 191 kms / 4900m
+  Mainclimbs: Santa Barbara, San Valentino, Fittanze,Gioche.
+  Description: Heading towards Lake Garda, we explore a new approach to the mighty
+    Passo Branchetto. We then follow new roads deep into the Lessina National Park
+    which eventually lead us down ( and up) to Lake Garda and our lakeside hotel.
+  stage_image: "/images/149-1.jpg"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
+- Stage: Stage 4
+  Locations: Garda to San Pellegrino Terme
+  Stats: 212 kms / 4800m
+  Mainclimbs: San Rocco, Cavalino dell Fobbia, Tre Termini, Gallo
+  Description: 'This particularly tough stage begins with a ferry crossing so that
+    we gain time to enjoy as many of the Lombardy giants as possible before returning
+    to our start hotel. '
+  stage_image: "/images/dsc_1248.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Blue
+  background_image: ''
+- Stage: Stage 5
+  Locations: San Pellegrino Terme loop
+  Stats: 189 kms / 5000m
+  Mainclimbs: San Marco, San Pietro.
+  Description: 'This stage is all about the Giant of Lombardy : the mighty Passo di
+    San Marco. The shores of Lake Como provide a brief respite before we head back
+    over the hills to end Part One of our journey.'
+  stage_image: "/images/dsc06088.jpg"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
+- Stage: 'Rest Day '
+  Locations: San Pellegrino Terme
+  Stats: ''
+  Mainclimbs: ''
+  Description: 'Our start/finish/rest day hotel is in the centre of the buzzing town
+    which bottles the globally renowned sparkling water : San Pellegrino (Terme) !'
+  stage_image: ''
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Red
+  background_image: ''
+- Stage: Stage 6
+  Locations: San Pellegrino Terme to Bellagio
+  Stats: 175kms / 3900m
+  Mainclimbs: Monte di Nese, Valcava
+  Description: 'Exploring the back roads of Bergamo to Part Two. Then over the very
+    special Passo Valcava, we are in the heart of Giro di Lombardia country here for
+    the rest of the stage. '
+  stage_image: "/images/dsc05949.jpg"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
+- Stage: Stage 7
+  Locations: Bellagio Loop
+  Stats: 148kms / 4200m
+  Mainclimbs: Madonna di Bellagio, Mur di Sornano, Civiglio
+  Description: 'The shorter distance of this stage betrays perhaps the severity of
+    this stage : we will climb the infamous Mur di Sornano TWICE. We will also enjoy
+    TWO nights at a very special hotel jus above Bellagio, with panoramic views over
+    Lake Como.'
+  stage_image: "/images/dsc05958-2.jpg"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Red
+  background_image: ''
+- Stage: Stage 8
+  Locations: Bellagio to Sondrio
+  Stats: 189 kms / 5160m
+  Mainclimbs: Agueglio, Pagmona,Preti Gaggio
+  Description: 'Another stage which will start with a ferry crossing, this time across
+    Lake Como. It will land us at the foot of some impressive climbs on the east flank
+    of this wonderful lake. Heading north we arrive in the Adda valley for some more
+    ''new'' climbs. '
+  stage_image: "/images/dsc05960.jpg"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
+- Stage: Stage 9
+  Locations: Sondrio to Tovo
+  Stats: 158 kms / 5900m
+  Mainclimbs: Santa Christina, Trivigno, Mortirolo
+  Description: This stage explores the impressive massif which runs between the town
+    of Aprica and the Mortirolo summit. We take in several  rarely ridden climbs before
+    we take on the Mortirolo from its 'easier' southern side from the town of Monno.
+  stage_image: "/images/img_20170620_090906.jpg"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Blue
+  background_image: ''
+- Stage: Stage 10
+  Locations: Tovo to San Pellegrino Terme
+  Stats: 165 kms / 4900m
+  Mainclimbs: Mortirolo, Vivione, Presolana, Zambla
+  Description: A re-make of the final stage of CCC Dolomites. Mortirolo after breakfast;
+    Presolana after lunch; ice cream and beer at Hotel Bigio to celebrate for tea.
+    Almost sounds like a holiday....
+  stage_image: "/images/img_20170628_135930-2.jpg"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Red
+  background_image: ''
+event_title: Lombardy

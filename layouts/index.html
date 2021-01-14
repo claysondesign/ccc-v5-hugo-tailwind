@@ -1,0 +1,182 @@
+{{ define "main" }}
+
+<div class="bg-cccblack">
+{{ partial "featureimage.html" . }}
+</div>
+
+<div class="bg-cccblack text-white">
+  <div class="mx-auto max-w-6xl px-6 flex flex-wrap flex-none py-8 md:pt-16 md:pb-8">
+
+    <div class="w-full md:w-2/3 md:py-4 pr-8 md:pr-16 mb-8">
+      <div class="copy">
+
+      <h1 class="pt-0 mt-0">{{ .Title }}</h1>
+
+      {{ if .Params.Subhead }}
+      <h2 class="">{{ .Params.Subhead | markdownify }}</h2>
+      {{ end }}
+
+      {{ if .Params.intro_text }}
+      <div class="intro">
+        {{ .Params.intro_text | markdownify }}
+      </div>
+      {{ end }}
+
+      {{/* <p>
+        <a class="cta-medium cta-cccblue" href="/about#the-final-four-phil-years" title="Planned events for the next 4 years">The list of planned events up to 2022 can be found on the About page</a>
+      </p> */}}
+      </div>
+
+      <br>
+
+      {{ range .Site.Menus.routemenu2021 }}
+        <div class="no-underline border-b border-cccgrey border-opacity-25 pb-3 mb-2 md:mb-3 mx-0 w-full">
+          <a class="no-underline" href="{{ .URL }}">
+            <h3 class="pr-2 inline-block no-underline text-cccwhite font-bold text-xl">{{ .Name }}</h3> :
+            <div class="pl-2 inline-block date">{{- with .Page -}}{{ .Params.route_date }}{{- end -}}</div>
+          </a>
+        </div>
+        {{ end }}
+
+      {{/* <p class="cta-medium cta-cccblue">
+        Featured on the Le Coffee Ride Podcast -
+        <a class="underline" href="https://www.lecoffeeride.cc/the-creative-cyclist/phil-deeker-and-the-mountains/" title="Le Coffee Ride">Listen Now</a>
+      </p> */}}
+
+        {{/* <p class="cta-medium cta-cccblue">
+          Past, present and future -
+          <a class="underline" href="http://twmp.net/cent_cols/2020/" title="Post at The Washing Machine Post">feature post at TWMP</a>
+        </p> */}}
+
+
+
+    </div>
+
+    <div class="w-100 md:w-1/3">
+      <div class="border-l border-cccgrey pl-4 md:pl-16 py-4 md:py-8">
+        <bq class="italic text-xl">{{ .Params.key_testimonial | markdownify }}</bq>
+        <br>
+        <div class="pt-3">
+          <cite class="not-italic text-cccred">{{ .Params.key_cite | markdownify }}</cite>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+{{/* <div class="homepage-content">
+  <div class="mx-auto max-w-6xl px-0 py-8 md:py-4 md:pb-8">
+    <div class="flex justify-center flex-wrap items-center">
+      {{ range .Site.Menus.routemenu2021 }}
+      <div class="border-b border-cccgrey pb-3 mb-2 md:mb-3 mx-0 w-full">
+        <a class="" href="{{ .URL }}">
+          <h3 class="text-cccred font-bold text-xl">{{ .Name }}</h3>
+          <div class="date">{{- with .Page -}}{{ .Params.route_date }}{{- end -}}</div>
+        </a>
+      </div>
+      {{ end }}
+    </div>
+</div> */}}
+
+
+{{/* <div class="homepage-content">
+  <div class="mx-auto max-w-6xl px-0 py-8 md:py-16 md:pb-16">
+    <div class="flex justify-center flex-wrap items-center">
+      {{ range .Site.Menus.routemenu2021 }}
+      <div class="border-b border-cccgrey pb-4 mb-4 md:mb-16 mx-8 w-full md:w-1/4 lg:w-1/4">
+        <a class="" href="{{ .URL }}">
+          <h3 class="text-cccred text-2xl">{{ .Name }}</h3>
+          <div class="date">{{- with .Page -}}{{ .Params.route_date }}{{- end -}}</div>
+        </a>
+      </div>
+      {{ end }}
+    </div>
+</div> */}}
+
+
+<div class="homepage-content bg-ccctotalblack text-white">
+  <div class="mx-auto max-w-6xl py-8 px-6 md:py-16">
+    <div class="copy pb-8">
+      <h2 class="">Waiting</h2>
+    </div>
+    
+    <div style="padding:42.19% 0 0 0;position:relative;">
+      <iframe title="What is it about the Cent Cols Challenge? film featuring Phil Deeker" src="https://player.vimeo.com/video/497223380?color=ffffff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"
+        webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    </div>
+    <script src="https://player.vimeo.com/api/player.js"></script>
+  </div>
+</div>
+
+
+
+<div class="bg-cccgreylight">
+  <div class="mx-auto max-w-4xl px-6 py-8 md:py-16 md:pb-16">
+
+    <div class="copy">
+      <h2 class="">Postcards</h2>
+      <p class="">Info updates, thoughts from the bike and from the office... <a class="text-cccred" href="/postcards">View all Postcards</a></p>
+
+      {{/* <h3 class="text-cccblue mb0">The latest postcard...</h3> */}}
+    </div>
+
+
+    <div class="posts">
+
+
+        {{/* {{ range first 50 .Data.Pages.ByDate.Reverse }}
+        {{ if eq .Type "postcards" }}
+          {{ .Render "summary"}}
+        {{ end }}
+        {{ end }} */}}
+
+
+      {{ if isset .Site.Params "paginate" }}
+
+      {{ $paginator := .Paginate (where .Data.Pages "Type" "postcards") }}
+
+      {{/* {{ range $paginator.Pages.ByDate.Reverse }}
+      {{ .Render "summary" }}
+      {{ end }} */}}
+
+    {{/* <div class="pagination_area">
+      {{ partial "pagination.html" . }}
+    </div> */}}
+
+      {{ else }}
+
+
+      {{ end }}
+    </div>
+  </div>
+
+
+
+</div>
+
+<div class="">
+  {{.Content}}
+</div>
+
+
+<div class="bg-cccgreylight">
+  <div class="mx-auto max-w-4xl px-6 py-8 md:py-16 md:pb-16">
+    <div class="copy">
+      <h2 class="">The Film</h2>
+        <div class="mx-auto max-w-6xl pb-8 md:pb-16">
+      
+          <div style="padding:42.19% 0 0 0;position:relative;">
+            <iframe title="What is it about the Cent Cols Challenge? film featuring Phil Deeker" src="https://player.vimeo.com/video/465423902?color=ffffff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"
+              webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+          </div>
+          <script src="https://player.vimeo.com/api/player.js"></script>
+        </div>
+      </div>
+  
+    </div>
+  </div>
+</div>
+
+
+{{ end }}

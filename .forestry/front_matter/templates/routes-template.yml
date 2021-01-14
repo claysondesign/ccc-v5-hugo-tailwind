@@ -1,0 +1,70 @@
+---
+label: routes-template
+hide_body: false
+fields:
+- type: text
+  name: Title
+  label: Title
+- type: text
+  name: Slug
+  label: Slug
+- type: textarea
+  name: intro_text
+  label: Intro Text
+- type: text
+  name: route_date
+  label: route_date
+- type: textarea
+  name: Description
+  label: Meta Description
+- type: file
+  name: featured_image
+  label: Featured Image
+  hidden: false
+  default: ''
+- type: text
+  name: featured_image_alt
+  label: featured_image_alt
+- type: file
+  name: secondary_image
+  label: secondary_image
+- type: text
+  name: secondary_image_alt
+  label: secondary_image_alt
+- type: text
+  name: booking_link
+  label: booking_link
+- type: datetime
+  name: date
+  label: date
+- name: menu
+  type: field_group
+  config: {}
+  fields:
+  - name: routemenu2020
+    type: field_group
+    config: {}
+    fields:
+    - name: name
+      type: text
+      config:
+        required: false
+      label: name
+    - name: weight
+      type: number
+      label: weight
+      description: ''
+      default: 0
+      required: true
+      config:
+        min: '0'
+        max: '10'
+        step: '1'
+    label: routemenu2020
+  label: menu
+  hidden: false
+pages:
+- content/routes/corsica-2021.md
+- content/routes/east-pyrenees-2021.md
+- content/routes/piemonte-2021.md
+- content/routes/southern-alps-2021.md

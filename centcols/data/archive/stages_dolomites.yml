@@ -1,0 +1,86 @@
+---
+enable: false
+stages:
+- Stage: Stage One
+  Locations: San Pellegrino Terme - Pieve di Ledro
+  Stats: 186 KM / 4700 M
+  Mainclimbs: Passo San Zeno, Passo di Crocedomini
+  Description: A stunning opening stage, with a 26km climb after just 4km to open
+    the show. The real feature of the day is the Passo Maniva, then a long descent
+    to our lakeside hotel on the Lago di Ledro.
+- Stage: Stage Two
+  Locations: Pieve - Fiera di Primero
+  Stats: 186 KM / 4700 M
+  Mainclimbs: Passo Bordola, Passo di Compet, Passo Brocon
+  Description: Arriving at Lake Garda via the old corniche ‘road’, we are treated
+    to superb views before we head north-east for our climbs. The star of the day
+    is the climb towards Vignola, our first of many narrow roads that hairpins through
+    dense woodland. A real treat.
+- Stage: Stage Three
+  Locations: Fiera - Tolmezzo
+  Stats: 200 KM / 5100 M
+  Mainclimbs: Cerada, Passo Duran, Passo Cibiana, Mauria, di Bivio.
+  Description: Passo Cerada is literally our wake up call today, signalling we have
+    arrived in the heart of the Dolomites. The famous rock skylines set the tone for
+    some dramatic rides to follow. The stage ends with a couple of nice, 'backroad'
+    tough climbs.
+- Stage: Stage Four
+  Locations: Tolmezzo - Misurina
+  Stats: 174 KM / 5350 M
+  Mainclimbs: Avaglio, Zoncolan, Passo Ciampagiotto, San Antonio, Tre Cime di Lavaredo
+  Description: Monte Zoncolan and Tre Cime book-end this epic stage. Neither will
+    'disappoint', despite their fearsome reputation. But the stage has many other
+    unforgettable moments as our route winds through the National Park. A new hotel
+    for this year on the Lago Misurina promises to make the perfect end to this big
+    day out !
+- Stage: Stage Five
+  Locations: Misurina - Canazei
+  Stats: 170 KM / 4870 M
+  Mainclimbs: Tre Croce, Passo di Giau, Falzarego, Gardena, Sella, Fedaia
+  Description: The Passo Giau, considered one of the most beautiful passes in Italy,
+    is our opener but what follows will not disappoint. The Gardena and Sella passes
+    can be enjoyed as examples of mountain perfection, and with the Pordoi form the
+    Sella Ronde. The Fedaia (Marmolada) closes Part One of our journey with cruel
+    beauty!
+- Stage: REST DAY
+- Stage: Stage Six
+  Locations: Canazei - Levico Terme
+  Stats: 201 KM / 5180 M
+  Mainclimbs: Passo Ochini, Rolle, Lavaze, Passo Manghen
+  Description: After a rest day in Canazei, in a hotel with full spa facilities, we
+    travel away from the mineral heart of the Dolomites but nonetheless have to face
+    some severe climbs. Towards the end of this stage the Passo Manghen steals the
+    show, with a climb to match any other in the whole route
+- Stage: Stage Seven
+  Locations: Levico - Castelvecchio
+  Stats: 170 KM / 4800 M
+  Mainclimbs: Passo di Valbona, Vezzana, Campogrosso, Muchione.
+  Description: This is one of the most remote stages, with steep roads carved into
+    the mountainside and wooded climbs on narrow, deserted roads. It also has the
+    only uphill finish; a steep climb to the tiny village of Castelvecchio, baptised
+    ‘Little Zoncolan' by previous CCC riders!
+- Stage: Stage Eight
+  Locations: Castelvecchio - Ponte Arche
+  Stats: 205 KM / 5570 M
+  Mainclimbs: Passo Santa Barbara, Fittanze, Del Creer, Branchetto, Ballino.
+  Description: From the Veronese hills to the Lessini National Park, this stage takes
+    us from woodland to barren, windswept highlands and back into the mountains. It
+    contains two of the longest climbs (24km and 26km) as well as the two most dramatic
+    descents of the whole event.
+- Stage: Stage Nine
+  Locations: Ponte Arche - Tovo
+  Stats: 190 KM / 5700 M
+  Mainclimbs: Passo di Gavia, Mortirola, Tonale, Campiglio.
+  Description: More superb classic climbs – the Madonna di Campiglio, Tonale, Gavia
+    and Mortirola make up a pretty impressive “bucket list” ride for anyone! This
+    is as mighty as it can get. There is a ‘Plan B’ if weather is against us for this
+    dramatic stage.
+- Stage: Stage Ten
+  Locations: Tovo - San Pellegrino Terme
+  Stats: 176 KM / 4300 M
+  Mainclimbs: Mortirolo, Passo Vivione, Presolana, Ganda
+  Description: The toughest side of the Mortirolo opens the stage. After following
+    a superb ridge road to Aprica, we descend to tackle one of the most beautiful
+    climbs of the event; the Passo Vivione. Which leaves the Presolana, with it’s
+    successive 14% ramps, and the Passo di Ganda before our final superb descent back
+    into San Pellegrino Terme.

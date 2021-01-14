@@ -1,0 +1,28 @@
+---
+label: route-image-gallery
+hide_body: true
+fields:
+- type: field_group_list
+  name: gallery_images
+  label: Gallery images
+  fields:
+  - name: image_for_gallery
+    type: file
+    config:
+      maxSize: 250
+    label: Gallery image
+  - name: image_alt_text
+    type: text
+    config:
+      required: false
+    label: Image alt text
+  - name: image_caption
+    type: text
+    config:
+      required: false
+    label: Image Caption
+  - name: image_photo_credit
+    type: text
+    config:
+      required: false
+    label: Photo Credit

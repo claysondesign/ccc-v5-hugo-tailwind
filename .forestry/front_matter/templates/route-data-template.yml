@@ -1,0 +1,85 @@
+---
+label: route-data-template
+hide_body: true
+fields:
+- name: event_title
+  type: text
+  config:
+    required: false
+  label: Event title
+- type: boolean
+  name: enable
+  label: enable
+- type: field_group_list
+  name: stages
+  label: Stages in an event
+  fields:
+  - type: text
+    name: Stage
+    label: Stage
+  - type: text
+    name: Locations
+    label: Locations
+  - type: text
+    name: Stats
+    label: Stats
+  - type: text
+    name: Mainclimbs
+    label: Mainclimbs
+  - type: textarea
+    name: Description
+    label: Description
+  - name: stage_image
+    type: file
+    config:
+      maxSize: 250
+    label: Stage image
+  - type: text
+    name: stage_image_alt
+    label: Stage image alt
+  - name: stage_map
+    type: text
+    config:
+      required: false
+    label: Stage map
+    description: Ride with GPS link
+  - name: theme
+    type: select
+    default: White
+    config:
+      required: true
+      options:
+      - White
+      - Red
+      - Blue
+      - Transparent
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Theme
+    description: Choose background colour for card
+  - name: make_public
+    type: boolean
+    label: Make public
+    description: Determines if stage should be shown or not on preview page
+  - name: background_image
+    type: file
+    config:
+      maxSize: 250
+    label: Background Image
+pages:
+- data/events2022/event-1-piemonte-2022.yml
+- data/events2022/event-2-southern-alps-2022.yml
+- data/events2022/event-3-southern-alps-2022.yml
+- data/events2022/event-4-east-pyrenees-2022.yml
+- data/events2022/event-5-central-pyrenees-2022.yml
+- data/events2022/event-7-asturias-2022.yml
+- data/events2022/test2022.yml
+- data/stages-piemonte.yml
+- data/stages_ardennes.yml
+- data/stages_corsica.yml
+- data/stages_east_pyrenees.yml
+- data/stages_southern_alps.yml
+- data/test-stage.yml

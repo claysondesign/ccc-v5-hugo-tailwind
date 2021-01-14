@@ -1,0 +1,44 @@
+---
+event_title: Test event
+enable: true
+stages:
+- Stage: Stage 3
+  Locations: TTT
+  Stats: "34"
+  Mainclimbs: Big
+  Description: lllllll
+  stage_image: "/images/smaller.jpg"
+  stage_image_alt: Dusk
+  stage_map: ''
+  theme: Blue
+  make_public: false
+- Stage: Stage 1
+  Stats: 234234 234234 24
+  Mainclimbs: 432423 32r f we
+  Description: 'f sdfsfsf sfsdf pdf '
+  stage_image: "/images/IMG_2721.jpg"
+  stage_map: MAP
+  Locations: Location
+  stage_image_alt: dgfdsfssdfsdf
+  theme: White
+  make_public: false
+- Stage: Stage 2
+  Stats: 234234 234234 24
+  Mainclimbs: 432423 32r f we
+  Description: 'f sdfsfsf sfsdf pdf '
+  stage_image: "/images/DSC06002-1.jpg"
+  stage_map: MAP
+  Locations: Location
+  stage_image_alt: Woods
+  theme: Transparent
+  make_public: false
+- Stage: Stage 4
+  Stats: 4 dfdf s
+  Mainclimbs: 432423 32r f we
+  Description: 'f sdfsfsf sfsdf pdf '
+  stage_image: "/images/DSC06002-1.jpg"
+  stage_map: MAPddd
+  Locations: Location
+  stage_image_alt: Woods
+  theme: Red
+  make_public: false

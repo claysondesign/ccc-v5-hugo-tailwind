@@ -1,0 +1,8 @@
+{{ $secondary_image := .Params.secondary_image }}
+
+{{ if $secondary_image }}
+{{ $secondary_image := (trim $secondary_image "/") | absURL }}
+
+    <img alt="{{ .Params.secondary_image_alt }}" src="{{ $secondary_image }}">
+
+{{ end }}

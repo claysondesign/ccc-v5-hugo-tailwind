@@ -1,0 +1,9 @@
+{
+  "actions" : {
+    "build" : {
+      "enabled" : true,
+      "script" : "hugo --gc"
+    }
+  },
+  "identifier" : "752397A8-0289-4652-84E4-5A2D14811AA3"
+}

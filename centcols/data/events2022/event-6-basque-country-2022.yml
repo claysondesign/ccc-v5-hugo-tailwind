@@ -1,0 +1,85 @@
+---
+event_title: 'EVENT 6: Basque Country'
+event_date: ''
+enable: true
+stages:
+- Stage: Stage 51
+  Locations: Pamplona &ndash; Tolosa
+  Stats: ''
+  Mainclimbs: ''
+  Description: ''
+  stage_image: ''
+  stage_map: ''
+  make_public: false
+- Stage: Stage 52
+  Locations: Tolosa &ndash; S Sebastian
+  Stats: ''
+  Mainclimbs: ''
+  Description: ''
+  stage_image: ''
+  stage_map: ''
+  make_public: false
+- Stage: Stage 53
+  Locations: S Sebastian Loop
+  Stats: ''
+  Mainclimbs: ''
+  Description: ''
+  stage_image: ''
+  stage_map: ''
+  make_public: false
+- Stage: Stage 54
+  Locations: S Sebastian &ndash; Elgoibar
+  Stats: ''
+  Mainclimbs: ''
+  Description: ''
+  stage_image: ''
+  stage_map: ''
+  make_public: false
+- Stage: Stage 55
+  Locations: Elgoibar &ndash; Lekeitio
+  Stats: ''
+  Mainclimbs: ''
+  Description: ''
+  stage_image: ''
+  stage_map: ''
+  make_public: false
+- Stage: Stage 56
+  Locations: Lekeitio &ndash; Bilbao
+  Stats: ''
+  Mainclimbs: ''
+  Description: ''
+  stage_image: ''
+  stage_map: ''
+  make_public: false
+- Stage: Stage 57
+  Locations: Bilbao &ndash; Bilbao
+  Stats: ''
+  Mainclimbs: ''
+  Description: ''
+  stage_image: ''
+  stage_map: ''
+  make_public: false
+- Stage: Stage 58
+  Locations: Bilbao &ndash; Laredo
+  Stats: ''
+  Mainclimbs: ''
+  Description: ''
+  stage_image: ''
+  stage_map: ''
+  make_public: false
+- Stage: Stage 59
+  Locations: Laredo &ndash; Vega De Pas
+  Stats: ''
+  Mainclimbs: ''
+  Description: ''
+  stage_image: ''
+  stage_map: ''
+  make_public: false
+- Stage: Stage 60
+  Locations: Vega De Pas &ndash; Santander
+  Stats: ''
+  Mainclimbs: ''
+  Description: ''
+  stage_image: ''
+  stage_map: ''
+  make_public: false

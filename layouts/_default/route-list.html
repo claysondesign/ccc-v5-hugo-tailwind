@@ -1,0 +1,8 @@
+{{ if .Params.route_date }}
+<div class="w-100w-full-nsw-full-m w-25-l pv3 ph0-l pt4-l pb0-l pb4-l mt4 mt4-l mr4-l grow-m bb b-light">
+  <a class="no-underline ccccyan" href="{{ .Permalink }}">
+    <h3 class="fw6 f3 pa0 ma0 dim">{{ .Title }}</h3>
+    <div class="date pa0 pt3 ma0 black">{{ .Params.route_date }}</div>
+  </a>
+</div>
+{{ end }}

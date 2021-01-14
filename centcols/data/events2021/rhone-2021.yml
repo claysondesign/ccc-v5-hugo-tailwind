@@ -1,0 +1,159 @@
+---
+event_title: Rhone
+enable: true
+stages:
+- Stage: Stage 1
+  Locations: Chasse-s-Rhone (Lyon) to Tournon-s-Rhone
+  Stats: 212 kms / 4200m
+  Mainclimbs: Croix de Mont Vieux, Croix de Chabouret.
+  Description: "(Auvergne-Rhone Alps) A very rural wander into the Pilat National
+    park to open. Rolling hills with huge vistas across the Rhone valley towards the
+    Alpine peaks. "
+  stage_image: "/images/c5.JPG"
+  stage_image_alt: ''
+  stage_map: ''
+  theme: White
+  make_public: true
+  background_image: ''
+- Stage: Stage 2
+  Locations: Tournon-s-Rhone to Villard-de-Lans
+  Stats: 192kms / 4300m
+  Mainclimbs: Pré Coquet, Mont Ferrier, Montaud, Saint Nizier
+  Description: "(Rhone, Vercors) After a gently rolling start the day begins properly
+    once we hit the eastern flank of the dramatic Vercors region. Deep gorges, dense
+    woodland followed by wide open plateaux : the Vercors is hard to beat for untouched
+    beauty and 'landscape sculpture'."
+  stage_image: "/images/img_1402.jpg"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Red
+  background_image: ''
+- Stage: Stage 3
+  Locations: Villard de Lans to Crest
+  Stats: 202 kms / 4600m
+  Mainclimbs: Pra l'Etang, Machine, Portette, Limouches
+  Description: "( Vercors) A second chance to take in the wonders of the Vercors.
+    This stage includes the notorious Col de la Machine with its jaw-dropping 'one-km-down'
+    views into the Combe Laval. Heading south-west we eventually descend back into
+    the Rhone valley for a gentle stage finish. "
+  stage_image: "/images/img_2645.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
+- Stage: Stage 4
+  Locations: Crest to Malaucene
+  Stats: 214 kms / 4300m
+  Mainclimbs: Pennes, Soubeyrand, Mont Ventoux
+  Description: "(Drome, Vaucluse) The Drome region is a harsh, arid and wild place,
+    so roads are quiet and houses are scarce. Our first climb ( Pennes) is equally
+    as harsh as the landscape, but therein lies its beauty! As we head south, the
+    Bald Giant of Provence will begin to appear in the haze. We eventually circumnavigate
+    this legend on its north side and then climb it from Sault, perhaps its less tough
+    side, but there is no bland side on this very special mountain.. "
+  stage_image: "/images/988658_610894928935612_758902067_n.jpg"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Blue
+  background_image: ''
+- Stage: Stage 5
+  Locations: Malaucene to Vallon Pont d'Arc
+  Stats: 189 kms / 2,000m
+  Mainclimbs: Pozat, "Corniche des Cevennes".
+  Description: '(Vaucluse, Gard, Ardeche) A transition stage that will be a welcome
+    ''flatter'' stage by CCC standards. Nevertheless we will ride some superb roads,
+    not least the full length of the dramatic "Corniche des Cevennes", used for a
+    TT stage by the Tour de France in 2016. That stage ended in our Rest Day town
+    of Vallon Pont d''Arc. '
+  stage_image: "/images/img_1408.jpg"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Red
+  background_image: ''
+- Stage: Rest day
+  Locations: 'Vallon Pont d''Arc '
+  Stats: ''
+  Mainclimbs: ''
+  Description: ''
+  stage_image: ''
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
+- Stage: Stage 6
+  Locations: Vallon Pont d'Arc to Le Vigan
+  Stats: 203 kms / 4,000m
+  Mainclimbs: Portes, Barraque, Uglas, Pierre Levée
+  Description: "( Cevennes) We head into the heart of the least populated region of
+    France here. Narrow roads, dense woodland, infinity views of multi-horizons. This
+    region has some of the most beautiful roads for riding to be found anywhere in
+    France. "
+  stage_image: "/images/c2.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Blue
+  background_image: ''
+- Stage: Stage 7
+  Locations: Le Vigan to Mende
+  Stats: 197 kms / 4,600m
+  Mainclimbs: Mont Aigoual, Finiels, Croix Neuve ("Mur Jalabert")
+  Description: '(Cevennes) This stage is bookmarked by two Big Names. The Mont Aigoual
+    features in this year''s Tour de France. It is the grandest of all the climbs
+    in this area and has recorded wind speeds faster than on Mont Ventoux. The "Mur"
+    up to the airport in Mende has featured several times in the Tour, always providing
+    huge drama for its summit finish. In between lies the fabulous charm of the lesser-ridden
+    roads of this great National park. '
+  stage_image: "/images/10-5.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
+- Stage: Stage 8
+  Locations: Mende to Privas
+  Stats: 207 kms / 4,000m
+  Mainclimbs: 'Coulet, Meyrand, Pendu, Juvinas, Fayolle. '
+  Description: "(Ardeche) Fewer open plateaux, more tight gorges; fewer steady climbs,
+    more 'ramps'. More bridges. Such is the character of the Ardeche, whose real character
+    we discover in this stage. No big-name climbs, just endless beauty. Not bad, really. "
+  stage_image: "/images/img_1417.jpg"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
+- Stage: Stage 9
+  Locations: Privas to Satilleu
+  Stats: 197 kms / 4,300m
+  Mainclimbs: Couberon, Faye, Mezilhac, Nonieres, Le Trascol
+  Description: "( Ardeche) A sustained succession of steady climbs shapes this stage
+    which takes us almost due north. Our last chance to savour the remoteness of this
+    very special region which by this stage will have all riders under its charm!"
+  stage_image: "/images/img_1744.jpg"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Blue
+  background_image: ''
+- Stage: Stage 10
+  Locations: Satilleu to Chasse-s-Rhone (Lyon)
+  Stats: 162 kms / 2,800m
+  Mainclimbs: Croix de Chabouret, Pavezin, Grenouze
+  Description: "(Auvergne-Rhone Alps).A second chance to explore the Pilat National
+    Park. A gentler stage to finish this event will be welcome. Overall, although
+    daily ride stats are not on the heavy side by CCC measures, this event is tougher
+    than it looks on paper. However, it does have less steep percentage climbs than
+    many other CCC's. An excellent choice for those who seek peaceful, remote riding
+    and are less concerned about filling their 'bucket list'!"
+  stage_image: "/images/c16.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Blue
+  background_image: ''

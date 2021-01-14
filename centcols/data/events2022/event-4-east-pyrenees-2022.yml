@@ -1,0 +1,143 @@
+---
+event_title: 'EVENT 4: East Pyrenees'
+event_date: ''
+enable: true
+stages:
+- Stage: Stage 31
+  Locations: Montpellier &ndash; Castres
+  Stats: 219kms / 3620m
+  Mainclimbs: Baraque de Brai, Femme Morte, Croix des Deux Sous
+  Description: Part Two opens with a wonderful route through the Montagne Noire region,
+    crossing the Herald and Tarn departments. Seldom visited region with so much to
+    discover. Much more than a "transition stage"!
+  stage_image: "/images/c6-1.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Red
+  background_image: ''
+- Stage: Stage 32
+  Locations: Castres &ndash; Ax Les Thermes
+  Stats: 210kms / 4050m
+  Mainclimbs: Fontbruno, Vammigere, Chadnelier, Pradel
+  Description: 'From the Tarn to Arriege, skirting round the medieval town of Caracassonne,
+    this stage brings us finally into the Pyrenees via one of it''s better doors :
+    the Col de Pradel. ''Little'' brother of the Port de Pailheres, this very rural,
+    wooded climb offers an equally generous vista of what follows from it''s summit. '
+  stage_image: "/images/dsc_0693.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Red
+  background_image: ''
+- Stage: Stage 33
+  Locations: Ax Les T &ndash; Amelie Les Bains
+  Stats: 180kms / 4200m
+  Mainclimbs: Port de Pailheres, Dent, Auzines, Palomere
+  Description: The Crown Climb ( Pailheres)  of the Arriege region opens this stage
+    and offers riders superb vistas of the Canigou Massif from the top. Beyond can
+    be seen the first Spanish mountains, waiting expectantly for us. This region is
+    rich in impressive Cathar castle ruins several of which will be seen on this stage.
+    The dense network of narrow roads makes this area a treat to explore. You may
+    even see a bear....!
+  stage_image: "/images/dsc03300.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Red
+  background_image: ''
+- Stage: Stage 34
+  Locations: Amelie Les Bains &ndash; Girona
+  Stats: 190kms / 3000m
+  Mainclimbs: Mirailles, Figuier Bosc della Margallia, Portell (Els Angels)
+  Description: The first of 18 stages that weave their way across the French / Spanish
+    border from East to West. A wonderful coastal route but with the mountains never
+    far enough away from us to forget what lies ahead!
+  stage_image: "/images/img_3393.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
+- Stage: Stage 35
+  Locations: Girona &ndash; Girona
+  Stats: 188kms / 3000m
+  Mainclimbs: El Far, Palomera, Sesplanes
+  Description: The Girona Hills are deservedly favoured by many pro's as the perfect
+    training ground. Gradients are never too harsh, roads flow in a twisty dance with
+    the landscape and the gentle climate makes this area very special for cyclists
+    to explore. The gravel network is equally impressive, so we have to include a
+    bit here and there!
+  stage_image: "/images/dsc03170.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
+- Stage: Stage 36
+  Locations: Girona &ndash; La Molina
+  Stats: 191kms / 4400m
+  Mainclimbs: Collfred, Vidra, Creueta (la Molina)
+  Description: A new route from Girona to the lofty ski station of La Molina, often
+    featured in the Vuelta as a stage finish. But of course via the unmissable Collfred!
+    Perhaps the toughest climb of these ten stages....
+  stage_image: "/images/dsc03211.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
+- Stage: Stage 37
+  Locations: La Molina &ndash; Ordino
+  Stats: 189kms / 4550m
+  Mainclimbs: Guardia, Gent, Galina, Baixalis
+  Description: 'The first of two stages that cover the best of the climbs in Andorra.
+    We will approach Andorra from the south, via Spain, exploring roads new to the
+    CCC. This stage will be dramatic, beautiful and particularly challenging. '
+  stage_image: "/images/084.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Blue
+  background_image: ''
+- Stage: Stage 38
+  Locations: Ordino &ndash; Foix
+  Stats: 207 kms / 4550m
+  Mainclimbs: Port d'Envalira, Chioula, Marmare, Montsegur, Mont d'olmec
+  Description: 'Over the highest road point of the Pyrenees is our way out of Andorra,
+    offering a thrilling 40 km descent to Ax-les Thermes. From here we explore more
+    of the wonderful Arriege region and take in a new climb featured in the Tour in
+    2018 : the Mont d''Olmes, just before we glide into the medieval capital town
+    of this region, Foix. '
+  stage_image: "/images/thumb_dsc05228_1024.jpg"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Blue
+  background_image: ''
+- Stage: Stage 39
+  Locations: Foix &ndash; B De Luchon
+  Stats: 205kms / 5200m
+  Mainclimbs: Biert, Uscla, Portech, Portet d'Aspet, Menté, Port de Balès
+  Description: A classic Pyrenees Tour stage with a fair bit extra! Here we explore
+    some of the best pages of cycling history. The roads ooze with their own special
+    charisma. They wait for us with glee!
+  stage_image: "/images/img_8068-1.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Blue
+  background_image: ''
+- Stage: Stage 40
+  Locations: B De Luchon &ndash; Tarbes
+  Stats: 185kms / 5460m
+  Mainclimbs: Peyresourde, Aspin, Seyrede, Palomieres
+  Description: 'More classic Tour summits to close this chapter of the Journey. From
+    the High Pyrenees to the gloriously green lower foothills, this stage shows how
+    the charm of the Pyrenees is not only found on the High Roads. '
+  stage_image: "/images/img_3360.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Red
+  background_image: ''

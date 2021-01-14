@@ -1,0 +1,141 @@
+---
+event_title: 'Event 3: Alps / Ardeche'
+event_date: ''
+enable: true
+stages:
+- Stage: Stage 21
+  Locations: Grenoble &ndash; Crest
+  Stats: 208 kms / 4450m
+  Mainclimbs: Col de la Machine and many other Vercors treasures
+  Description: Pretty much the best of the Vercors climbs, plateaux and gorges  here.
+    Not much missing!
+  stage_image: "/images/img_1090.JPG"
+  stage_map: ''
+  make_public: true
+  theme: Blue
+  stage_image_alt: ''
+  background_image: ''
+- Stage: Stage 22
+  Locations: Crest &ndash; Malaucene
+  Stats: 190kms / 4300m
+  Mainclimbs: Pennes, Soubeyrand, Mont Ventoux
+  Description: 'The remote and rugged beauty of the Drome region leads us due south
+    to the unmissable Mont Ventoux "en finale". Nice day out. '
+  stage_image: "/images/img_2617.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Red
+  background_image: ''
+- Stage: Stage 23
+  Locations: Malaucene &ndash; Ales
+  Stats: 195kms / 2200m
+  Mainclimbs: Col de Champ Paga, Col de Bourrico
+  Description: 'Crossing the Rhone means less climbing, more time to wander and explore
+    like a ''cyclo-tourist'', maybe?! Could be more café stops than usual?!  '
+  stage_image: "/images/img_1393.jpg"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Red
+  background_image: ''
+- Stage: Stage 24
+  Locations: Ales &ndash; Ales
+  Stats: 208kms /  3200m
+  Mainclimbs: Many of the Ardechoise favourites
+  Description: This is the first of two stages which explore the best roads of the
+    extremely popular, multi-day "Ardechoise" sportive. Although the collective total
+    of climbing is not excessive, the road is rarely flat. It's tough terrain,  full
+    of such charm and character. This remote area of France is one of the most genuinely
+    surprising areas to ride in you can find. It needed a loop stage such as this
+    to have time to explore its dense network of narrow roads.
+  stage_image: "/images/img_1607.jpg"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Red
+  background_image: ''
+- Stage: Stage 25
+  Locations: Ales &ndash; Aubenas
+  Stats: 204kms / 3900m
+  Mainclimbs: 'Pendedis,Tranchée de Malons, Tastavin. '
+  Description: 'Part Two of the best bits of the Ardèche. Its beauty is equal to its
+    remoteness. Simple as that. '
+  stage_image: "/images/c18.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
+- Stage: Stage 26
+  Locations: Aubenas &ndash; Chaumont Le Bourg
+  Stats: 200 kms / 3900m
+  Mainclimbs: Mezilhac, Mont Gerbier
+  Description: 'Another feast of remoteness. This stage will take us from the northern
+    reach of the Ardeche, around the town of Le Puy ( capital of the very special
+    volcanic Puy region) and into the vast wooded region of the Livardois. We rode
+    this in 2017, but here we ride a new version in the opposite direction. '
+  stage_image: "/images/img_4888.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
+- Stage: Stage 27
+  Locations: Ch –Le-B &ndash; La Bourboule
+  Stats: 184kms / 3600m
+  Mainclimbs: Mont Dore ( Col de Croix St Robert)
+  Description: 'The second of the original CCC Cevennes stages ridden ''backwards''.
+    The spectacular road up onto the Mont Dore will undoubtedly provide a superb finale
+    to a stage which takes us to the northern tip of our journey, a mere 80 kms south
+    of Clermont Ferrand. '
+  stage_image: "/images/img_1410.jpg"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
+- Stage: Stage 28
+  Locations: Bouboule &ndash; Laguiole
+  Stats: 203kms / 4100m
+  Mainclimbs: Puy Marie ( Pas de Petrol)
+  Description: My favourite part of the Massif Central. New stage-end in the best
+    "knife town" in Europe!
+  stage_image: "/images/img_8201.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Blue
+  background_image: ''
+- Stage: Stage 29
+  Locations: Laguiole &ndash; Florac
+  Stats: 204kms / 3700m
+  Mainclimbs: Aubrac, Trebatut,Montmirat
+  Description: 'The Aubrac National Park is a wild, desolate place populated mainly
+    by its very distinct rusty-coloured cows. It''s an impressive place to ride through.
+    This stage ends in Florac, close to the Gorges du Tarn, which offer more drama
+    of a different kind. '
+  stage_image: "/images/img_1402.jpg"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Blue
+  background_image: ''
+- Stage: Stage 30
+  Locations: Florac &ndash; Montpellier
+  Stats: 196kms / 3600m
+  Mainclimbs: Espinas,Mont Aigoual, Minier.
+  Description: 'The final stage in this exceptional region includes the mountain which
+    perhaps defines the character of this area better than any other : Mont Aigoual.
+    We approach it via the "best side" and combined with the Col de Minier has the
+    making for an unforgettable ride. After riding up to the ''roof'' of the Cevennes
+    our route takes us through some more stunning landscape and villages on our way
+    down to sea level where we finish just outside Montpellier. The 65RIDE will then
+    take a break of three weeks before re-starting with Event 4 from this same point.
+    Destination the Pyrenees and then Cantabrico.  '
+  stage_image: "/images/img_8146.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Blue
+  background_image: ''

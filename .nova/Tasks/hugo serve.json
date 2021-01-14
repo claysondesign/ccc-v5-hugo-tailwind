@@ -1,0 +1,9 @@
+{
+  "actions" : {
+    "run" : {
+      "enabled" : true,
+      "script" : "hugo serve\t"
+    }
+  },
+  "identifier" : "B9D2859E-4450-48FA-86B7-52238BBBCCF2"
+}

@@ -1,0 +1,130 @@
+---
+event_title: 'EVENT 2:  Alps'
+event_date: ''
+enable: true
+stages:
+- Stage: Stage 11
+  Locations: Carros &ndash; Carros
+  Stats: 206kms /4450m
+  Mainclimbs: Mont Vial, Blaine, Pierrefeu (gravel).
+  Description: The Classic loop stage that has opened the CCC S Alps forever. I just
+    love this route. But with a cheeky gravel climb bonus this time!
+  stage_image: "/images/IMG_0667.jpg"
+  stage_map: https://ridewithgps.com/routes/31649412
+  make_public: true
+  stage_image_alt: ''
+  theme: Blue
+  background_image: ''
+- Stage: Stage 12
+  Locations: Carros &ndash; Castellane
+  Stats: 186kms / 4400m
+  Mainclimbs: Ecre, Demandoix
+  Description: 'Features the mighty 20km climb to the Col d''Ecre, one of the most
+    reputed in the Var region. From there crossing typical Provencal hills towards
+    the stupendous Gorges de Verdon, with a tasty loop round the lac Verdon to end
+    the stage. '
+  stage_image: "/images/IMG_1289.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: ''
+  theme: Blue
+  background_image: ''
+- Stage: Stage 13
+  Locations: Castellane &ndash; Digne Les Bains
+  Stats: 209kms / 4500m
+  Mainclimbs: Pas d'Abauc ( Gorges du Verdon), Illoire, Corobin
+  Description: 'The Mighty Gorges du Verdon are the stars of this dramatic stage,
+    followed by a complete tour of the emerald Lac de sainte Croix. The final climb,
+    Col du Corobin, has often featured in the Paris-Nice race. A tough wooded climb
+    with a glorious descent into Digne -les-Bains. '
+  stage_image: "/images/stage 3 c.jpg"
+  stage_map: https://ridewithgps.com/routes/31651425
+  make_public: true
+  stage_image_alt: ''
+  theme: Red
+  background_image: ''
+- Stage: Stage 14
+  Locations: Dignes Les Bains &ndash; Barcelonette
+  Stats: 189kms / 4750m
+  Mainclimbs: Allos, Champs, Cayolle
+  Description: On our way north the "Trio Terrible" loop (Allos,Champs,Cayolle) cannot
+    be missed. Surely one of the best combo's road riding in the mountains can offer.
+  stage_image: "/images/IMG_5631-1.JPG"
+  stage_map: https://ridewithgps.com/routes/31703807
+  make_public: true
+  stage_image_alt: ''
+  theme: Red
+  background_image: ''
+- Stage: Stage 15
+  Locations: Barcelonette &ndash; Valloire
+  Stats: 179kms / 5300m
+  Mainclimbs: Vars, Izoard, Granon, Galibier
+  Description: 'Four Mighty Giants make the profile of this epic stage pretty simple.
+    The first time the  ''up & back'' Granon climb will feature in a CCC. '
+  stage_image: "/images/IMG_0842.JPG"
+  stage_map: https://ridewithgps.com/routes/31710499
+  make_public: true
+  stage_image_alt: ''
+  theme: Red
+  background_image: ''
+- Stage: Stage 16
+  Locations: Valloire &ndash; St Jean De Maurienne
+  Stats: 182kms / 4800m
+  Mainclimbs: Telegraphe, La Toussuire, Croix de Fer, Beau Plan, Sapey.
+  Description: 'A tough but majestic loop around St Jean de Maurienne is the centrepiece
+    of this typical CCC take on these Classic climbs. '
+  stage_image: "/images/img_5797.jpg"
+  stage_map: https://ridewithgps.com/routes/31710975
+  make_public: true
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
+- Stage: Stage 17
+  Locations: St Jean De M &ndash; Moutiers
+  Stats: 161kms / 5100m
+  Mainclimbs: Madeleine, Valmorel, Naves,La Plagne
+  Description: 'Totally new parcours here amongst the highest roads. The Col de la
+    Madeleine via the "old road" opens the stage, then we take on the best climbs
+    around Moutiers. '
+  stage_image: "/images/img_5810.JPG"
+  stage_map: https://ridewithgps.com/routes/31711019
+  make_public: true
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
+- Stage: Stage 18
+  Locations: Moutiers &ndash; Albertville
+  Stats: 198kms / 5680m
+  Mainclimbs: Col de la Loze, Saisies, Arpettaz, Vorger.
+  Description: 'Another stage up there with the Giants. La Loze, a new climb for the
+    Tour de France in 2020, will be the main attraction.  '
+  stage_image: "/images/img_0968.JPG"
+  stage_map: https://ridewithgps.com/routes/31711152
+  make_public: true
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
+- Stage: Stage 19
+  Locations: Albertville &ndash; Belley
+  Stats: 180kms / 5000m
+  Mainclimbs: Marocaz, Mont Revard, Chat
+  Description: Superb views over Alpine peaks and lakes and the infamous Col du Chat.
+    Mountain bliss!
+  stage_image: "/images/8xll-1.JPG"
+  stage_map: https://ridewithgps.com/routes/31711170
+  make_public: true
+  stage_image_alt: ''
+  theme: Blue
+  background_image: ''
+- Stage: Stage 20
+  Locations: Belley &ndash; Grenoble
+  Stats: 191kms / 4400m
+  Mainclimbs: Granier, Coq, Porte
+  Description: 'The picturesque Chartreuse region makes this a perfect way to end
+    this Alpine chapter of the 65RIDE. '
+  stage_image: "/images/DSC06286.jpg"
+  stage_map: https://ridewithgps.com/routes/31711227
+  make_public: true
+  stage_image_alt: ''
+  theme: Blue
+  background_image: ''

@@ -1,0 +1,62 @@
+{{/* {{ .Params.stagedetails | markdownify }}
+{{ $thisstage := .Params.stagedetails }} */}}
+{{/* {{ $eventtitle := .event_title }} */}}
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="stages" class="mt-8 md:mt-8 w-full border-b">
+  <h2 class="text-2xl pb-2 md:pb-4 text-cccred">The Stages* </h2>
+</div>
+
+<div class="w-full md:w-2/3 md:py-8 md:pr-8 md:pr-16">
+
+  {{ range .stages }}
+  <div class="pt-4 pb-2 mb-4 md:mb-8">
+    {{ with .Stage }}
+    <h4 class="text-ccccyan">{{ . }}</h4>
+    {{ end }}
+    {{ with .Locations }}
+    <h3 class="text-3xl text-cccred md:pb-4">{{ . }}</h3>
+    {{ end }}
+    {{ with .Stats }}
+    <p class="pb-2 md:text-xl">{{ . }}</p>
+    {{ end }}
+    {{ with .Mainclimbs }}
+    <p class="pb-2"><span class="italic">Main climbs:</span><br> {{ . }}</p>
+    {{ end }}
+    {{ with .Description }}
+    <p class="">{{ . }}</p>
+    {{ end }}
+  </div>
+  {{ end }}
+
+  {{/* {{ range .stages }}
+  <div class="pt-4 pb-2 mb-4 md:mb-8">
+    {{ with .Stage }}
+    <h4 class="text-ccccyan">{{ . }}</h4>
+    {{ end }}
+    {{ with .Locations }}
+    <h3 class="text-3xl text-cccred md:pb-4">{{ . }}</h3>
+    {{ end }}
+    {{ with .Stats }}
+    <p class="pb-2 md:text-xl">{{ . }}</p>
+    {{ end }}
+    {{ with .Mainclimbs }}
+    <p class="pb-2"><span class="italic">Main climbs:</span><br> {{ . }}</p>
+    {{ end }}
+    {{ with .Description }}
+    <p class="">{{ . }}</p>
+    {{ end }}
+  </div>
+  {{ end }} */}}
+
+</div>

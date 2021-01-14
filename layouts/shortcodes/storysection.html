@@ -1,0 +1,14 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+  <div class="">
+
+    <h3 class="p-8 md:p-16 pb-4 md:pb-8 md:w-7/8 text-5xl leading-none uppercase text-cccred">{{.Get "header"}}</h3>
+
+    <div class="p-8 md:p-16 bg-cover" style="background-image: url('{{.Get "storyimage"}}');">
+
+      <div class="w-100 sm:w-1/2 lg:w-1/3">
+        <div class="text-white text-lg">{{.Inner}}</div>
+      </div>
+
+    </div>
+
+  </div>

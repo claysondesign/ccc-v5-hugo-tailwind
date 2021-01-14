@@ -1,0 +1,25 @@
+---
+event_title: Corsica
+event_date: '18-25 April 2020'
+enable: true
+stages:
+- Stage: Stage 1*
+  Locations: Lucca - Castiglione dei Pepoli
+  Stats: 180kms / 4400m
+  Mainclimbs: ''
+  Description: A vicious start to the journey with almost every climb hitting double-digit gradient regularly. Wooded lanes lead up to sea-view ridges.
+  stage_image: "/images/IMG_7926.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: Mountains
+  theme: White
+- Stage: Stage 2*
+  Locations: Lucca - Castiglione dei Pepoli
+  Stats: 180kms / 4400m
+  Mainclimbs: ''
+  Description: A vicious start to the journey with almost every climb hitting double-digit gradient regularly. Wooded lanes lead up to sea-view ridges.
+  stage_image: "/images/IMG_7926.JPG"
+  stage_map: ''
+  make_public: true
+  stage_image_alt: Mountains
+  theme: White

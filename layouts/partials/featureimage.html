@@ -1,0 +1,43 @@
+<div class="mx-auto max-w-full flex justify-center flex-wrap">
+  <div class="xl:px-16 py-0">
+    <figure class="m-0 p-0 relative">
+
+
+      {{ with .Params.featured_image }}
+      {{ $imageResource := ($.Site.GetPage "section" "images").Resources.GetMatch (strings.TrimPrefix "/images/" . ) }}
+      {{ $resizedsm := $imageResource.Resize "640x" }}
+      {{ $resizedmd := $imageResource.Resize "1024x" }}
+      {{ $resizedlg := $imageResource.Resize "1280x" }}
+      {{ $resizedxl := $imageResource.Resize "2048x" }}
+
+      <picture class="block">
+
+          <source media="(min-width: 1280px)" srcset="{{ $resizedlg.RelPermalink }} 1x,
+                    {{ $resizedxl.RelPermalink }} 2x,
+                    {{ $resizedxl.RelPermalink }} 3x">
+
+          <source media="(min-width: 1024px)" srcset="{{ $resizedlg.RelPermalink }} 1x,
+                    {{ $resizedxl.RelPermalink }} 2x,
+                    {{ $resizedxl.RelPermalink }} 3x">
+
+          <source media="(min-width: 768px)" srcset="{{ $resizedmd.RelPermalink }} 1x,
+                    {{ $resizedlg.RelPermalink }} 2x,
+                    {{ $resizedxl.RelPermalink }} 3x">
+
+          <source media="(min-width: 640px)" srcset="{{ $resizedsm.RelPermalink }} 1x,
+                    {{ $resizedmd.RelPermalink }} 2x,
+                    {{ $resizedlg.RelPermalink }} 3x">
+
+          <img class="w-screen" alt="{{ $.Params.featured_image_alt }}" src="{{ $resizedlg.RelPermalink }}" />
+        </picture>
+
+      {{/* <img class="w-screen" alt="{{ $alttext }}" src="{{ $resized.RelPermalink }}" /> */}}
+      {{ end }}
+      {{/* <img alt="{{ $.Params.featured_image_alt }}" class="w-screen" src="{{ $src }}"> */}}
+
+      <figcaption class="absolute p-1 bottom-0 right-0 text-white text-sm">{{ .Params.featured_image_credit | markdownify }}</figcaption>
+
+    </figure>
+  </div>
+</div>
+{{/* {{ end }} */}}

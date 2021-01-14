@@ -1,0 +1,55 @@
+---
+event_title: 'EVENT 7: Asturias'
+event_date: ''
+enable: true
+stages:
+- Stage: Stage 61
+  Locations: Santander &ndash; Potes
+  Stats: ''
+  Mainclimbs: ''
+  Description: ''
+  stage_image: ''
+  stage_map: ''
+  make_public: false
+  stage_image_alt: ''
+  theme: Blue
+- Stage: Stage 62
+  Locations: Potes &ndash; Pola Di Lena
+  Stats: ''
+  Mainclimbs: ''
+  Description: ''
+  stage_image: ''
+  stage_map: ''
+  make_public: false
+  stage_image_alt: ''
+  theme: 'White'
+- Stage: Stage 63
+  Locations: Pola Di Lena Loop
+  Stats: ''
+  Mainclimbs: ''
+  Description: ''
+  stage_image: ''
+  stage_map: ''
+  make_public: false
+  stage_image_alt: ''
+  theme: 'White'
+- Stage: Stage 64
+  Locations: Pola &ndash; Cangas
+  Stats: ''
+  Mainclimbs: ''
+  Description: ''
+  stage_image: ''
+  stage_map: ''
+  make_public: false
+  stage_image_alt: ''
+  theme: 'White'
+- Stage: Stage 65
+  Locations: Cangas &ndash; Santander
+  Stats: ''
+  Mainclimbs: ''
+  Description: ''
+  stage_image: ''
+  stage_map: ''
+  make_public: false
+  stage_image_alt: ''
+  theme: 'White'
