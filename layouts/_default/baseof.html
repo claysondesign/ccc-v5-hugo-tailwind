@@ -21,12 +21,12 @@
   {{ end }}
 
 
-{{ $menuconfig := resources.Get "/js/menu.js" }}
-{{ $concatjs := slice $menuconfig | resources.Concat "/js/bundle.js" | resources.Minify }}
+{{ $menuconfig := resources.Get "js/menu.js" }}
+{{ $concatjs := slice $menuconfig | resources.Concat "js/bundle.js" | resources.Minify }}
 {{ $secureJS := $concatjs | resources.Fingerprint "sha512" }}
 
-{{ $macyjs := resources.Get "/js/macy.js" }}
-{{ $macyjsconfig := resources.Get "/js/macy.config.js" }}
+{{ $macyjs := resources.Get "js/macy.js" }}
+{{ $macyjsconfig := resources.Get "js/macy.config.js" }}
 {{ $concatalljs := slice $menuconfig $macyjs $macyjsconfig | resources.Concat "js/bundle-all.js" | resources.Minify }}
 {{ $secureallJS := $concatalljs | resources.Fingerprint "sha512" }}
 
