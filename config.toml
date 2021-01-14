@@ -2,7 +2,6 @@ DefaultContentLanguage = "en"
 baseURL = "https://www.centcolschallenge.com/"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 enableRobotsTXT = true
-force = true
 languageCode = "en"
 title = "Cent Cols Challenge"
 
