@@ -15,9 +15,6 @@ quality = 90
 
 # https://discourse.gohugo.io/t/importing-js-from-node-packages/23545/3
 [module]
-  [[module.mounts]]
-    source = "static"
-    target = "static"
 
   [[module.mounts]]
     source = "assets"
