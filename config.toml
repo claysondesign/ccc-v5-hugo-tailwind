@@ -1,6 +1,6 @@
 DefaultContentLanguage = "en"
-contentDir = "centcols/content"
-dataDir = "centcols/data"
+contentDir = "content"
+dataDir = "data"
 baseURL = "https://www.centcolschallenge.com/"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 enableRobotsTXT = true
