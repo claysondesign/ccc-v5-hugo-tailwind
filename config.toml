@@ -1,6 +1,5 @@
 DefaultContentLanguage = "en"
 contentDir = "centcols/content"
-assetDir = "assets"
 dataDir = "centcols/data"
 baseURL = "https://www.centcolschallenge.com/"
 disableKinds = ["taxonomy", "taxonomyTerm"]
@@ -24,4 +23,4 @@ quality = 90
 
   [[module.mounts]]
     source = "node_modules/macy/dist/macy.js"
-    target = "assets/js/macy.js"
+    target = "./assets/js/macy.js"
