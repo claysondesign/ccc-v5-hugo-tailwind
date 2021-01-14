@@ -1,5 +1,6 @@
 DefaultContentLanguage = "en"
 contentDir = "centcols/content"
+assetDir = "assets"
 dataDir = "centcols/data"
 baseURL = "https://www.centcolschallenge.com/"
 disableKinds = ["taxonomy", "taxonomyTerm"]
@@ -15,6 +16,7 @@ quality = 90
 
 # https://discourse.gohugo.io/t/importing-js-from-node-packages/23545/3
 [module]
+
 
   [[module.mounts]]
     source = "assets"
