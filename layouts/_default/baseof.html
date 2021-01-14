@@ -25,9 +25,8 @@
 {{ $concatjs := slice $menuconfig | resources.Concat "js/bundle.js" | resources.Minify }}
 {{ $secureJS := $concatjs | resources.Fingerprint "sha512" }}
 
-{{ $macyjs := resources.Get "node_modules/macy.js" }}
 {{ $macyjsconfig := resources.Get "js/macy.config.js" }}
-{{ $concatalljs := slice $macyjs $macyjsconfig $menuconfig | resources.Concat "js/bundle-all.js" | resources.Minify }}
+{{ $concatalljs := slice $macyjsconfig $menuconfig | resources.Concat "js/bundle-all.js" | resources.Minify }}
 {{ $secureallJS := $concatalljs | resources.Fingerprint "sha512" }}
 
 {{ if eq .RelPermalink "/the-65-ride-2022/" }}
