@@ -41,11 +41,7 @@ The list of planned events up to 2022 can be [found on the about page](/about#th
 
 {{% /warning-signoff %}}
 
-
-
 {{% homegallery %}}
-
-
 
 {{% /homegallery %}}
 
