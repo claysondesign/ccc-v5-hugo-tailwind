@@ -41,3 +41,6 @@ target = "i18n"
 source = "archetypes"
 target = "archetypes"
 
+[[module.mounts]]
+source = "node_modules/macy/dist/macy.js"
+target = "assets/js/macy.js"
