@@ -1,7 +1,0 @@
-node_modules/*
-!node_modules/macy/
-npm-debug.log
-.DS_STORE
-*.swp
-package-lock.json
-public
