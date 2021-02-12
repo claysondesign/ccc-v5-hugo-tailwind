@@ -13,6 +13,15 @@ quality = 90
 # https://discourse.gohugo.io/t/importing-js-from-node-packages/23545/3
 [module]
 
+noProxy = "none"
+noVendor = ""
+private = "*.*"
+proxy = "direct"
+
+[[module.mounts]]
+source = "node_modules/macy/dist/macy.js"
+target = "assets/js/macy.js"
+
 [[module.mounts]]
 source = "content"
 target = "content"
@@ -41,6 +50,3 @@ target = "i18n"
 source = "archetypes"
 target = "archetypes"
 
-[[module.mounts]]
-source = "node_modules/macy/dist/macy.js"
-target = "assets/js/macy.js"
