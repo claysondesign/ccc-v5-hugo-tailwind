@@ -1,10 +1,10 @@
 {
 	"name": "centcolschallenge",
 	"version": "5.0",
-	"description": "Website for CCC",
+	"description": "Website for Cent Cols Challenge",
 	"main": "index.js",
-	"repository": "https://bitbucket.org/claypole/ccc-v5-hugo-tailwind/",
-	"author": "Simon CLayson <sc@clayson.design>",
+	"repository": "https://github.com/claysondesign/ccc-v5-hugo-tailwind",
+	"author": "Simon Clayson <sc@clayson.design>",
 	"license": "MIT",
 	"scripts": {
 		"dev": "hugo server --disableFastRender",
