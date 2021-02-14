@@ -14,8 +14,8 @@ quality = 90
 [module]
 
 [[module.mounts]]
-source = "node_modules/macy/dist/macy.js"
-target = "assets/js/macy.js"
+source = "assets"
+target = "assets"
 
 [[module.mounts]]
 source = "content"
@@ -34,10 +34,6 @@ source = "data"
 target = "data"
 
 [[module.mounts]]
-source = "assets"
-target = "assets"
-
-[[module.mounts]]
 source = "i18n"
 target = "i18n"
 
@@ -45,3 +41,6 @@ target = "i18n"
 source = "archetypes"
 target = "archetypes"
 
+[[module.mounts]]
+source = "node_modules/macy/dist/macy.js"
+target = "assets/js/macy.js"
