@@ -43,4 +43,4 @@ target = "archetypes"
 
 [[module.mounts]]
 source = "node_modules/macy/dist/macy.js"
-target = "assets/js/macy.js"
+target = "assets/libaries/macy.js"
