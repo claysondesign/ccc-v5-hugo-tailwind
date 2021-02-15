@@ -14,7 +14,7 @@ quality = 90
 [module]
 
 [[module.mounts]]
-source = "assets"
+source = "asset-src"
 target = "assets"
 
 [[module.mounts]]
