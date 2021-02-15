@@ -39,10 +39,9 @@ source = "archetypes"
 target = "archetypes"
 
 [[module.mounts]]
-source = "node_modules/macy/dist/macy.js"
-target = "assets/libaries/macy.js"
-
-[[module.mounts]]
 source = "asset-src"
 target = "assets"
 
+[[module.mounts]]
+source = "node_modules/macy/dist/macy.js"
+target = "assets/libaries/macy.js"
