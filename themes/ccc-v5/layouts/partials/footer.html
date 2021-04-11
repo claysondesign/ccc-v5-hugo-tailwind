@@ -1,0 +1,72 @@
+<footer role="contentinfo" class="">
+
+  <div class="mx-auto max-w-6xl px-6 border-t border-cccgrey">
+    <div class="">
+
+      <div class="flex justify-center flex-wrap items-center py-8 md:px-16 md:py-16">
+        <a class="py-4 md:px-4" title="Visit Torq Fitness website" href="http://www.torqfitness.co.uk">
+          <div class="">
+            <img alt="Torq logo" src="/images/logo/logo-torq.png">
+          </div>
+        </a>
+        <a class="py-4 md:px-4" title="Visit Parlee website" href="http://parleecycles.com">
+          <div class="">
+            <img alt="Parlee logo" src="/images/logo/logo-parlee.png">
+          </div>
+        </a>
+        <a class="py-4 md:px-4" title="Visit Albion Cycling website" href="https://www.albioncycling.com">
+          <div class="">
+            {{ readFile "/images/logo/logo-albion-bk.svg" | safeHTML }}
+          </div>
+        </a>
+        {{/* <a class="py-4 md:px-4" title="Visit Bespoke cycling website" href="https://www.bespokecycling.com">
+          <div class="">
+            <img alt="Bespoke Cycling logo" src="/images/logo/logo-bespoke.png">
+          </div>
+        </a> */}}
+        <a class="py-4 md:px-4" title="Visit Velo Pro website" href="https://www.velopro.bike">
+          <div class="">
+            <img alt="Velo Pro logo" src="/images/logo/logo-velopro.png">
+          </div>
+        </a>
+        <a class="py-4 md:px-4" title="Visit Fietsen King website" href="https://www.fietsenking.be">
+          <div class="">
+            <img alt="Fietsen King logo" src="/images/logo/fietsenkinglogo_CHAINCROWN-2.png">
+          </div>
+        </a>
+        <a class="py-4 md:px-4" title="Visit Coefficient Cycling website" href="https://www.coefficient.cc">
+          <div class="">
+            <img alt="Coefficient Cycling logo" src="/images/logo/logo-coefficient.png">
+          </div>
+        </a>
+
+        <a class="py-4 md:px-4" title="Visit Spatz Wear" href="http://www.spatzwear.com/">
+          <div class="">
+            <img alt="Spatzwear logo" src="/images/logo/logo-spatzwear.png">
+          </div>
+        </a>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="bg-cccblack text-white pb-8 md:pb-16">
+
+    <div class="mx-auto max-w-6xl px-6">
+      <ul class="flex flex-wrap items-center text-center text-white py-4 md:py-8 text-white mb-8 md:mb-12 md:pt-12">
+        {{ partial "social_media.html" . }}
+      </ul>
+
+      <ul class="flex flex-wrap mb-4">
+        {{ range .Site.Menus.footermenu }}
+        <li class="pr-4"><a class="underline hover:text-ccccyan" href="{{ .URL }}">{{ .Name }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+
+    <div class="mx-auto max-w-6xl px-6 ">
+      <p class="font-sm">© Cent Cols Challenge {{ dateFormat "2006" now }} A2OE ApS <br> Design: <a class="underline" href="https://clayson.design">Clayson Design</a> | Photos: Jered Gruber and Phil Deeker</p>
+    </div>
+
+  </div>
+</footer>

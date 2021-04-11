@@ -18,9 +18,6 @@ featured_image_credit: ''
 key_testimonial: ''
 key_cite: ''
 menu:
-  routemenu2020:
-    name: ''
-    weight: 
   routemenu2021:
     name: Piemonte
     weight: 6

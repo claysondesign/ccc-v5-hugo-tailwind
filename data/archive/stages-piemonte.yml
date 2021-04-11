@@ -1,0 +1,210 @@
+---
+enable: false
+stages:
+- Stage: Stage One
+  Locations: San Pellegrino Terme Loop
+  Stats: 193KM / 5400M
+  Mainclimbs: Passo Salmezza, Colle Gallo, Colle di San Fermo, Parzanica, Ranzanico,
+    Passo Ganda
+  Description: 'Sharp climbs set the scene from km five on this intro Loop stage.
+    After a typical rise to a Madonna sanctuary we enjoy a sweepig descent into the
+    Valle di Serio, from where tackle the Colle Gallo, known locally  as the "Picolo
+    Gavia"! From here we swoop down to our first lake-side section of the event, along
+    the Lago d''Iseo. This combination of steep-sided hills and tranquil lakes is
+    typical of all of the Lombardy part of this Journey. After a brief flat recovery
+    section, we toil our ways up to the ridiculously balanced hill-top village of
+    Parzanica, before we head back down to the lake via an equally scary road! Welcome
+    to CCC Piemonte! To find our way back to San Pellegrino we will take roads that
+    are as narrow, remote and as steep as any we will meet in the whole event. BUT,
+    we remain on tarmac! This who have ridden the CC Dolomites will recognise the
+    final section of this stage over the Paso Ganda which was Col #100 on that event.
+    Our own journey has only just begun !!'
+  stage_image: "/images/DSC06511.jpg"
+  stage_image_alt: ''
+  stage_map: ''
+  theme: White
+  make_public: true
+  background_image: ''
+- Stage: Stage Two
+  Locations: San Pellegrino Terme to Como
+  Stats: 196KM / 4800M
+  Mainclimbs: Sant Antonio Abbandonato, Valcava, Valbrona, Madonna di Ghisallo, Muro
+    di Sormano, Civiglio
+  Description: 'This stage covers the best parts of the Giro di Lombardia, and a bit
+    more! Another busy, but narrow and steep climb to a "Perruchia"opens the stage
+    taking us over in the Valle Brembilla from where we have a shorter ''practise
+    climb'' before taking on the long but wonderful Valcava climb, one of the most
+    well-known of the region. An equally thrilling descent is followed by a slightly
+    gentler section which brings us to the shores of the eastern ''branch'' of the
+    Lago di Como. The brief flat ride along it''s shore provides a welcome relief
+    before we take on the two most renowned climbs of this route : the Ghisallo and
+    the Muro di Sormano. Steep will take on a new meaning for those who ride the Muro
+    for the first time. From here we earn ourselves another lakeshore section before
+    the Civiglio climb in Como, which is the traditional closer of the race itself. '
+  stage_image: "/images/DSC06131.jpg"
+  stage_image_alt: ''
+  stage_map: ''
+  theme: Red
+  make_public: true
+  background_image: ''
+- Stage: Stage Three
+  Locations: Como to Biella
+  Stats: 206KM / 3500M
+  Mainclimbs: 'Besazio, Bogogno, Brochetta di Sassera, Colle del Colma  '
+  Description: 'A transition stage from Lombardy to the Piemonte region itself. Once
+    round Varese and through Campo dei Fiori Regional Park, we cross into the Piemonte
+    region itself on the bridge at the southern tip of Lago Maggiore. Fast rolling
+    roads now bring us across the plain and into some of the spectacular hills this
+    region is so well known for. The duet of the finale ''sanctuary climbs'' on this
+    stage are two of the most impressive of the whole event : the first being a very
+    ''civilised'' manicured affair; the second an ultra-narrow and scarily remote
+    road that tops with an old chiselled tunnel. Views are the best, the road surface
+    is perfect, the Albergo near the top provides one of the most perfect spots to
+    stop you will ever find. '
+  stage_image: "/images/DSC05975.jpg"
+  stage_image_alt: ''
+  stage_map: ''
+  theme: White
+  make_public: true
+  background_image: ''
+- Stage: Stage Four
+  Locations: Biella to Pinerolo
+  Stats: 208KM / 4500M
+  Mainclimbs: Croce Sierra, Alice Superiore, Filia, Monte di Belmonte, Forcola, Lys,
+    Braida
+  Description: 'An early short, sharp climb from Biella opens this stage characterised
+    by several of the narrowest and often steepest roads in the region. The more frequented
+    climb to the Belmonte monastery is almost a relief, such is the intensity of these
+    smaller climbs! The latter part of the stage is marked by our arrival into ''Giro
+    territory'', with a climb up the north side of the very impressive Colle del Lys
+    (Giro 2019) followed by the Braida before a gentle run-in to Pinerolo. '
+  stage_image: "/images/DSC05956.jpg"
+  stage_image_alt: ''
+  stage_map: ''
+  theme: Transparent
+  make_public: true
+  background_image: ''
+- Stage: 'Stage Five '
+  Locations: Pinerolo to Cuneo
+  Stats: 207KM / 53500M
+  Mainclimbs: Montoso, Barge, Isasca, Sampeyre, Dei Morti
+  Description: 'Having checked out the 13% cobbled climb that featured in the final
+    kilometre of the Cuneo to Pinerolo stage 12 of the Giro 2019, we head up another
+    nano-narrow climb before taking on the other big star of the same stage : the
+    Colle Montoso. Fine Giro tarmac helps us both ascend and above all descend this
+    wonderful but long ascent. Gradually we leave the dense wooded hills for more
+    open landscape and join climbs familiar to CCC Southern Alps riders : the duo
+    of Sampeyre and Essichie / Dei Morti are always worth the effort required to scale
+    both, with some of the most impressive mountain views of the event offered by
+    the latter climb. The superb descent helps us well on our way to Cuneo where we
+    stay for three nights. '
+  stage_image: "/images/DSC06002-1.jpg"
+  stage_image_alt: ''
+  stage_map: ''
+  theme: White
+  make_public: true
+  background_image: ''
+- Stage: Rest Day
+  Locations: Cuneo
+  Stats: ''
+  Mainclimbs: ''
+  Description: ''
+  stage_image: ''
+  stage_image_alt: ''
+  stage_map: ''
+  theme: Red
+  make_public: true
+  background_image: ''
+- Stage: Stage Six
+  Locations: Cuneo Loop
+  Stats: 202KM / 5000M
+  Mainclimbs: Lago di Entracque, Lombarde, Dei Morti, Esischie.
+  Description: "A loop stage with the Giants, including two 'up & back's'. The first
+    of these is an exceptional, seldom-ridden climb up to a mountain lake with one
+    of the most impressively engineered mountain hydro stations to be found anywhere.
+    \ Then, rather appropriately the Colle di Lombarde marks the southern most tip
+    of our journey. Here we climb this magic mountain from it's \"better\" side !
+    \nTo wrap up this simple but exquisite loop, in a similar way to the Lombarde,
+    we climb the Dei Morti on it's more 'classic' side. To include two ascensions
+    of this extraordinary climb in this event is a very deliberate choice : all of
+    the three ways to climb this mountain are roads any High Rider should do at some
+    point. That the superb statue of \"Il Pirata\"finds itself at the top confirms
+    that, surely?!"
+  stage_image: "/images/DSC06514.jpg"
+  stage_image_alt: ''
+  stage_map: ''
+  theme: Red
+  make_public: true
+  background_image: ''
+- Stage: Stage Seven
+  Locations: Cuneo to Sestriere
+  Stats: 192KM / 5600M
+  Mainclimbs: Passo di San Pietro, Santuaire di Valmala, Agnel, Izoard, Montgenevre,
+    Sestriere
+  Description: 'Another intriguingly narrow Sanctuary climb opens the stage before
+    we join the long introduction to the toughest side of the Colle di Agnelo. The
+    highest point of the event will disappoint no one. Exquisite Mountain Beauty.
+    Next up, in our little excursion into France, the harder of the two sides of the
+    Izoard with it''s upward passage through the exceptional "Casse Deserte". The
+    duo of the Montgenevre and the Sestriere, by the ''alternative'' road, closes
+    the ''High Mountains'' section of this event, and brings us back into Italy. '
+  stage_image: "/images/DSC06619.jpg"
+  stage_image_alt: ''
+  stage_map: ''
+  theme: White
+  make_public: true
+  background_image: ''
+- Stage: Stage Eight
+  Locations: Sestriere to Ivrea
+  Stats: 223KM / 4700M
+  Mainclimbs: Finestre, Lys, Passo della Croce, Dieta, Forcola
+  Description: 'Ascending the Finestre on the ''tarmac side'' and descending the gravel
+    side is rarely done, but just as impressive as the classic way. It''s the first
+    challenge of this log stage which brings us back into the heart of Piemonte. The
+    southern ascent of the Colle di Lys follows, with several tough sections and a
+    grand view at the summit. From here all the way to Ivrea we are back into the
+    ''steep and narrow'', exploring roads that are the lifelines of the hill-top villages
+    perched stubbornly on vertiginous ridges. Our lakeside hotel ( Lago di Sirio)
+    will provide a well deserved restful overnight stay. '
+  stage_image: "/images/DSC06105.jpg"
+  stage_image_alt: ''
+  stage_map: ''
+  theme: Blue
+  make_public: true
+  background_image: ''
+- Stage: Stage Nine
+  Locations: Ivrea to Varese
+  Stats: 193KM / 3300M
+  Mainclimbs: Croce Serra, Pettinengo, Cuvignone, San Bernardo, Motta Rossa
+  Description: 'Back across the plain that separates Piemonte from Lombardia, this
+    stage mixes some more Sanctuary Climbs with some faster rolling roads as we approach
+    the Lago di Maggiore. The Passo Cuvignone stands out as the toughest climb of
+    the stage with some magnificent views. From here the stage ends with a relatively
+    tame run-in to Varese via the Motta Rossa pass. '
+  stage_image: "/images/DSC06633.jpg"
+  stage_image_alt: ''
+  stage_map: ''
+  theme: White
+  make_public: true
+  background_image: ''
+- Stage: Stage Ten
+  Locations: Varese to San Pellegrino Terme
+  Stats: 194KM / 3930M
+  Mainclimbs: ''
+  Description: 'Mountains and Lakes : our little excursion into Switzerland takes
+    us along the shores of Lago di Lugano before we cut across to the Lago di Como
+    over some very "steep-in-places" roads as we cut across between the two lakes.
+    A superb lake-side cycle path helps us on our way along the Lago di Como as we
+    head up to it''s northern tip. From here we make our way to one of the best ways
+    to finish a CCC journey yet : the ascent and descent of the very imposing Passo
+    San Marco. Once above the tree line, the landscape opens up brutally to reveal
+    the barren wilderness which contrasts so strikingly with the "civilised" lakes
+    of northern Italy and Switzerland! The descent takes 25kms to bring our journey
+    to a thrilling end! Perfettissimo !!'
+  stage_image: "/images/DSC06637.jpg"
+  stage_image_alt: ''
+  stage_map: ''
+  theme: Transparent
+  make_public: true
+  background_image: ''
+event_title: Piemonte

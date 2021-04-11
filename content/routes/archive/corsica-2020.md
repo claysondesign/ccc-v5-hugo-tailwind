@@ -1,6 +1,4 @@
 ---
-draft: true
-
 Title: Corsica
 Slug: corsica
 Description: Final Chance to ride this route
@@ -17,10 +15,7 @@ Subhead: ''
 featured_image_credit: ''
 key_testimonial: ''
 key_cite: ''
-menu:
-  routemenu2021:
-    name: Corsica
-    weight: 2
+draft: true
 
 ---
 {{% routedescription %}}

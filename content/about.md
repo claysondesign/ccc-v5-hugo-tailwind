@@ -7,9 +7,11 @@ featured_image: ''
 featured_image_alt: ''
 secondary_image: "/images/general/phil-portrait.jpg"
 secondary_image_alt: Photo of Phil Deeker
-intro_text: Phil Deeker, talisman and founder of the Cent Cols Challenge who in 2017
+intro_text: 'Phil Deeker, talisman and founder of the Cent Cols Challenge who in 2017
   celebrated his 60th birthday by completing his Ride of a Thousand Cols, tries to
-  define what exactly sets these events apart from all the others.
+  define what exactly sets these events apart from all the others. ALSO : Since January
+  2021 the Cent Cols Challenge has a new owner, Adam Erritzoe from Copenhagen. He
+  speaks below about what this means to him. '
 date: 2018-11-06T21:04:16.000+00:00
 menu:
   primarymenu:
@@ -44,23 +46,37 @@ The second is **The Roads.** We’re cyclists, not mountaineers. We sign a deal 
 
 The third is **The Bike.** The Mountain is our goal; The Road is our guide; The Bike is our tool. The first two only reveal their special magic through the channel of our bike. A long day in the saddle in the mountains can often create a sensorial-overload, such is the intensity of our dialogue with the bike.
 
-I have tried to put into words how the magic of these three ingredients works within us, but inevitably I think, there has to be a part of unexplainable mystery. Strangely, despite our sense of wonder about the Mountains and an almost child-like fascination with the Roads, **I have come to think that the mystery actually resides in the Bike.** Only fellow cyclists don’t have to explain “The Why”. We all just get on our bikes and ride. Another case of the greatest mysteries being found in the smallest of things? I’m happy with that!
+I have tried to put into words how the magic of these three ingredients works within us, but inevitably I think, there has to be a part of unexplainable mystery. Strangely, despite our sense of wonder about the Mountains and an almost child-like fascination with the Roads, **I have come to think that the mystery actually resides in the Bike.** Only fellow cyclists don’t have to explain “The Why”. We all just get on our bikes and ride. Another case of the greatest mysteries being found in the smallest of things? I’m happy with that!"  
+![](/images/img_2956.jpg)
 
+Meet Adam Eritzoe. He took over as the new owner, via his company A2OEApS, of the Cent Cols Challenge in January 2021. He rode his first CCC in 2019.
 
---
+Phil: "It's the best possible scenario for me. Adam understood immediately where the spirit of the event lies and his only ambition is to kindle that spirit, and also add extra depth to the events, via extra safety technology, introducing gravel road events, and bringing the event into new arenas through his own network in Denmark. I have full confidence in Adam and already look forward to the two years of "transition" to follow now. Long live the Cent Cols Challenge!"
+
+Adam : " From my very first days on my initial CCC I knew I had found something very different and very special. I have ridden many 'extreme' types of bike events, on and off road, and thrive on these experiences. But the CCC struck a new chord inside of me. For me now to have the opportunity to continue and develop the amazing work Phil has done over the last 12 years is both a privilege and a challenge. I know how much these events mean to established CCC riders, so I intend to do all I can to keep them all as excited as I myself am about the future! I am also delighted that Phil has agreed to remain involved in the events beyond 2022 as a consultant, route designer as well as an occasional on-event co-rider. Exciting times ahead for us all!"
 
 ### THE FINAL TWO (PHIL) YEARS
 
-#### 2021
+( Phil will continue to manage all event logistics during 2021 and 2022 and ride all events. Thereafter he will take on a consultancy role, helping out on events at times too.)
 
-* May: Corsica.
+#### 2021 ( Subject to Covid....)
+
 * June : Rhone ( new event), Southern Alps
 * July : Lombardy 21 ( one-off, new event).
 * Sept: Piemonte, East Pyrenees.
+* Oct : Corsica ( to replace the cancelled May edition).
 
-#### 2022 : The "Retirement Ride".
+#### 2022 :
 
-* Starting in June, ending in October, with a break in August, seven events ( six with ten stages; the final with five stages)  will make up the 65-stage 650 Cols route ( to mark Phil's 65 years in 2022). Starting in Verona, Italy and ending in Santander, Northern Spain, this ride will cover the following regions :-
+* 23 May > 2 June : CCC RHONE
+* 7 June > 17 June: CCC S. ALPS
+* 21 June > 1 July : CCC "CLASSIC ALPS" ( The very first CCC, ridden in 2009, is back! Nice to Annecy & back. Details to appear soon.)
+* 28 August > 7 September : PIEMONTE
+* 12 > 22 September : CLASSIC PYRENEES ( From Year Two of the CCC, the original Pyrenees route from Perpignan to Oloron & back.)
+* 26 September > 6 October : E PYRENEES
+
+####  2023 : The "Retirement Ride". (The '65RIDE' will now happen in 2023.)
+
+* Starting in June, ending in October, with a break in August, **seven events** ( six with ten stages; the final with five stages)  will make up the 65-stage 650 Cols route ( to mark Phil's 65 years in 2022). Starting in Verona, Italy and ending in Santander, Northern Spain, this ride will cover the following regions :-
 * Piemonte, Southern Alps, Northern Alps, Ardeche, Cevennes, Massif Central, Langeudoc, Catalunya, East Pyrenees, West Pyrenees, Basque Country, Cantabria, Asturias, Picos de Europa.
-* Each stage will be a unique, new route. These will be designed during 2020 and each week a new stage will be revealed on this website.
-
+* 

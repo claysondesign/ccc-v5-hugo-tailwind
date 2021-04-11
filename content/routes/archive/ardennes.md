@@ -31,7 +31,7 @@ intro_text: " “hARDENNES” : A series of Big Rides that will give you a new i
 menu:
   routemenu2020:
     name: hArdennes
-    weight: 1
+    weight: 3
 
 ---
 {{% routedescription %}} "The perfect early-season training block, tailored to test the 'Spring' in your legs! This area is my back-yard. I never tire of riding these stunning, quiet roads."

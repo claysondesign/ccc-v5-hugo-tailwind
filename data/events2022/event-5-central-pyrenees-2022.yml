@@ -85,46 +85,50 @@ stages:
   theme: White
   background_image: ''
 - Stage: Stage 47
-  Locations: St Lary &ndash; A Gazost
-  Stats: ''
+  Locations: San Sebastian; Elgoibar
+  Stats: 163kms / 4800m
   Mainclimbs: ''
-  Description: ''
-  stage_image: ''
+  Description: Another "shark-profile" stage with an intense succession of remote,
+    steep dramatic roads that make this region so tough, unique and wonderful!
+  stage_image: "/images/img_1239.jpg"
   stage_map: ''
-  make_public: false
+  make_public: true
   stage_image_alt: ''
   theme: White
   background_image: ''
 - Stage: Stage 48
-  Locations: A Gazost &ndash; Oloron
-  Stats: ''
+  Locations: Elgoibar; Leiketio
+  Stats: 144kms / 3960m
   Mainclimbs: ''
-  Description: ''
-  stage_image: ''
+  Description: Dense forest, (pines, eucalyptus, oak) take us up to windswept open
+    hilltops. As the stage progresses wonderful sea views lighten the mood!
+  stage_image: "/images/ca14.JPG"
   stage_map: ''
-  make_public: false
+  make_public: true
   stage_image_alt: ''
   theme: White
   background_image: ''
 - Stage: Stage 49
-  Locations: Oloron &ndash; Esterencuby
-  Stats: ''
-  Mainclimbs: ''
-  Description: ''
-  stage_image: ''
+  Locations: Leikitio &ndash; Ipinaburu
+  Stats: 168kms / 3800m
+  Mainclimbs: Unpronounceable and too hard to spell!
+  Description: 'Another shark-tooth profile stage that never has a dull moment! '
+  stage_image: "/images/9-1.JPG"
   stage_map: ''
-  make_public: false
+  make_public: true
   stage_image_alt: ''
-  theme: White
+  theme: Red
   background_image: ''
 - Stage: Stage 50
-  Locations: Esterencuby &ndash; Pamplona
-  Stats: ''
-  Mainclimbs: ''
-  Description: ''
-  stage_image: ''
+  Locations: Ipinaburu &ndash; Bilbao
+  Stats: 191kms / 4600m
+  Mainclimbs: A lot of "Mendeata's"
+  Description: The final stage of this thorough exploration of one of the most exciting
+    areas I know to ride a bike. Tapas in Bilbao is a very fitting way to end this
+    chapter!
+  stage_image: "/images/ca41.JPG"
   stage_map: ''
-  make_public: false
+  make_public: true
   stage_image_alt: ''
-  theme: White
+  theme: Red
   background_image: ''

@@ -1,0 +1,40 @@
+{{ define "main" }}
+<article id="content" role="article">
+  <div class="bg-cccblack text-white">
+    <div class="mx-auto max-w-6xl px-0 md:pb-16">
+      {{.Content}}
+    </div>
+  </div>
+</article>
+
+<div class="mx-auto max-w-6xl px-0 md:pb-16">
+  <table class="text-xs border-collapse w-full">
+    <thead>
+      <tr>
+        {{/* <th class="p-3 font-bold bg-gray-200 text-gray-600 border border-gray-300 hidden lg:table-cell">Event title</th> */}}
+        <th class="p-3 font-bold bg-gray-200 text-gray-600 border border-gray-300 hidden lg:table-cell">Stage</th>
+        <th class="p-3 font-bold bg-gray-200 text-gray-600 border border-gray-300 hidden lg:table-cell">Locations</th>
+        <th class="p-3 font-bold bg-gray-200 text-gray-600 border border-gray-300 hidden lg:table-cell">Stats</th>
+        <th class="p-3 font-bold bg-gray-200 text-gray-600 border border-gray-300 hidden lg:table-cell">Main Climbs</th>
+        <th class="p-3 font-bold bg-gray-200 text-gray-600 border border-gray-300 hidden lg:table-cell">Description</th>
+        <th class="p-3 font-bold bg-gray-200 text-gray-600 border border-gray-300 hidden lg:table-cell">Image</th>
+        <th class="p-3 font-bold bg-gray-200 text-gray-600 border border-gray-300 hidden lg:table-cell">Image Alt</th>
+        <th class="p-3 font-bold bg-gray-200 text-gray-600 border border-gray-300 hidden lg:table-cell">Map</th>
+        <th class="p-3 font-bold bg-gray-200 text-gray-600 border border-gray-300 hidden lg:table-cell">Theme</th>
+        <th class="p-3 font-bold bg-gray-200 text-gray-600 border border-gray-300 hidden lg:table-cell">Live on site</th>
+
+
+
+      </tr>
+    </thead>
+
+    <tbody>
+
+
+      {{ partial "stage-table-row.html" . }}
+
+    </tbody>
+  </table>
+</div>
+
+{{ end }}

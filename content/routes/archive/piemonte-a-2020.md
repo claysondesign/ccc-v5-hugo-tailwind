@@ -1,6 +1,4 @@
 ---
-draft: true
-
 Title: Piemonte
 Slug: piemonte
 Description: A daring new CCC route in one of the most challenging places you can
@@ -21,7 +19,8 @@ key_cite: ''
 menu:
   routemenu2020:
     name: 'Piemonte '
-    weight: 4
+    weight: 6
+draft: true
 
 ---
 {{% routedescription %}} A new CCC destination in a region where cycling and religion seem to be inextricably linked : from Lombardy to Cuneo, this route is composed of dozens of "Sanctuary Climbs" : steep, narrow climbs to villages perched on hill ridges above which a saintly shrine gives cause for some of the most challenging and surprisingly well-maintained roads one could hope to find anywhere.  From the best roads of the Tour of Lombardy ( including the Ghisallo and the Sormano) across to the Piemonte region via the Italian and Swiss lakes, down to three nights in Cuneo via Ivrea and Pinerolo. Mid-event Classic climbs like the Lombarde, Dei Morti, Sampeyre, Agnel, Izoard, Finestre ( all climbed in the opposite direction to that used in CCC S. Alps) add a truly mountainous flavour to this event. But then it's back to what Piemonte does best : more steep 'n narrow, twisting wooded climbs on our sinuous way back to the Lago di Como. The Passo San Marco creates the perfect dramatic finale for this wonderful new "CCC Baby"!

@@ -4,53 +4,88 @@ event_date: ''
 enable: true
 stages:
 - Stage: Stage 51
-  Locations: Pamplona &ndash; Tolosa
-  Stats: ''
-  Mainclimbs: ''
-  Description: ''
+  Locations: Bilbao &ndash; Puente Viesgo
+  Stats: 190kms / 4000m
+  Mainclimbs: Lunada, Espina
+  Description: 'Heading into the wilds of Cantabria here, via the majestic expanses
+    of the Portillo de Lunada. Then comes the terrifying concrete staircase of the
+    Espina. Used recently in the Vuelta, the pro''s also needed to make sure they
+    had enough gears for this one!  Here begins the final 15 stages of this Journey.
+    One that will cross the best of this most remote and impressive area that is quite
+    hard to beat for riding a ''bike sensations''. '
   stage_image: ''
   stage_map: ''
-  make_public: false
+  make_public: true
+  stage_image_alt: ''
+  theme: Red
+  background_image: ''
 - Stage: Stage 52
-  Locations: Tolosa &ndash; S Sebastian
-  Stats: ''
-  Mainclimbs: ''
-  Description: ''
-  stage_image: ''
+  Locations: Puente Viesgo &ndash; Cangas de Onis
+  Stats: 200km / 4100m
+  Mainclimbs: Carmona, Ozalla, Hoz, Caballar
+  Description: A stage steeped in Vuelta history. Contador attacked famously over
+    three of these climbs here in 2012 (st 17) and won the Vuelta right here. But
+    the real pearl of the stage is the climb up to the ancient village of Sotres (Collada
+    de Caballar) , another often-visited Vuelta summit finish. We're in the Big Hills
+    now, for sure!
+  stage_image: "/images/img_4320.JPG"
   stage_map: ''
-  make_public: false
+  make_public: true
+  stage_image_alt: ''
+  theme: Blue
+  background_image: ''
 - Stage: Stage 53
-  Locations: S Sebastian Loop
-  Stats: ''
-  Mainclimbs: ''
-  Description: ''
-  stage_image: ''
+  Locations: Cangas de Onis &ndash; Pola di Lena
+  Stats: 210kms / 4300m
+  Mainclimbs: Tarna, Ponton
+  Description: 'High plateaux, wild horses, a bit of gravel. We begin to get wilder
+    here, and we are rewarded with the first sightings of the heart of the Asturias.
+    Some of the best bike experiences you can imagine will begin right here! '
+  stage_image: "/images/img_1072.jpg"
   stage_map: ''
-  make_public: false
+  make_public: true
+  stage_image_alt: ''
+  theme: Blue
+  background_image: ''
 - Stage: Stage 54
-  Locations: S Sebastian &ndash; Elgoibar
-  Stats: ''
-  Mainclimbs: ''
-  Description: ''
-  stage_image: ''
+  Locations: Pola di Lena &ndash; Cangas del Narcea
+  Stats: 179kms / 4800m
+  Mainclimbs: Gamoniteiro, San Lorenzo, El Acebu
+  Description: Right into some of the toughest Vuelta climbs on this stage. Bucket
+    list time for those who collect. It's hard to beat a day on the bike like this
+    one!
+  stage_image: "/images/ca23.JPG"
   stage_map: ''
-  make_public: false
+  make_public: true
+  stage_image_alt: ''
+  theme: Blue
+  background_image: ''
 - Stage: Stage 55
-  Locations: Elgoibar &ndash; Lekeitio
-  Stats: ''
-  Mainclimbs: ''
-  Description: ''
-  stage_image: ''
+  Locations: Cangas del Narcea &ndash; Lugo
+  Stats: 184kms / 4000m
+  Mainclimbs: Piedras Apanadas, Puerto del Connio
+  Description: Heading due west into one of the most remote parts of Spain, here begins
+    our exploration of Galicia. Get ready for a serious sense of isolation now!
+  stage_image: "/images/img_9157-edited.jpg"
   stage_map: ''
-  make_public: false
+  make_public: true
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
 - Stage: Stage 56
-  Locations: Lekeitio &ndash; Bilbao
-  Stats: ''
-  Mainclimbs: ''
-  Description: ''
-  stage_image: ''
+  Locations: Lugo &ndash; Piedrafita do Cebreiro
+  Stats: 193kms / 5050m
+  Mainclimbs: Porto de Ancares, Puerto Piedrafita do Cebreiro
+  Description: 'Our exploration of ''Deep Galicia'' continues along some of the most
+    iconic roads of this region. Occasionally visited by the Vuelta, but always resulting
+    in unforgettable racing. The contrast between the tranquility of this area and
+    the buzz caused by the passage of a Grand Tour couldn''t be greater! '
+  stage_image: "/images/img_9143-edited.jpg"
   stage_map: ''
-  make_public: false
+  make_public: true
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
 - Stage: Stage 57
   Locations: Bilbao &ndash; Bilbao
   Stats: ''
@@ -59,6 +94,9 @@ stages:
   stage_image: ''
   stage_map: ''
   make_public: false
+  stage_image_alt: ''
+  theme: Transparent
+  background_image: ''
 - Stage: Stage 58
   Locations: Bilbao &ndash; Laredo
   Stats: ''
@@ -67,6 +105,9 @@ stages:
   stage_image: ''
   stage_map: ''
   make_public: false
+  stage_image_alt: ''
+  theme: Red
+  background_image: ''
 - Stage: Stage 59
   Locations: Laredo &ndash; Vega De Pas
   Stats: ''
@@ -75,6 +116,9 @@ stages:
   stage_image: ''
   stage_map: ''
   make_public: false
+  stage_image_alt: ''
+  theme: White
+  background_image: ''
 - Stage: Stage 60
   Locations: Vega De Pas &ndash; Santander
   Stats: ''
@@ -83,3 +127,6 @@ stages:
   stage_image: ''
   stage_map: ''
   make_public: false
+  stage_image_alt: ''
+  theme: White
+  background_image: ''

@@ -7,7 +7,7 @@ date = 2019-04-15T22:00:00Z
 featured_image = "/images/DSC06565.jpg"
 featured_image_alt = ""
 intro_text = "Ride all ten stages, or stages 1-5, or stages 6-10. \nRest day is at our start/finish hotel  "
-route_date = "5-15 July 2021"
+route_date = "5-15 July 2021( This event has now been cancelled due to Covid travel restrictions.)"
 secondary_image = "/images/dsc05958-2.jpg"
 secondary_image_alt = ""
 [menu.routemenu2021]

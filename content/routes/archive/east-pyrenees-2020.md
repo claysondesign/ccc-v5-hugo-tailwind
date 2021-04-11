@@ -1,6 +1,4 @@
 ---
-draft: true
-
 Title: East Pyrenees
 Slug: east-pyrenees
 Description: ''
@@ -16,7 +14,8 @@ intro_text: 'The Girona hills, Andorra, Cap de Long, Port de Pailheres : just a 
 menu:
   routemenu2020:
     name: East Pyrenees
-    weight: 6
+    weight: 7
+draft: true
 
 ---
 {{% routedescription %}}

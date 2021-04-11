@@ -103,35 +103,32 @@ stages:
   theme: Blue
   make_public: true
 - Stage: Stage Seven
-  Locations: Bagneres de Luchon to Oust
-  Stats: 204KM / 5400M
-  Mainclimbs: Portillon, Artigue,Menté,Portet d'Aspet, Core, Rille, Peguerre, Saraille
-  Description: 'Possibly the Queen Stage of this event, we leave Luchon via the hardest
-    side of the Portillon for a short section back in Spain before our first real
-    challenge : a gravel climb through remote woodland with "Watch out for Bears"
-    signs ( very rare to see them, fear not!). The 18-20% sections on the Aspet are
-    no easier. The Core is steadier and a superb rural climb, giving some time to
-    ''recover'' before the long tough climb to the Col de Peguerre via it''s little
-    ridden north side. One more typically remote, wooded climb lies in wait for tired
-    riders who will all be so glad to find our tiny, other-worldly family-run hotel
-    in the village of Oust.'
+  Locations: Bagneres de Luchon to Foix
+  Stats: 218KM / 5470M
+  Mainclimbs: Portillon, Artigue,Menté,Portet d'Aspet, Core, Rille, Peguerre, Jouels
+  Description: 'We leave Luchon via the hardest side of the Portillon for a valley
+    section in Spain before our first real challenge : an "old road"/ gravel climb
+    through remote woodland with "Watch out for Bears" signs ( very rare to see them,
+    fear not!). The 18-20% sections on the Aspet are no easier. The Core is steadier
+    and a superb rural climb, giving some time to ''recover'' before the long tough
+    climb to the Col de Peguerre via it''s little ridden north side. From here we
+    can enjoy a technical but thrilling descent to the medieval town of Foix. '
   stage_image: "/images/IMG_7815.JPG"
   stage_image_alt: ''
   stage_map: ''
   theme: White
   make_public: true
 - Stage: Stage Eight
-  Locations: Oust to Ax les Thermes
-  Stats: 190KM / 4500M
-  Mainclimbs: Latrape, Agnes, Jouels, Prat d'Albis (NEW), Marmare, Chouia
-  Description: 'Our last stage in the High Pyrenees. The Latrape/Agnes duo is one
-    of the most impressive climbs in the Pyrenees, with the latter''s stunning mountain
-    summit lake. We climb the short sharp side of the (Mur de) Peguerre with more
-    18% gradient before plunging down to the medieval town of Foix. After including
-    a NEW up & back climb featured in the Tour 2019 ( Prat d''Albis) from Foix itself,  we
-    rise up onto the wonderfully scenic "Route des Cretes", taking us high above the
-    thermal town of Ax les Thermes.  Which just leaves us with a fast thrilling descent,
-    one of the best on the event, to end the stage.   '
+  Locations: Foix to Ax les Thermes
+  Stats: 193KM / 5440M
+  Mainclimbs: " Prat d'Albis, Plateau de Beille, Pradel, Ax-les Trois Domaines"
+  Description: 'Our last stage in the High Pyrenees and with three iconic up & back
+    Tour de France ascents.  Straight out of Foix onto the Prat d''Albis (Adam Yates
+    won here in 2019, it''s first Tour appearance) before  we rise up onto the wonderfully
+    scenic "Route des Cretes"before plunging down again to cross the valley for the
+    Plateau de Beille climb. Back onto the "Cretes" and round a big loop via the formidable
+    Col de Pradel before coming down to Ax-les Thermes for our final challenge up
+    to the Trois Domaines ski station. Quite a menu!  '
   stage_image: "/images/IMG_7926.JPG"
   stage_image_alt: ''
   stage_map: ''

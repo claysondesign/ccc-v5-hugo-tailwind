@@ -1,0 +1,32 @@
+{{ define "main" }}
+<article class="bg-fixed bg-cover bg-cccblue" style="background-image: url('../images/bg-65image.png')" id="content" role="article">
+
+  <div class="mx-auto max-w-6xl px-6">
+    <div class="text-white flex flex-wrap flex-none py-8 md:py-16">
+      {{ .Content }}
+    </div>
+  </div>
+
+    {{/* <div class="mx-auto max-w-4xl px-0 pt-16 md:pb-16 flex">
+      <div id="logo" class="pl-0 pr-6 md:pr-24 flex-initial">
+        {{ readFile "/images/logo/65ride2023.svg" | safeHTML }}
+      </div>
+
+      <div id="titledates" class="pt-12 text-white">
+        {{.Content}}
+      </div>
+    </div> */}}
+  <div class="mx-auto max-w-6xl px-0 md:pb-16">
+    {{/* <div class="flex flex-wrap px-2 sm:px-6 lg:px-2"> */}}
+    <div class="px-2 sm:px-6 lg:px-2">
+      <div id="macy-container">
+      {{ partial "stagecards.html" . }}
+      </div>
+    </div>
+  </div>
+
+</article>
+{{ end }}
+
+{{ define "footerextra" }}
+{{ end }}

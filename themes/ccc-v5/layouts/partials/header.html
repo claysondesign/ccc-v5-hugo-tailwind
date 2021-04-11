@@ -1,0 +1,77 @@
+<div class="relative">
+  <a class="skip-link hidden" href="#content">Skip to content</a>
+
+  <div class="block md:hidden absolute pt-3 pl-6">
+    <button id="nav-open" class="border rounded border-ccc-black py-0 px-1" id="toggle" aria-expanded="false">Menu</button>
+    <button id="nav-close" class="hidden border rounded border-ccc-black py-0 px-1" id="toggle" aria-expanded="false">Close</button>
+  </div>
+
+  <header class="flex justify-between flex-wrap" role="banner">
+    <div class="mx-auto max-w-6xl order-1 md:order-2 px-6 w-full">
+      <div class="flex md:items-center justify-between flex-row flex-row-reverse">
+
+        <div id="logo">
+          <a href="/" title="home">
+            <span class="hidden">Cent Cols Challenge</span>
+            <div class="pt-4 pb-1 hidden md:inline-block">
+              {{ readFile "/images/logo/ccc-kom-logotext.svg" | safeHTML }}
+            </div>
+            <div class="pt-4 pb-4 md:hidden float-right">
+              {{ readFile "/images/logo/ccc-kom-logo.svg" | safeHTML }}
+            </div>
+          </a>
+        </div>
+
+
+        <div id="nav-wrapper" class="">
+
+          <nav role="navigation">
+
+            <div id="nav-menu" class="md:inline hidden mt-24 w-full">
+
+              <ul class="flex flex-col md:flex-row md:flex-wrap list-reset text-sm md:mt-2 w-full">
+                {{ $currentPage := . }}
+
+                {{ range .Site.Menus.primarymenu }}
+                <li class="">
+                  <a class="block py-1 px-1 lg:px-2 text-white no-underline {{if or ($currentPage.IsMenuCurrent "primarymenu" .) ($currentPage.HasMenuCurrent "primarymenu" .) }}bg-cccblack{{ else }}bg-white text-cccblack{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+                </li>
+                {{ end }}
+
+                {{ range .Site.Menus.secondarymenu }}
+                <li class="">
+                  <a class="block py-1 px-1 lg:px-2 text-white no-underline {{if or ($currentPage.IsMenuCurrent "secondarymenu" .) ($currentPage.HasMenuCurrent "secondarymenu" .) }}bg-cccblack{{ else }}bg-white text-ccccyan{{ end }}" href="{{ .URL }}">{{ .Name }}</a>
+                </li>
+                {{ end }}
+              </ul>
+
+              <ul class="flex flex-col md:flex-row md:flex-wrap list-reset text-sm text-base lg:text-xl ">
+                {{ range .Site.Menus.routemenu2021 }}
+                <li class="">
+                  <a class="block px-1 lg:px-2 py-1 text-white no-underline {{if or ($currentPage.IsMenuCurrent "routemenu2021" .) ($currentPage.HasMenuCurrent "routemenu2021" .) }}bg-cccred{{ else }}bg-white text-cccred{{ end }}" href="{{ .URL }}"><span class="{{if or ($currentPage.IsMenuCurrent "routemenu2021" .) ($currentPage.HasMenuCurrent "routemenu2021" .) }}bg-cccred{{ else }}border-b border-white hover:border-cccblue transition-colors duration-300 ease-in-out{{ end }}">{{ .Name }}</span></a>
+                </li>
+                {{ end }}
+              </ul>
+
+            </div>
+
+          </nav>
+
+        </div>
+      </div>
+
+    </div>
+
+    {{ if .Params.show_homepage_flash }}
+    <div class="w-full bg-cccred text-white mb-0 md:mb-8 order-2 md:order-1">
+      <div class="mx-auto max-w-6xl px-6 text-sm py-1">
+        <span class="font-bold">{{ .Params.homepage_flash_line_1 }}</span>
+         &mdash;
+        <span class="">{{ .Params.homepage_flash_line_2 }}</span>
+      </div>
+    </div>
+    {{ end }}
+
+  </header>
+
+</div>

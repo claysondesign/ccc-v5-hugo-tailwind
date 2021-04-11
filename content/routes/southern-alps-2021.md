@@ -7,17 +7,18 @@ featured_image: "/images/IMG_0755.JPG"
 featured_image_alt: ''
 secondary_image: "/images/DSC06286.jpg"
 secondary_image_alt: ''
-route_date: 21 June - 1 July (Now SOLD OUT but you can place your name on the waiting
-  list)
+route_date: 21 June - 1 July (This event has now been cancelled due to Covid travel
+  restrictions. )
 booking_link: https://www.wetravel.com/trips/cent-cols-challenge-southern-alps-2020-phil-deeker-carros-france-49976364
 intro_text: 'From Provence to Piemonte : a journey of contrasts hard to beat.'
+booking_links: []
 menu:
-  routemenu2020:
-    name: Southern Alps
-    weight: 1
   routemenu2021:
     name: Southern Alps
     weight: 4
+  routemenu2020:
+    name: Southern Alps
+    weight: 2
 
 ---
 {{% routedescription %}}

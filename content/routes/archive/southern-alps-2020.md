@@ -13,7 +13,7 @@ intro_text: 'From Provence to Piemonte : a journey of contrasts hard to beat.'
 menu:
   routemenu2020:
     name: Southern Alps
-    weight: 3
+    weight: 4
 draft: true
 
 ---

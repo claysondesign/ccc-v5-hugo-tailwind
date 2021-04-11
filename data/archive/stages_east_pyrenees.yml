@@ -1,0 +1,178 @@
+---
+enable: false
+stages:
+- Stage: Stage One
+  Locations: Girona Loop
+  Stats: 210KM / 3000M
+  Mainclimbs: Condrileu, Rajols, Gomara, Saint Hilari
+  Description: In 2018 an experienced local rider rode the stage with us and admitted
+    that this was the best 'loop route' of the Girona hills he had ever ridden. A
+    wonderful opener which shows just why so many pro riders are based in Girona and
+    ride these roads all year round.
+  stage_image: "/images/IMG_7900.JPG"
+  stage_image_alt: ''
+  stage_map: ''
+  theme: White
+  make_public: true
+  background_image: ''
+- Stage: Stage Two
+  Locations: Girona to Molina
+  Stats: 190KM / 4600M
+  Mainclimbs: Roccacorba, Caselles, Collfred, Vidra, La Creu, Merolla, La Crueta
+  Description: 'After a visit to the unmissable Roccacorba climb we head north-west
+    via more rolling hills which take us to one of the toughest climbs of the whole
+    event : the little-known Collfred. There are three ways of scaling this one :
+    we take the hardest. From here some more very ''back-roads'' lead us towards the
+    well-known Crueta climb ( a regular in the Vueltas of both Spain and Catalunya)  to
+    the ski-station of La Molina.'
+  stage_image: "/images/IMG_8006.JPG"
+  stage_image_alt: ''
+  stage_map: ''
+  theme: White
+  make_public: true
+  background_image: ''
+- Stage: Stage Three
+  Locations: Molina to Ordino
+  Stats: 205KM / 4600M
+  Mainclimbs: Llosse, Creu, Font Romeu, Puymorens, Envalira, Ordino
+  Description: 'Into France and finishing in Andorra, this stage leads us across the
+    plateau of the Cerdagne towards the "Llosse Loop" : a flying decent into impressive
+    gorges followed by a tough climb through remote rugged terrain. From here we head
+    towards Andorra via a long climb to the highest road point of the Pyrenees (Envalira).
+    Our final 10km climb to Ordino gives us a taste of what is to come in the ''Andorra
+    stage''.  '
+  stage_image: "/images/IMG_8068.JPG"
+  stage_image_alt: ''
+  stage_map: ''
+  theme: White
+  make_public: true
+  background_image: ''
+- Stage: Stage Four
+  Locations: Ordino to Sort
+  Stats: 187KM / 5300M
+  Mainclimbs: Baixalis, Cortals, Engolasters, Comelia, Galina, Jouell, Canto.
+  Description: Andorra is another favourite location for pro riders and this stage
+    includes almost all of the favourites of this tiny Principality. With it's surprising
+    contrast between the noisy, bustling valley and the tranquil scenic summits, (many
+    climbs are 'up & backs'), Andorra is quite unique. Gradients are often sharp;
+    road surfaces perfect; traffic almost absent. To end the stage in Spain, we cross
+    the long but steady Collada di Canto, which offers us a perfect 12km descent to
+    our hotel in Sort.
+  stage_image: "/images/IMG_8068.JPG"
+  stage_image_alt: ''
+  stage_map: ''
+  theme: White
+  make_public: true
+  background_image: ''
+- Stage: Stage Five
+  Locations: Sort to Bagneres de Luchon
+  Stats: 192KM / 5900M
+  Mainclimbs: Bonaigue, Portillon, Artigue, Hospice de France, Superbagneres
+  Description: 'After another long steady climb we return into France via the Col
+    du Portilhon which brings us right into Bagneres de Luchon. This will be our base
+    for three nights, which is no coincidence. Many of the prime climbs of the Pyrenees
+    are to be found in the proximity. The second half of this stage explores three
+    of the ''crown jewels'' of this typical thermal town : all three up & backs, which
+    is useful if some riders are ready for an early start to the rest day! '
+  stage_image: "/images/IMG_8109.JPG"
+  stage_image_alt: ''
+  stage_map: ''
+  theme: White
+  make_public: true
+  background_image: ''
+- Stage: Rest day
+  Locations: Bagneres de Luchon
+  Stats: ''
+  Mainclimbs: ''
+  Description: ''
+  stage_image: ''
+  stage_image_alt: ''
+  stage_map: ''
+  theme: White
+  make_public: true
+  background_image: ''
+- Stage: Stage Six
+  Locations: Bagneres de Luchon Loop
+  Stats: 213KM / 5600M
+  Mainclimbs: Peyresourde, Azet, Cap de Long, Aubert, Peyregudes, Port de Bales
+  Description: 'This loop stage has a totally new design for this final year, taking
+    in a very special road that has never been integrated into a CCC stage until now
+    : the Y-shaped route up to the twin up & back''s of the Lac''s Cap de Long and
+    Aubert, from the Lac d''Orédon offer possible the most picturesque route to be
+    found anywhere in the Pyrenees. Add to this the double-ascent of the Azet and
+    the finale up to the Port de Bales, the result is possible the most beautiful
+    CCC stage ever ridden.....Riders will judge that for themselves if the Mountains
+    grant us weather-with-views !'
+  stage_image: "/images/IMG_8011.JPG"
+  stage_image_alt: ''
+  stage_map: ''
+  theme: White
+  make_public: true
+  background_image: ''
+- Stage: Stage Seven
+  Locations: Bagneres de Luchon to Foix
+  Stats: 218KM / 5470M
+  Mainclimbs: Portillon, Artigue,Menté,Portet d'Aspet, Core, Rille, Peguerre, Jouels
+  Description: 'We leave Luchon via the hardest side of the Portillon for a valley
+    section in Spain before our first real challenge : an "old road"/ gravel climb
+    through remote woodland with "Watch out for Bears" signs ( very rare to see them,
+    fear not!). The 18-20% sections on the Aspet are no easier. The Core is steadier
+    and a superb rural climb, giving some time to ''recover'' before the long tough
+    climb to the Col de Peguerre via it''s little ridden north side. From here we
+    can enjoy a technical but thrilling descent to the medieval town of Foix. '
+  stage_image: "/images/IMG_7815.JPG"
+  stage_image_alt: ''
+  stage_map: ''
+  theme: White
+  make_public: true
+  background_image: ''
+- Stage: Stage Eight
+  Locations: Foix to Ax les Thermes
+  Stats: 193KM / 5450M
+  Mainclimbs: " Prat d'Albis (NEW), Plateau de Beille, Marmare, Pradel, Ax-les-3-Domaines"
+  Description: 'Our last stage in the High Pyrenees and one that features three iconic
+    (up & back) Tour ascents. First, from the Tour 2019 comes the Prat d''Albis. We
+    then rise up onto the wonderfully scenic "Route des Cretes", before plunging down
+    and across the valley to climb up to the Plateau de Beille. A sharp short climb
+    takes us back onto the "Cretes"and to a large loop that ends with the formidable
+    Col de Pradel. From here we descend to Ax-les-Thermes for our final Tour challenge
+    : the ski-station climb of Ax-les-Trois-Domaines.    '
+  stage_image: "/images/IMG_7926.JPG"
+  stage_image_alt: ''
+  stage_map: ''
+  theme: White
+  make_public: true
+  background_image: ''
+- Stage: Stage Nine
+  Locations: Ax les Thermes to Amelie les Bains
+  Stats: 184KM / 4400M
+  Mainclimbs: Port de Pailheres, Moulis, Jau, Roquejalere,Palomeres, Xatard
+  Description: The mighty Port de Pailheres is our royal gateway out of the High Pyrenees,
+    leading us into the Arriege region with it's arid, rocky landscape, dotted with
+    the impressive ruins of the Cathar castles. Climbs are less steep but just as
+    spectacular. Traffic is still rare; gorges plentiful. The show goes on!
+  stage_image: "/images/IMG_7922.JPG"
+  stage_image_alt: ''
+  stage_map: ''
+  theme: White
+  make_public: true
+  background_image: ''
+- Stage: Stage Ten
+  Locations: Amelie les Bains to Girona
+  Stats: 190KM / 2650M
+  Mainclimbs: Boussells, Mollo, Gascons, Coma del Mas, Bosc del Margalla, Portell.
+  Description: 'A lumpy start across some short, narrow climbs until we reach the
+    Mediterranean coast to begin our tour of the Banyuls vineyards, choosing the high
+    roads for vast views of the vines and azur sea. Once back into Spain roads become
+    more rolling, tarmac perfect and we roll our way along the coast until it''s time
+    to climb inland and up to the impressive monastery at the top of the Margalla
+    climb. From here we weave our way along quite lanes across the plain towards Girona
+    where we end our journey by climbing the favourite local climb known as Los Engels,
+    just outside Girona. '
+  stage_image: "/images/IMG_7960.JPG"
+  stage_image_alt: ''
+  stage_map: ''
+  theme: White
+  make_public: true
+  background_image: ''
+event_title: ''

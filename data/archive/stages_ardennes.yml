@@ -1,0 +1,117 @@
+---
+enable: false
+stages:
+- Stage: Stage One
+  Locations: Spa, and the Hautes Fagnes-Eiffel region
+  Stats: 170kms / 3200m
+  Mainclimbs: ''
+  Description: The opening stage features the highest and most remote  plateau in
+    the Ardennes. Part of the route will take us into Germany, with a notable stop
+    in the medieval village of Monschau. Nothing too steep, just  buckets of beauty.
+  make_public: true
+  stage_image: "/images/ardennes/ardennes_1.png"
+  stage_image_alt: ''
+  stage_map: https://ridewithgps.com/routes/31604894
+  theme: White
+  background_image: "/images/ardennes/hArdennes_DSC02965.jpg"
+- Stage: Stage Two
+  Locations: Vesdre Valley and the Bergs of the Amstel Gold Race
+  Stats: 175km / 3,300m
+  Mainclimbs: ''
+  Description: 'After a sharp "warm up" tackling some of the walls along the Vesdre
+    valley, ( renowned in Belgium as the valley containing the most & the steepest
+    climbs !), we head directly to the AGR race area. We will watch the race on at
+    least three of the main climbs, chasing from one spot to another to catch the
+    action as the race pace cranks up. '
+  stage_image: "/images/ardennes/hArdennes_DSC03624.jpg"
+  stage_image_alt: ''
+  stage_map: https://ridewithgps.com/routes/31720943
+  theme: White
+  make_public: true
+  background_image: ''
+- Stage: Stage Three
+  Locations: '"Malmedy Madness" re-visited, plus the Francorchamps F1 course....'
+  Stats: 150kms / 3000m
+  Mainclimbs: ''
+  Description: |-
+    Malmedy is one of the key towns that define the unique character of the Belgian Ardennes. Surrounded by steep wooded hills which we explore 'thoroughly' !
+    Our route over to Malmedy takes us through Stavelot where we will have our first taste of the 'L-B-L finale' by riding up the Stockeu. On our way back we will go round the parameter of the F1 Francorchamps circuit.
+  stage_image: "/images/ardennes/hArdennes_DSC07006.jpg"
+  stage_image_alt: ''
+  stage_map: https://ridewithgps.com/routes/31611800
+  theme: Red
+  make_public: true
+  background_image: ''
+- Stage: Stage Four
+  Locations: La Fleche Wallonne finale and a lot more...
+  Stats: 210kms / 3400m
+  Mainclimbs: ''
+  Description: Our longest stage so far where we will ride all of the main climbs
+    of the Flèche Wallonne race course as well as some of my own favourites. Impressive
+    'fermes-chateaux' abound along the way on this stage across the Condroz region.
+    Of course the Mur d'Huy will be one of the "highs"!
+  stage_image: "/images/ardennes/hArdennes_DSC07045.jpg"
+  stage_image_alt: Group of cyclists riding on a road through firelds into a sunrise
+  stage_map: https://ridewithgps.com/routes/29409637
+  theme: White
+  make_public: true
+  background_image: ''
+- Stage: Stage Five
+  Locations: The Mur d'Huy for all the race action
+  Stats: 125kms / 1900m
+  Mainclimbs: ''
+  Description: Our "recovery day" mid-week, where we meander over to Huy and back
+    to catch the ladies climbing the Mur twice and the men climbing it three times.
+    One of the best possible race-watch days you can find anywhere !
+  stage_image: "/images/DSC05825.jpg"
+  stage_image_alt: ''
+  stage_map: https://ridewithgps.com/routes/31526631
+  theme: White
+  make_public: true
+  background_image: ''
+- Stage: Stage Six
+  Locations: 'Dense Forests, rolling roads but of course some nice gradients too. '
+  Stats: 170kms / 3200m
+  Mainclimbs: ''
+  Description: 'A particularly beautiful route through deep forest with many of my
+    own  training climbs around La Roche en Ardenne and a lunch stop in a charming
+    auberge in the middle of one of the largest hunting forests in the Ardennes. '
+  stage_image: "/images/IMG_20190416_145736.jpg"
+  stage_image_alt: ''
+  stage_map: https://ridewithgps.com/routes/29409863
+  theme: Blue
+  make_public: true
+  background_image: ''
+- Stage: Stage Seven
+  Locations: La Roche en Ardenne, Houffalize, Bastogne, Luxembourg. THE BEST.
+  Stats: 251kms / 4900m
+  Mainclimbs: ''
+  Description: 'Part One of a "CCC version of LBL" : after riding the hardest of the
+    climbs around La Roche en Ardenne, we head over to Houffalize to climb the famous
+    Cote de Roche ( the first real challenge on the LBL race course) before heading,
+    via Bastogne, into Luxembourg. The quality of the roads here and the Alpine nature
+    of the climbs never fail to surprise. A super-tough day on the bike with an exceptional
+    overnight stay in the town of Vianden.'
+  stage_image: "/images/IMG_20190312_100645.jpg"
+  stage_image_alt: ''
+  stage_map: https://ridewithgps.com/routes/29735591
+  theme: White
+  make_public: true
+  background_image: ''
+- Stage: Stage Eight
+  Locations: 'Luxembourg, Germany, Belgium : all of the LBL "killer climbs" and so
+    many more. '
+  Stats: 250kms / 5300m
+  Mainclimbs: ''
+  Description: Part Two begins with more classic Luxembourg climbs before we ride
+    ALL of the finale climbs of L-B-L AND more. A truly epic ride to conclude a week
+    of tough rides that will leave you in no doubt about why this part of Belgium
+    is so admired as THE best area to ride in the Benelux. For those who ride the
+    whole eight stages, it  will also leave you very fit and very tired !!
+  stage_image: "/images/IMG_20190406_073552.jpg"
+  stage_image_alt: ''
+  stage_map: https://ridewithgps.com/routes/29615727
+  theme: White
+  make_public: true
+  background_image: ''
+event_title: hArdennes

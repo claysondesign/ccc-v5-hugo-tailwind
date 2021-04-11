@@ -1,5 +1,5 @@
 ---
-Title: Terms and conditions
+Title: A2OEApS Terms and conditions
 Subhead: ''
 Description: ''
 date: 2018-11-06T21:04:16.000+00:00
@@ -13,7 +13,7 @@ menu:
 ---
 ## THESE TERMS
 
-All Cent Cols Challenge trips are provided by Cent Cols Challenge  and are subject to these terms and conditions. By booking your trip and paying a deposit you confirm that you are over the age of 18 and have read, understood and accept these terms and conditions in their entirety.
+All Cent Cols Challenge trips are provided by A2OEApS,   and are subject to these terms and conditions. By booking your trip and paying a deposit you confirm that you are over the age of 18 and have read, understood and accept these terms and conditions in their entirety.
 
 ## PRICE AND PAYMENT
 
@@ -39,7 +39,7 @@ Should you wish to cancel your booking, you must give us notice of this by email
 * between 60 and 31 days prior to departure: 50% of the trip fee;
 * 30 to 0 days prior to departure: 100% of the trip fee.
 
-† You are entitled to transfer your deposit only if you inform us at least 60 days prior to your departure date. Your deposit will then be transferable for 2 calendar years from your payment date. Please note that the deposits are not refundable and can be transferred to another departure only once.
+† You are entitled to transfer your deposit only if you inform us at least 60 days prior to your departure date. Your deposit will then be transferable for 2 calendar years from your payment date. Please note that the deposits are not refundable and can be transferred to another departure only once. In exceptional circumstances we may concede a refund but with an administration deduction of 250€. 
 
 ## IF YOU WISH TO TRANSFER YOUR FULL BALANCE
 
@@ -78,9 +78,13 @@ We will provide you with a 200€ credit to use on another Cent Cols Challenge t
 
 ## INSURED DEPOSIT
 
-Cent Cols Challenge is  committed to customer satisfaction and consumer financial protection. We are therefore pleased to announce that, at no extra cost to you, all passengers booking with Cent Cols Challenge are fully insured for the initial deposit, and subsequently the balance of monies paid as detailed in your booking confirmation form. The policy will also include repatriation if required, arising from the cancellation or curtailment of your travel arrangements due to the insolvency of Cent Cols Challenge. This insurance has been arranged by Allianz Belgium s.a. and GFG ®, Belgium.
+Cent Cols Challenge is  committed to customer satisfaction and consumer financial protection. We are therefore pleased to announce that, at no extra cost to you, all passengers booking with Cent Cols Challenge are fully insured for the initial deposit, and subsequently the balance of monies paid as detailed in your booking confirmation form. The policy will also include repatriation if required, arising from the cancellation or curtailment of your travel arrangements due to the insolvency of Cent Cols Challenge. This insurance has been arranged by :-
 
-In the unlikely event of Insolvency you must inform GFG ® on +32-(0)2/240.68.00 Please ensure you retain this booking confirmation form as evidence of cover and value.
+##### REJSEGARANTIFONDEN, Haldor Topsøes Allé 1 • 2800 Kongens Lyngby, Denmark • tel: 45 87 83 33
+
+**Policy Number : 3339**
+
+Please ensure you retain your booking confirmation form as evidence of cover and value.
 
 Policy exclusions: This policy will not cover any monies paid back to you by your own travel insurance or any losses which are recoverable under another insurance or bond.
 

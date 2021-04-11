@@ -1,6 +1,4 @@
 ---
-draft: true
-
 Title: '"RHONE"'
 Slug: rhone
 Description: ''
@@ -21,7 +19,8 @@ key_cite: ''
 menu:
   routemenu2020:
     name: ''
-    weight:
+    weight: 1
+draft: true
 
 ---
 {{% routedescription %}}

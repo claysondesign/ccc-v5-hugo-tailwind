@@ -7,7 +7,7 @@ featured_image: "/images/c1.JPG"
 featured_image_alt: Scenic view
 secondary_image: "/images/c6.JPG"
 secondary_image_alt: ''
-route_date: 1-11 June 2021 (Sold Out)
+route_date: 1-11 June 2021 (This event has been cancelled due to Covid travel restrictions.)
 booking_link: https://tri.ps/CVuAK
 intro_text: "New CCC route for 2021. A combination of the best of the east and west
   flanks of the Rhone valley, including the regions of the Vercors, Drome, Vaucluse,

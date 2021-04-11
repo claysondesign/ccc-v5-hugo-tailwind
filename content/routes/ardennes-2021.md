@@ -9,7 +9,7 @@ featured_image: "/images/ardennes/header-hArdennes@1600px.jpg"
 featured_image_alt: ''
 secondary_image: "/images/_R3A4961-1.JPG"
 secondary_image_alt: "/images/ardennes/hArdennes_DSC05837.jpg"
-route_date: 17-24 April 2021 (Sold Out)
+route_date: 17-24 April 2021 ( Cancelled - hoping for a 2022 edition!)
 booking_link: https://tri.ps/OqOcd
 intro_text: " “hARDENNES” : A series of Big Rides that will give you a new idea of
   what (southern) Belgium is really about. In 2021 four different \"packages\" are

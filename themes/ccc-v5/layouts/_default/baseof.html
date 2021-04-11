@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{{ partial "head.html" . }}
+
+<body class="karla cccblack">
+
+  {{ partial "header.html" . }}
+
+
+  {{ block "here" . }}
+  {{ end }}
+
+  <main role="main">
+    {{ block "main" . }}
+    {{ end }}
+  </main>
+
+  {{ partial "footer.html" . }}
+
+  {{ block "footerextra" . }}
+  {{ end }}
+
+
+
+  {{ if eq .RelPermalink "/the-65-ride-2023/" }}
+  
+  
+  {{ $macyjs := resources.Get "js/macy.js" }}
+  {{ $macysecure := $macyjs | resources.Fingerprint "sha512" }}
+  <script src="{{ $macysecure.Permalink }}" integrity="{{ $macysecure.Data.Integrity }}"></script>
+  
+  <script>
+    var masonry = new Macy({
+      container: '#macy-container',
+      trueOrder: true,
+      waitForImages: false,
+      useOwnImageLoader: false,
+      debug: true,
+      mobileFirst: true,
+      columns: 1,
+      margin: {
+          y: 32,
+          x: '0%',
+      },
+      breakAt: {
+          1200: 3,
+          940: 3,
+          520: 1,
+          400: 1
+      },
+    });
+    
+  </script>
+  
+  {{ end }}
+  
+  
+  <script>
+    document.getElementById('nav-open').onclick = function() {
+    document.getElementById("nav-menu").classList.toggle("hidden");
+    document.getElementById("nav-open").classList.toggle("hidden");
+    document.getElementById("nav-close").classList.toggle("hidden");
+    }
+    document.getElementById('nav-close').onclick = function() {
+    document.getElementById("nav-menu").classList.toggle("hidden");
+    document.getElementById("nav-close").classList.toggle("hidden");
+    document.getElementById("nav-open").classList.toggle("hidden");
+    }
+  </script>
+    
+  
+
+
+
+</body>
+</html>

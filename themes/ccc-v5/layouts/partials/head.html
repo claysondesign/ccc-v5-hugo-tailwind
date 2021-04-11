@@ -1,0 +1,80 @@
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta
+    http-equiv="Content-Security-Policy"
+    content="default-src *; font-src 'self' data: fonts.gstatic.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com/ http://cdnjs.cloudflare.com http://cdn-images.mailchimp.com; script-src * 'unsafe-inline' 'unsafe-eval'"
+  />
+
+  <title>
+    {{ block "title" . }}{{ .Site.Title }} {{ with .Params.Title }} | {{ . }}{{ end }}{{ end }}
+  </title>
+  <meta name="author" content="Philip Deeker" />
+  <meta name="description" content="{{ .Params.Description }}" />
+
+  <link
+    rel="apple-touch-icon"
+    sizes="180x180"
+    href="/images/logo/apple-touch-icon.png"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="32x32"
+    href="/images/logo/favicon-32x32.png"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="16x16"
+    href="/images/logo/favicon-16x16.png"
+  />
+  <link rel="manifest" href="/images/logo/site.webmanifest" />
+  <link
+    rel="mask-icon"
+    href="/images/logo/safari-pinned-tab.svg"
+    color="#b1350e"
+  />
+  <meta name="msapplication-TileColor" content="#da532c" />
+  <meta name="theme-color" content="#ffffff" />
+
+  <link
+    href="https://fonts.googleapis.com/css?family=Karla:400,700"
+    rel="stylesheet"
+  />
+
+  {{/*
+  <link rel="icon" sizes="192x192" href="/images/icons/icon.png" />
+  <link rel="apple-touch-icon" href="/images/icons/apple-touch-icon.png" />
+  <link rel="mask-icon" href="/images/icons/safaripin.svg" color="black" />
+  */}}
+
+  <link rel="canonical" href="{{ .Permalink }}" />
+  <link rel="author" href="humans.txt" />
+
+  {{ range .AlternativeOutputFormats -}} {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }} {{ end -}} {{/* <meta name="theme-color" content="#B1350E" />*/}} {{ partial "seo_schema" . }} 
+  
+  {{ $css := resources.Get "css/styles.css" }}
+  {{ $css := $css | resources.PostCSS (dict "outputStyle" "compressed") | fingerprint }}
+  
+  <link rel="preload" as="style" href="{{ $css.RelPermalink }}">
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" type="text/css">
+  
+
+  {{ if .Site.IsServer }}
+  
+  <!-- **** Analtyics and Cookies HEre ***** -->
+  
+  {{ else }}
+
+  <meta name="robots" content="index,follow">
+  <meta name="googlebot" content="index,follow">
+  <meta name="google-site-verification" content="tjF644u12Cw6HHYL3QV93xlKZFzdjHnKyM3Gury7v" />
+  <meta name="msvalidate.01" content="421D33DB11E1614C2EAB566B482094B7" />
+  {{ partial "analytics" . }}
+  {{ partial "cookie_popup" . }}
+  {{ end }}
+
+  
+</head>

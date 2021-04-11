@@ -4,44 +4,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 enableRobotsTXT = true
 languageCode = "en"
 title = "Cent Cols Challenge"
+theme = "ccc-v5"
 
 [imaging]
 disableDate = true
 disableLatLong = true
 quality = 90
-
-# https://discourse.gohugo.io/t/importing-js-from-node-packages/23545/3
-[module]
-
-
-[[module.mounts]]
-source = "content"
-target = "content"
-
-[[module.mounts]]
-source = "static"
-target = "static"
-
-[[module.mounts]]
-source = "layouts"
-target = "layouts"
-
-[[module.mounts]]
-source = "data"
-target = "data"
-
-[[module.mounts]]
-source = "i18n"
-target = "i18n"
-
-[[module.mounts]]
-source = "archetypes"
-target = "archetypes"
-
-[[module.mounts]]
-source = "asset-src"
-target = "assets"
-
-[[module.mounts]]
-source = "node_modules/macy/dist/macy.js"
-target = "assets/libaries/macy.js"

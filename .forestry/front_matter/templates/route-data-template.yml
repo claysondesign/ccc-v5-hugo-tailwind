@@ -32,7 +32,7 @@ fields:
   - name: stage_image
     type: file
     config:
-      maxSize: 250
+      maxSize: 
     label: Stage image
   - type: text
     name: stage_image_alt
@@ -67,7 +67,7 @@ fields:
   - name: background_image
     type: file
     config:
-      maxSize: 250
+      maxSize: 
     label: Background Image
 pages:
 - data/events2022/event-1-piemonte-2022.yml
@@ -75,11 +75,6 @@ pages:
 - data/events2022/event-3-southern-alps-2022.yml
 - data/events2022/event-4-east-pyrenees-2022.yml
 - data/events2022/event-5-central-pyrenees-2022.yml
+- data/events2022/event-6-basque-country-2022.yml
 - data/events2022/event-7-asturias-2022.yml
 - data/events2022/test2022.yml
-- data/stages-piemonte.yml
-- data/stages_ardennes.yml
-- data/stages_corsica.yml
-- data/stages_east_pyrenees.yml
-- data/stages_southern_alps.yml
-- data/test-stage.yml

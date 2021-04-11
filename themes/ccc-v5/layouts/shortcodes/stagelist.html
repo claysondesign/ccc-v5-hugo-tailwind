@@ -1,0 +1,99 @@
+{{/* {{ $_hugo_config := `{ "version": 1 }` }} */}}
+<div id="stages" class="mt-8 md:mt-8 w-full">
+  <h2 class="text-2xl pb-2 md:pb-4 text-cccblue">The Stages</h2>
+</div>
+
+{{ $data := index .Site.Data (.Get 0) }}
+{{ $data2021 := index .Site.Data.events2021 (.Get 0) }}
+{{ $data2022 := index .Site.Data.events2022 (.Get 0) }}
+
+
+{{/* {{ range $data, $data2021 := $alldata }}
+{{ end }} */}}
+
+{{ range $data2021.stages }}
+
+{{ if .make_public }}
+{{ $stageimgalt := .stage_image_alt }}
+
+{{ if .background_image }}
+
+  <div style="background-image: url('{{ .background_image }}')" class="text-cccblack bg-cover p-6 md:py-40 w-full flex flex-wrap mb-12">
+    <div class="w-full md:w-1/2 md:pr-16 md:pt-12 order-1">
+
+{{ else }}
+
+  <div class="w-full flex flex-wrap mb-12 {{ if eq .theme "Red" }}md:mb-24 p-6 md:p-12 bg-cccred text-white{{ end }}{{ if eq .theme "Blue" }}md:mb-24 p-6 md:p-12 text-white  bg-cccblue {{ end }}{{ if eq .theme "Transparent" }}md:mb-24 p-6 md:p-12 text-white border bg-none{{ end }}{{ if eq .theme "White" }}bg-white p-0 pb-12 border-b{{ end }}">
+    <div class="w-full md:w-3/5 md:pr-16 order-1 pt-2">
+
+{{ end }}
+
+
+
+    <div class="mb-6">
+
+      <h4 class="text-cccwhite">{{ .Stage |safeHTML }}</h4>
+
+      {{/* {{ with .Locations }}
+      <h3 class="text-3xl leading-tight text-cccred md:pb-4">{{ . }}</h3>
+      {{ end }} */}}
+
+      <h3 class="text-3xl pb-2 md:pb-4 leading-tight {{ if eq .theme "White" }}text-cccred {{ else }}text-white {{ end }}">{{ .Locations |safeHTML }}</h3>
+
+
+      {{ with .Stats }}
+      <p class="pb-2 md:text-xl">{{ . }}</p>
+      {{ end }}
+
+      {{ with .Mainclimbs }}
+      <p class="pb-2"><span class="italic">Main climbs:</span><br> {{ . }}</p>
+      {{ end }}
+      {{ with .Description }}
+      <p class="">{{ . }}</p>
+      {{ end }}
+
+      {{/* {{ if eq .Stage "Stage One" }}
+      {{ else }}
+      {{ with .stage_map }}
+      <a href="{{ . }}" class="text-ccccyan pt-4 inline-block border-b border-ccccyan">View the map</a>
+      {{ end }}
+      {{ end }} */}}
+
+    </div>
+  </div>
+
+  {{ if .background_image }}
+    <div class="w-100 md:w-1/2 order-2 mb-0">
+  {{ else }}
+    <div class="w-100 md:w-2/5 order-2 mb-0">
+  {{ end }}
+
+    {{/* {{ if .stage_image }}
+    <picture class="block">
+      <img class="block" src="{{ with .stage_image }}{{ . }}{{ end }}" alt="{{ with .stage_image_alt }}{{ . }}{{ end }}">
+    </picture>
+    {{ end }} */}}
+    {{ with .stage_image }}
+        {{ $imageResource := ($.Site.GetPage "section" "images").Resources.GetMatch (strings.TrimPrefix "/images/" . ) }}
+        {{ $resized := $imageResource.Resize "800x" }}
+        <picture class="block">
+          <img class="w-screen" alt="{{ $stageimgalt }}" src="{{ $resized.RelPermalink }}" />
+        </picture>
+    {{ end }}
+  </div>
+
+
+  {{/* {{ if eq .Stage "Stage One" }}
+  <span class="mb-4 order-3 toggle-map text-ccccyan inline-block border-b border-ccccyan">View the map</span>
+
+  <div class="order-4 hidden map-panel w-full">
+
+      <iframe src="https://ridewithgps.com/embeds?type=route&id=31604894&metricUnits=true&sampleGraph=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+
+  </div>
+  {{ end }} */}}
+
+</div>
+
+{{ end }}
+{{ end }}

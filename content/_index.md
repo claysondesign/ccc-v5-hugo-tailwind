@@ -6,9 +6,9 @@ date: 2018-11-06T21:04:16.000+00:00
 featured_image: "/images/general/JER04049.jpg"
 featured_image_alt: Cyclist riding with mountain background
 featured_image_credit: Photo credit - Jered Gruber
-homepage_flash_line_1: 'The Covid Crisis could change 2021 event calendar. '
-homepage_flash_line_2: A "Plan B Corsica" is being planned for 9-19 October. If you
-  would be interested, contact us.
+homepage_flash_line_1: 'The Covid updates: June and July cancelled.'
+homepage_flash_line_2: ' September & October events still ON! See the new 2022 calendar
+  on the "About" page'
 intro_text: ''
 key_cite: " CCC Rider, Northern Alps 2019"
 key_testimonial: "“There was that common bond. It was so warm. Sometimes you don’t
@@ -45,3 +45,14 @@ The list of planned events up to 2022 can be [found on the about page](/about#th
 
 {{% /homegallery %}}
 
+The Cent Cols Challenge is owned by :
+
+A2OEApS, Hartmannsjej, 56
+
+292 Charlottenlund, Denmark.
+
+Company number : 41748699
+
+Event Insurance number ( Rejsegarantifonden) : 3339
+
+Contact : info@centcolschallenge.com TEL +45 316 84 050
