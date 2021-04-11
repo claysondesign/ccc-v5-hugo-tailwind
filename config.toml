@@ -6,6 +6,7 @@ languageCode = "en"
 title = "Cent Cols Challenge"
 theme = "ccc-v5"
 
+
 [imaging]
 disableDate = true
 disableLatLong = true
