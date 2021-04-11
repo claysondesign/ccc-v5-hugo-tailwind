@@ -45,7 +45,7 @@ The list of planned events up to 2022 can be [found on the about page](/about#th
 
 {{% /homegallery %}}
 
-The Cent Cols Challenge is owned by :
+The Cent Cols Challenge is owned by:
 
 A2OEApS, Hartmannsjej, 56
 
@@ -53,6 +53,6 @@ A2OEApS, Hartmannsjej, 56
 
 Company number : 41748699
 
-Event Insurance number ( Rejsegarantifonden) : 3339
+Event Insurance number (Rejsegarantifonden) : 3339
 
 Contact : info@centcolschallenge.com TEL +45 316 84 050
