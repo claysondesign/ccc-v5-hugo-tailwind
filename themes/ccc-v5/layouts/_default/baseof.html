@@ -25,10 +25,10 @@
 
   {{ if eq .RelPermalink "/the-65-ride-2023/" }}
   
-  
   {{ $macyjs := resources.Get "js/macy.js" }}
   {{ $macysecure := $macyjs | resources.Fingerprint "sha512" }}
-  <script src="{{ $macysecure.Permalink }}" integrity="{{ $macysecure.Data.Integrity }}"></script>
+  {{ $bundle := slice $macyjs  | resources.Concat "js/bundle.js" }}
+  <script src="{{ $bundle.Permalink }}" integrity="{{ $macysecure.Data.Integrity }}"></script>
   
   <script>
     var masonry = new Macy({
@@ -69,9 +69,5 @@
     }
   </script>
     
-  
-
-
-
 </body>
 </html>
