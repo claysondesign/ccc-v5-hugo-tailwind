@@ -25,27 +25,9 @@
 
   {{ if eq .RelPermalink "/the-65-ride-2023/" }}
   
-  {{/* {
-  {{ $macyjs := resources.Get "js/macy.js" }}
-  {{ $macysecure := $macyjs | resources.Fingerprint "sha512" }}
-  {{ $bundle := slice $macyjs  | resources.Concat "js/bundle.js" }}
-  <script src="{{ $bundle.Permalink }}" integrity="{{ $macysecure.Data.Integrity }}"></script>
-  <script src="../js/macy.js" charset="utf-8"></script>
-  
-  {{ $macymin := resources.Get "js/macy.js" | resources.Minify }}
-  {{ $macyminfingerprint := resources.Get "js/macy.js" | resources.Fingerprint "sha512" }}
-  <script type="text/javascript" src="{{ $macymin.RelPermalink }}"></script>
-<script src="../js/macy.js" charset="utf-8"></script>
-  */}}
-  
   {{ $macymin := resources.Get "js/macy.js" | resources.Minify }}
   {{ $macyminfingerprint := resources.Get "js/macy.js" | resources.Fingerprint "sha512" }}
   <script type="text/javascript" src="{{ $macyminfingerprint.RelPermalink }}"></script>
-  
-  
-  
-  
-
   
   
   <script>
