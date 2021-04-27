@@ -71,11 +71,11 @@ Adam : " From my very first days on my initial CCC I knew I had found something 
 * 23 May > 2 June : CCC RHONE
 * 7 June > 17 June: CCC S. ALPS
 * 21 June > 1 July : CCC "CLASSIC ALPS" ( The very first CCC, ridden in 2009, is back! Nice to Annecy & back. Details to appear soon.)
-* 28 August > 7 September : PIEMONTE
-* 12 > 22 September : CLASSIC PYRENEES ( From Year Two of the CCC, the original Pyrenees route from Perpignan to Oloron & back.)
-* 26 September > 6 October : E PYRENEES
+* 30 August > 9 September : PIEMONTE
+* 12 > 22 September : CLASSIC PYRENEES ( From Year Two of the CCC, a new version of the original Pyrenees route from Perpignan to Argeles-Gazost & back.)
+* 26 September > 6 October : E PYRENEES, incl. Andorra.
 
-####  2023 : The "Retirement Ride". (The '65RIDE' will now happen in 2023.)
+#### 2023 : The "Retirement Ride". (The '65RIDE' will now happen in 2023.)
 
 * Starting in June, ending in October, with a break in August, **seven events** ( six with ten stages; the final with five stages)  will make up the 65-stage 650 Cols route ( to mark Phil's 65 years in 2022). Starting in Verona, Italy and ending in Santander, Northern Spain, this ride will cover the following regions :-
 * Piemonte, Southern Alps, Northern Alps, Ardeche, Cevennes, Massif Central, Langeudoc, Catalunya, East Pyrenees, West Pyrenees, Basque Country, Cantabria, Asturias, Picos de Europa.
