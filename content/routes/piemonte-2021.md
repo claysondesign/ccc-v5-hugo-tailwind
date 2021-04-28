@@ -8,7 +8,7 @@ featured_image: "/images/DSC05986.jpg"
 featured_image_alt: Scenic view of Piemonte
 secondary_image: "/images/DSC06023.jpg"
 secondary_image_alt: ''
-route_date: 31 August to 10 September 2021. Places still available.
+route_date: 31 August to 10 September 2021. (Places still available.)
 booking_link: https://www.wetravel.com/trips/cent-cols-challenge-piemonte-a-july-2020-phil-deeker-san-pellegrino-terme-48711478
 intro_text: 'Where cycling and religion seem to have created a unique culture together!
   WARNING : THIS EVENT CONTAINS A LOT OF STEEP GRADIENTS, even by CCC standards! '
