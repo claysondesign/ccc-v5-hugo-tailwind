@@ -7,10 +7,11 @@ featured_image: "/images/IMG_8109.JPG"
 featured_image_alt: ''
 secondary_image: "/images/thumb_DSC04937_1024.jpg"
 secondary_image_alt: ''
-route_date: 15 September – 25 September 2021
+route_date: 15 September – 25 September 2021 (Places still available)
 booking_link: https://www.wetravel.com/trips/cent-cols-challenge-east-pyrenees-2020-phil-deeker-girona-spain-44815560
 intro_text: 'The Girona hills, Andorra, Cap de Long, Port de Pailheres : just a few
   of the pearls in this CCC "jewel".'
+booking_links: []
 menu:
   routemenu2021:
     name: East Pyrenees
