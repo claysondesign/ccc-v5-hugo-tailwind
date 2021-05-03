@@ -87,15 +87,17 @@ stages:
   theme: White
   background_image: ''
 - Stage: Stage 57
-  Locations: Bilbao &ndash; Bilbao
-  Stats: ''
-  Mainclimbs: ''
-  Description: ''
-  stage_image: ''
+  Locations: Piedrafita &ndash; Ponferrada
+  Stats: 207kms / 4060m
+  Mainclimbs: Reteixeira, Boi
+  Description: The final stage in the Galicia region. Another feast of remoteness
+    with superb vistas of this unspoilt landscape. The climbs may be totally unknown
+    to most of us, but will remain very vivid memories to those who dare to ride here!
+  stage_image: "/images/img_4496.jpg"
   stage_map: ''
-  make_public: false
+  make_public: true
   stage_image_alt: ''
-  theme: Transparent
+  theme: White
   background_image: ''
 - Stage: Stage 58
   Locations: Bilbao &ndash; Laredo
