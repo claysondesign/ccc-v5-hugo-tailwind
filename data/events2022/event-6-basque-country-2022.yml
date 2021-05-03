@@ -112,11 +112,12 @@ stages:
   theme: Red
   background_image: ''
 - Stage: Stage 59
-  Locations: Laredo &ndash; Vega De Pas
-  Stats: ''
-  Mainclimbs: ''
-  Description: ''
-  stage_image: ''
+  Locations: Cangas del Narcea &ndash; Pola di Lena
+  Stats: 191kms / 5600m
+  Mainclimbs: Linares, Cordal, Angliru
+  Description: The heart of the Asturias and the first meeting with the Mighty Angliru.
+    This stage is pure drama and beauty from start to finish!
+  stage_image: "/images/img_4234.JPG"
   stage_map: ''
   make_public: false
   stage_image_alt: ''
