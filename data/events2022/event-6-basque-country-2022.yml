@@ -119,9 +119,9 @@ stages:
     This stage is pure drama and beauty from start to finish!
   stage_image: "/images/img_4234.JPG"
   stage_map: ''
-  make_public: false
+  make_public: true
   stage_image_alt: ''
-  theme: White
+  theme: Red
   background_image: ''
 - Stage: Stage 60
   Locations: Pola di Lena &ndash; Pola di Lena
