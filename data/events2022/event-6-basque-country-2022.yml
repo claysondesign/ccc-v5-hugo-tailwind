@@ -124,13 +124,14 @@ stages:
   theme: White
   background_image: ''
 - Stage: Stage 60
-  Locations: Vega De Pas &ndash; Santander
-  Stats: ''
-  Mainclimbs: ''
-  Description: ''
-  stage_image: ''
+  Locations: Pola di Lena &ndash; Pola di Lena
+  Stats: 203km / 6030m
+  Mainclimbs: Gamoniteiro, Angliru
+  Description: 'This has to be one of the stand-out stages of them all : a combination
+    of the two most feared climbs of the Asturias. The Loop of all loops!'
+  stage_image: "/images/img_4221.JPG"
   stage_map: ''
-  make_public: false
+  make_public: true
   stage_image_alt: ''
-  theme: White
+  theme: Red
   background_image: ''
