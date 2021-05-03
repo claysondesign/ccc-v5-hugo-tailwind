@@ -100,13 +100,14 @@ stages:
   theme: White
   background_image: ''
 - Stage: Stage 58
-  Locations: Bilbao &ndash; Laredo
-  Stats: ''
-  Mainclimbs: ''
-  Description: ''
-  stage_image: ''
+  Locations: Ponferrada &ndash; Cangas del Narcea
+  Stats: 202 kms / 4300m
+  Mainclimbs: Lumeras, Ancares, Connie
+  Description: 'Back into the Asturias region, via the south side of Ancares. Through
+    many places Time seems to have forgotten. '
+  stage_image: "/images/img_8602.JPG"
   stage_map: ''
-  make_public: false
+  make_public: true
   stage_image_alt: ''
   theme: Red
   background_image: ''
