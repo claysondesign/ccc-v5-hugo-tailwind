@@ -2,7 +2,6 @@
 Title: Classic Alps
 Slug: classic-alps
 draft: true
-
 Description: Final Chance to ride this route
 date: 2019-06-14T21:00:00.000+00:00
 featured_image: "/images/IMG_0755.JPG"
