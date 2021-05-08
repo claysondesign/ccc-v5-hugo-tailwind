@@ -56,6 +56,7 @@ fields:
     labelField: booking_link_text
   label: Booking Links
 pages:
+- content/routes/classic-alps-2022.md
 - content/routes/classic-pyrenees-2022.md
 - content/routes/corsica-2021.md
 - content/routes/east-pyrenees-2021.md
