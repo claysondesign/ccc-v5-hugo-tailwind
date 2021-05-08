@@ -8,15 +8,14 @@ featured_image_alt: ''
 secondary_image: "/images/DSC06286.jpg"
 secondary_image_alt: ''
 route_date: XX June - X July
-booking_link: 
-intro_text: 'Classic Pyrenees Intro'
+booking_link: ''
+intro_text: Classic Pyrenees Intro
 booking_links: []
-draft: true
 menu:
   routemenu2022:
     name: Pyrenees Alps
     weight: 4
-
+draft: true
 
 ---
 {{% routedescription %}}
