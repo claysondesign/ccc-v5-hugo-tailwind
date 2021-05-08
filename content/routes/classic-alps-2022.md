@@ -9,13 +9,14 @@ featured_image_alt: ''
 secondary_image: "/images/DSC06286.jpg"
 secondary_image_alt: ''
 route_date: XX June - X July
-booking_link: 
-intro_text: 'Classic Alps Intro'
+booking_link: ''
+intro_text: Classic Alps Intro
 booking_links: []
 menu:
   routemenu2022:
     name: Classic Alps
     weight: 4
+draft: true
 
 ---
 {{% routedescription %}}
