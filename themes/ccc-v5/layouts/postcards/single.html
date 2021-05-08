@@ -7,16 +7,17 @@
 
     {{ partial "featureimage.html" . }}
 
+    {{ $postcard_image_alt := .Params.postcard_image_alt }}
     {{ $postcard_image := .Params.postcard_image }}
     {{ if $postcard_image }}
 
     <div class="mx-auto max-w-6xl px-6 flex flex-wrap justify-center items-stretch py-3 md:py-12">
 
-      <div class="copy w-100 md:w-1/3 pr-12">
-        <h1 class="text-5xl text-ccccyan leading-none">{{ .Title }}</h1>
+      <div class="copy w-full md:w-1/3 pr-12 pt-4">
+        <h1 class="text-5xl text-white leading-none">{{ .Title }}</h1>
 
         {{ if .Params.Subhead }}
-        <h2 class="text-2xl">{{ .Params.Subhead }}</h2>
+        <h2 class="text-2xl text-white">{{ .Params.Subhead }}</h2>
         {{ end }}
 
         {{ if .Params.postcard_summary }}
@@ -24,9 +25,46 @@
         {{ end }}
       </div>
 
+
+
+
+
       <div class="w-100 md:w-2/3">
         <div class="pt-0 pb-0">
-          <img alt="{{ .Params.postcard_image_alt }}" src="{{ $postcard_image }}">
+          
+          
+          {{ with .Params.postcard_image }}
+          {{ $imageResource := ($.Site.GetPage "section" "images").Resources.GetMatch (strings.TrimPrefix "/images/" . ) }}
+          {{ $resizedsm := $imageResource.Resize "640x" }}
+          {{ $resizedmd := $imageResource.Resize "1024x" }}
+          {{ $resizedlg := $imageResource.Resize "1280x" }}
+          {{ $resizedxl := $imageResource.Resize "2048x" }}
+    
+          <picture class="block">
+    
+              <source media="(min-width: 1280px)" srcset="{{ $resizedlg.RelPermalink }} 1x,
+                        {{ $resizedxl.RelPermalink }} 2x,
+                        {{ $resizedxl.RelPermalink }} 3x">
+    
+              <source media="(min-width: 1024px)" srcset="{{ $resizedlg.RelPermalink }} 1x,
+                        {{ $resizedxl.RelPermalink }} 2x,
+                        {{ $resizedxl.RelPermalink }} 3x">
+    
+              <source media="(min-width: 768px)" srcset="{{ $resizedmd.RelPermalink }} 1x,
+                        {{ $resizedlg.RelPermalink }} 2x,
+                        {{ $resizedxl.RelPermalink }} 3x">
+    
+              <source media="(min-width: 640px)" srcset="{{ $resizedsm.RelPermalink }} 1x,
+                        {{ $resizedmd.RelPermalink }} 2x,
+                        {{ $resizedlg.RelPermalink }} 3x">
+    
+              <img class="w-screen" alt="{{ $.Params.postcard_image_alt }}" src="{{ $resizedlg.RelPermalink }}" />
+            </picture>
+    
+          {{ end }}
+    
+          
+          
         </div>
       </div>
 

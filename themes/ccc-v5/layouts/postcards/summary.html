@@ -1,6 +1,11 @@
 {{ $postcard_image := .Params.postcard_image }}
 {{ $featured_image := .Params.featured_image }}
 
+{{ $featured_image_alt := .Params.featured_image_alt }}
+{{ $postcard_image_alt := .Params.postcard_image_alt }}
+
+
+
 <div class="mb-4 bg-white flex flex-wrap content-center">
 
 
@@ -41,24 +46,41 @@
   </div>
 
 
+
   {{ if $postcard_image }}
-  {{ $postcard_image := (trim $postcard_image "/") | absURL }}
-  <div class="md:w-1/2 py-0 md:py-12 m-0">
-    <figure class="">
-      <img class="p-0 m-0" alt="{{ .Params.postcard_image_alt }}" src="{{ $postcard_image }}">
-    </figure>
-  </div>
+
+
+{{ with .Params.postcard_image }}
+{{ $imageResource := ($.Site.GetPage "section" "images").Resources.GetMatch (strings.TrimPrefix "/images/" . ) }}
+{{ $resizedsm := $imageResource.Resize "640x" }}
+
+<div class="md:w-1/2 py-0 md:py-12 m-0">
+  <img class="p-0 m-0" alt="{{ $postcard_image_alt }}" src="{{ $resizedsm.RelPermalink }}">
+</div>
+
+{{ end }}
+
+
+
+
 
  {{ else }}
-
+ 
+ 
+ {{ with .Params.featured_image }}
+ {{ $imageResource := ($.Site.GetPage "section" "images").Resources.GetMatch (strings.TrimPrefix "/images/" . ) }}
+ {{ $resizedsm := $imageResource.Resize "640x" }}
+ 
  <div class="md:w-1/2 py-0 md:py-12 m-0">
-   <figure class="">
-     <img class="" alt="{{ .Params.featured_image_alt }}" src="{{ $featured_image }}">
-   </figure>
+   <img class="p-0 m-0" alt="{{ $featured_image_alt }}" src="{{ $resizedsm.RelPermalink }}">
  </div>
+ 
 
 
   {{ end }}
+
+{{ end }}
+
 
 
   </div>

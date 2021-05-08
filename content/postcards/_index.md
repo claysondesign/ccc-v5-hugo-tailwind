@@ -1,5 +1,6 @@
 ---
 title: Postcards
+description: Regular updates and news from Cent Cols Challenge.
 menu:
   secondarymenu:
     title: postcards

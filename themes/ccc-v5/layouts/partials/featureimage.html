@@ -31,13 +31,10 @@
           <img class="w-screen" alt="{{ $.Params.featured_image_alt }}" src="{{ $resizedlg.RelPermalink }}" />
         </picture>
 
-      {{/* <img class="w-screen" alt="{{ $alttext }}" src="{{ $resized.RelPermalink }}" /> */}}
       {{ end }}
-      {{/* <img alt="{{ $.Params.featured_image_alt }}" class="w-screen" src="{{ $src }}"> */}}
 
       <figcaption class="absolute p-1 bottom-0 right-0 text-white text-sm">{{ .Params.featured_image_credit | markdownify }}</figcaption>
 
     </figure>
   </div>
 </div>
-{{/* {{ end }} */}}
