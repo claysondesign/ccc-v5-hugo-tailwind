@@ -16,9 +16,7 @@ Subhead: ''
 featured_image_credit: ''
 key_testimonial: ''
 key_cite: ''
-booking_links:
-- booking_link_text: Book Here
-  booking_url: https://tri.ps/nPqh6
+booking_links: []
 menu:
   routemenu2021:
     name: Piemonte
