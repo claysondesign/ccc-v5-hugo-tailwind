@@ -13,16 +13,22 @@ stages:
   make_public: false
   stage_image_alt: ''
   theme: Blue
+  background_image: ''
 - Stage: Stage 62
-  Locations: Potes &ndash; Pola Di Lena
-  Stats: ''
-  Mainclimbs: ''
-  Description: ''
-  stage_image: ''
+  Locations: Cangas de Onis &ndash; Pola Di Lena
+  Stats: 176kms / 4200m
+  Mainclimbs: Lagos de Covadonga
+  Description: 'This stage opens with one of the most beautiful ( and challenging)
+    climbs of the Asturias : the Covadonga. After this giant the stage tackles many
+    other shorter climbs as we ride deeper into the heart of this superb area on our
+    way to the historic small town of Potes, considered the tiny ''capital'' of the
+    region.  '
+  stage_image: "/images/ca3.JPG"
   stage_map: ''
   make_public: false
   stage_image_alt: ''
-  theme: 'White'
+  theme: White
+  background_image: ''
 - Stage: Stage 63
   Locations: Pola Di Lena Loop
   Stats: ''
@@ -32,7 +38,8 @@ stages:
   stage_map: ''
   make_public: false
   stage_image_alt: ''
-  theme: 'White'
+  theme: White
+  background_image: ''
 - Stage: Stage 64
   Locations: Pola &ndash; Cangas
   Stats: ''
@@ -42,7 +49,8 @@ stages:
   stage_map: ''
   make_public: false
   stage_image_alt: ''
-  theme: 'White'
+  theme: White
+  background_image: ''
 - Stage: Stage 65
   Locations: Cangas &ndash; Santander
   Stats: ''
@@ -52,4 +60,5 @@ stages:
   stage_map: ''
   make_public: false
   stage_image_alt: ''
-  theme: 'White'
+  theme: White
+  background_image: ''
