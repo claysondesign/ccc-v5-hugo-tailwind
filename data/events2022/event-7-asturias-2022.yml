@@ -4,13 +4,15 @@ event_date: ''
 enable: true
 stages:
 - Stage: Stage 61
-  Locations: Santander &ndash; Potes
-  Stats: ''
-  Mainclimbs: ''
-  Description: ''
-  stage_image: ''
+  Locations: Mieres &ndash; Cangas de Onis
+  Stats: 170kms / 3500
+  Mainclimbs: Colladonna, Arniciu, Moande
+  Description: 'The first stage of the ''final five'' continues our epic exploration
+    of the Asturias region, taking in some lesser known climbs seeped in the rural
+    charm of this tranquil area. '
+  stage_image: "/images/3-1b.JPG"
   stage_map: ''
-  make_public: false
+  make_public: true
   stage_image_alt: ''
   theme: Blue
   background_image: ''
