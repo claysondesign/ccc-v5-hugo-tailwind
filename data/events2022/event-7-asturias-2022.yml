@@ -27,9 +27,9 @@ stages:
     region.  '
   stage_image: "/images/ca3.JPG"
   stage_map: ''
-  make_public: false
+  make_public: true
   stage_image_alt: ''
-  theme: White
+  theme: Blue
   background_image: ''
 - Stage: Stage 63
   Locations: Pola Di Lena Loop
