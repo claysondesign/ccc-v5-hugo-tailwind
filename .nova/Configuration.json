@@ -11,6 +11,6 @@
   "prettier.default-config.useTabs" : "Global Default",
   "prettier.default-config.vueIndentScriptAndStyle" : "Global Default",
   "prettier.format-on-save" : "Disable",
-  "workspace.art_style" : 1,
+  "workspace.art_style" : 0,
   "workspace.color" : 8
 }
