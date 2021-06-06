@@ -60,10 +60,15 @@ stages:
   theme: White
   background_image: ''
 - Stage: Stage 65
-  Locations: Cangas &ndash; Santander
-  Stats: ''
-  Mainclimbs: ''
-  Description: ''
+  Locations: Puente Viesgo &ndash; Santander
+  Stats: 163kms / 4200m
+  Mainclimbs: Lunada, Sia, Espina
+  Description: 'As luck would have it, two of my favourite climbs in Northern Spain
+    are to be found in this final stage. Such a contrast : the Lunada climb deserves
+    this second ascent, with all it''s majestic grandeur and gently snaking roads
+    that hug the hillside; whereas the Collada di Espina, is a savage, raw and excessive
+    battle with gravity. The whole spectrum of ''riding sensations'' in one stage!
+    Not a bad way to wrap up 65 stages of bicycle, mountain roads and willing legs!'
   stage_image: ''
   stage_map: ''
   make_public: false
