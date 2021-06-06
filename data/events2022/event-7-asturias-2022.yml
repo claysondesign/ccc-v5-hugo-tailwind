@@ -69,9 +69,9 @@ stages:
     that hug the hillside; whereas the Collada di Espina, is a savage, raw and excessive
     battle with gravity. The whole spectrum of ''riding sensations'' in one stage!
     Not a bad way to wrap up 65 stages of bicycle, mountain roads and willing legs!'
-  stage_image: ''
+  stage_image: "/images/4-1a.JPG"
   stage_map: ''
-  make_public: false
+  make_public: true
   stage_image_alt: ''
   theme: White
   background_image: ''
