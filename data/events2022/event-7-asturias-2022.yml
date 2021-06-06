@@ -55,7 +55,7 @@ stages:
     contemplation and sheer admiration in equal amounts! '
   stage_image: "/images/ca1.JPG"
   stage_map: ''
-  make_public: false
+  make_public: true
   stage_image_alt: ''
   theme: White
   background_image: ''
