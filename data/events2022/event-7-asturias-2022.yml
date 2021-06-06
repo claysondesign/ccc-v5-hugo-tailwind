@@ -46,11 +46,14 @@ stages:
   theme: Blue
   background_image: ''
 - Stage: Stage 64
-  Locations: Pola &ndash; Cangas
-  Stats: ''
-  Mainclimbs: ''
-  Description: ''
-  stage_image: ''
+  Locations: Reinosa &ndash; Puente Viesgo
+  Stats: 185kms / 4300m
+  Mainclimbs: Jumedre, Mattonella, Trueba, Lunada
+  Description: 'The first of two sensational stages to finish this odyssey with. Both
+    explore the best of Cantabria. The highlight of this stage has to be the first
+    of our two ascents of the Portillo de Lunada. Both sides provide a moment of isolation,
+    contemplation and sheer admiration in equal amounts! '
+  stage_image: "/images/ca1.JPG"
   stage_map: ''
   make_public: false
   stage_image_alt: ''
