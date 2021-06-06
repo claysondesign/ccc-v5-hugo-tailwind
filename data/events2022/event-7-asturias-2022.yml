@@ -32,15 +32,18 @@ stages:
   theme: Blue
   background_image: ''
 - Stage: Stage 63
-  Locations: Pola Di Lena Loop
-  Stats: ''
-  Mainclimbs: ''
-  Description: ''
-  stage_image: ''
+  Locations: Potes to Reinosa
+  Stats: 210kms / 4540m
+  Mainclimbs: Palombera, Alto Campoo
+  Description: 'Farewell to the Asturias, of which we have a superb final view from
+    the Puerto de Palombera. Then into Castille y Leon before our return to Cantabria.
+    The Campoo climb takes us nearly up to 2000m : epic, rugged landscape makes it
+    a very special place. '
+  stage_image: "/images/img_4320.JPG"
   stage_map: ''
-  make_public: false
+  make_public: true
   stage_image_alt: ''
-  theme: White
+  theme: Blue
   background_image: ''
 - Stage: Stage 64
   Locations: Pola &ndash; Cangas
