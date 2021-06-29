@@ -49,9 +49,9 @@ The list of planned events up to 2022 can be [found on the about page](/about#th
 
 The Cent Cols Challenge is owned by:
 
-A2OEApS, Hartmannsjej, 56
+A2OEApS, Hartmannsvej, 56
 
-292 Charlottenlund, Denmark.
+2920 Charlottenlund, Denmark.
 
 Company number : 41748699
 
