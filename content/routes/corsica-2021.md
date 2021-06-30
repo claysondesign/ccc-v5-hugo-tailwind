@@ -9,8 +9,8 @@ secondary_image: "/images/IMG_5475.JPG"
 secondary_image_alt: ''
 route_date: "  9-19 October ( Places still available.)"
 booking_link: ''
-intro_text: Even the roads themselves somehow reflect the 'free spirit' of the "Island  of
-  Beauty"!
+intro_text: Even the roads themselves somehow reflect the 'free spirit' of the "Island
+  of Beauty"!
 Subhead: ''
 featured_image_credit: ''
 key_testimonial: ''
