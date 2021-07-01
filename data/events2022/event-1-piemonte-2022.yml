@@ -12,7 +12,7 @@ stages:
     very tough climbs. The beautifully harsh Passo Fittanze, climbed from Avio, will
     be the undisputed centrepiece of this opening stage. '
   stage_image: "/images/DSC05953.jpg"
-  stage_map: https://ridewithgps.com/routes/31523637
+  stage_map: ''
   make_public: true
   stage_image_alt: Mountains
   theme: White
@@ -26,7 +26,7 @@ stages:
     so well known for defining the true beauty of Lombardy and Piemont. As well as
     some fabulous new climbs, this stage also includes a ferry crossing on Lake Garda. '
   stage_image: "/images/149.jpg"
-  stage_map: https://ridewithgps.com/routes/31561929
+  stage_map: ''
   make_public: true
   stage_image_alt: ''
   theme: Red
@@ -38,7 +38,7 @@ stages:
   Description: 'Into the heart of Lombardy via some of the real classics of this region,
     ending the stage on the Bellagio climb after another ferry crossing (Lake Como). '
   stage_image: "/images/DSC06027.jpg"
-  stage_map: https://ridewithgps.com/routes/31566398
+  stage_map: ''
   make_public: true
   stage_image_alt: ''
   theme: Transparent
