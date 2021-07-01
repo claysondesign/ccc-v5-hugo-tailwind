@@ -51,7 +51,7 @@ stages:
     over (hills) to Lake Lugano for a couple of Swiss climbs before heading down (up)
     to Varese. Quite a menu!
   stage_image: "/images/DSC05958-1.jpg"
-  stage_map: https://ridewithgps.com/routes/31345246
+  stage_map: ''
   make_public: true
   stage_image_alt: ''
   theme: Blue
@@ -64,7 +64,7 @@ stages:
     truly exceptional. (This is a new version of stage 3 of CCC Piemonte.) It will
     bring us to Biella, a beautiful town, for our first Rest Day. '
   stage_image: "/images/DSC05986.jpg"
-  stage_map: https://ridewithgps.com/routes/31602854
+  stage_map: ''
   make_public: true
   stage_image_alt: ''
   theme: Transparent
@@ -89,7 +89,7 @@ stages:
   Description: 'Leaving Lombardy behind us and hitting the first climbs of the ''Italian
     Alps'' : two real classics will prepare us for the Giants to follow next. '
   stage_image: "/images/10626727_582967055145205_7851204308658794672_n.jpg"
-  stage_map: https://ridewithgps.com/routes/31647303
+  stage_map: ''
   make_public: true
   stage_image_alt: ''
   theme: White
@@ -102,7 +102,7 @@ stages:
     of the best scenery in the High Maritime Alps : the Gorges de Dalius, for example,
     taking us up towards our mountain-top finish in Valberg. '
   stage_image: "/images/IMG_3268.JPG"
-  stage_map: https://ridewithgps.com/routes/31647362
+  stage_map: ''
   make_public: true
   stage_image_alt: ''
   theme: Red
@@ -115,7 +115,7 @@ stages:
     and into Liguria (back into Italy)  to check out some exciting new roads on our
     way down to the wonderful town of San Remo. Pure Mediterranean magic!
   stage_image: "/images/IMG_2500.JPG"
-  stage_map: https://ridewithgps.com/routes/31647451
+  stage_map: ''
   make_public: true
   stage_image_alt: ''
   theme: Blue
