@@ -10,7 +10,7 @@ stages:
   Description: The Classic loop stage that has opened the CCC S Alps forever. I just
     love this route. But with a cheeky gravel climb bonus this time!
   stage_image: "/images/IMG_0667.jpg"
-  stage_map: https://ridewithgps.com/routes/31649412
+  stage_map: ''
   make_public: true
   stage_image_alt: ''
   theme: Blue
@@ -38,7 +38,7 @@ stages:
     Col du Corobin, has often featured in the Paris-Nice race. A tough wooded climb
     with a glorious descent into Digne -les-Bains. '
   stage_image: "/images/stage 3 c.jpg"
-  stage_map: https://ridewithgps.com/routes/31651425
+  stage_map: ''
   make_public: true
   stage_image_alt: ''
   theme: Red
@@ -50,7 +50,7 @@ stages:
   Description: On our way north the "Trio Terrible" loop (Allos,Champs,Cayolle) cannot
     be missed. Surely one of the best combo's road riding in the mountains can offer.
   stage_image: "/images/IMG_5631-1.JPG"
-  stage_map: https://ridewithgps.com/routes/31703807
+  stage_map: ''
   make_public: true
   stage_image_alt: ''
   theme: Red
