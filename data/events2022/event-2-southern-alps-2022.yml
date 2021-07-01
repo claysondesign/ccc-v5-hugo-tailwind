@@ -62,7 +62,7 @@ stages:
   Description: 'Four Mighty Giants make the profile of this epic stage pretty simple.
     The first time the  ''up & back'' Granon climb will feature in a CCC. '
   stage_image: "/images/IMG_0842.JPG"
-  stage_map: https://ridewithgps.com/routes/31710499
+  stage_map: ''
   make_public: true
   stage_image_alt: ''
   theme: Red
@@ -74,7 +74,7 @@ stages:
   Description: 'A tough but majestic loop around St Jean de Maurienne is the centrepiece
     of this typical CCC take on these Classic climbs. '
   stage_image: "/images/img_5797.jpg"
-  stage_map: https://ridewithgps.com/routes/31710975
+  stage_map: ''
   make_public: true
   stage_image_alt: ''
   theme: White
@@ -87,7 +87,7 @@ stages:
     Madeleine via the "old road" opens the stage, then we take on the best climbs
     around Moutiers. '
   stage_image: "/images/img_5810.JPG"
-  stage_map: https://ridewithgps.com/routes/31711019
+  stage_map: ''
   make_public: true
   stage_image_alt: ''
   theme: White
@@ -99,7 +99,7 @@ stages:
   Description: 'Another stage up there with the Giants. La Loze, a new climb for the
     Tour de France in 2020, will be the main attraction.  '
   stage_image: "/images/img_0968.JPG"
-  stage_map: https://ridewithgps.com/routes/31711152
+  stage_map: ''
   make_public: true
   stage_image_alt: ''
   theme: White
@@ -111,7 +111,7 @@ stages:
   Description: Superb views over Alpine peaks and lakes and the infamous Col du Chat.
     Mountain bliss!
   stage_image: "/images/8xll-1.JPG"
-  stage_map: https://ridewithgps.com/routes/31711170
+  stage_map: ''
   make_public: true
   stage_image_alt: ''
   theme: Blue
@@ -123,7 +123,7 @@ stages:
   Description: 'The picturesque Chartreuse region makes this a perfect way to end
     this Alpine chapter of the 65RIDE. '
   stage_image: "/images/DSC06286.jpg"
-  stage_map: https://ridewithgps.com/routes/31711227
+  stage_map: ''
   make_public: true
   stage_image_alt: ''
   theme: Blue
