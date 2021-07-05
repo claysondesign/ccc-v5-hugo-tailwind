@@ -34,3 +34,5 @@ fields:
 - type: datetime
   name: date
   label: date
+pages:
+- content/the-65-ride-2023/traverse-test.md
