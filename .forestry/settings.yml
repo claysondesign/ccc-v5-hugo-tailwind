@@ -5,6 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/the-65-ride-2023
+  label: Traverse
+  create: all
+  match: "**/*"
+- type: directory
   path: content/postcards
   label: Postcards
   create: all
