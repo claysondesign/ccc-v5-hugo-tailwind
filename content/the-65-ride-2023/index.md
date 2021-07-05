@@ -16,4 +16,4 @@ menu:
 The events will cover Piemonte, Southern Alps, Northern Alps, Vercors, Provence, Ardeche, Cevennes, Haut-Languedoc, East & West Pyrenees, Andorra, Basque Country, Cantabrico, Picos d'Europa and Asturias.
 {{% /routedescription-65 %}}
 
-{{< testimonial-65 cite="Phil Deeker" >}} For my last Big Ride in the mountains I plan to include as many of the roads as possible that I just couldn't fit in on previous CCC route designs. I want to surprise myself as well as my clients! {{< /testimonial-65 >}}
+{{< testimonial-65 cite="Phil Deeker" >}} For my last Big Ride in the mountains I plan to include as many of the roads as possible that I just couldn't fit in on previous CCC route designs. I want to surprise myself as well as my clients!{{< /testimonial-65 >}}
